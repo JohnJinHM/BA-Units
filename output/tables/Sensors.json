@@ -1,0 +1,299 @@
+[
+  {
+    "Id": 1,
+    "Name": "Good Optics",
+    "IsDefault": true,
+    "OpticsGround": 875.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1100.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 2,
+    "Name": "Medium Optics",
+    "IsDefault": true,
+    "OpticsGround": 600.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 800.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 3,
+    "Name": "Very Good Optics",
+    "IsDefault": true,
+    "OpticsGround": 1000.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1250.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 4,
+    "Name": "Bad Optics",
+    "IsDefault": true,
+    "OpticsGround": 500.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 700.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 5,
+    "Name": "Exceptional Optics",
+    "IsDefault": true,
+    "OpticsGround": 1200.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 6,
+    "Name": "Optics Plane Air Superiority",
+    "IsDefault": true,
+    "OpticsGround": 0.0,
+    "OpticsHighAltitude": 6000.0,
+    "OpticsLowAltitude": 2000.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 7,
+    "Name": "Optics SHORAD +Bad",
+    "IsDefault": true,
+    "OpticsGround": 500.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 8,
+    "Name": "Optics SAM HA + Bad",
+    "IsDefault": true,
+    "OpticsGround": 500.0,
+    "OpticsHighAltitude": 2000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 9,
+    "Name": "Optics Plane Ground Attack",
+    "IsDefault": true,
+    "OpticsGround": 0.0,
+    "OpticsHighAltitude": 3000.0,
+    "OpticsLowAltitude": 2000.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 10,
+    "Name": "Optics Arleigh Solo",
+    "IsDefault": true,
+    "OpticsGround": 1200.0,
+    "OpticsHighAltitude": 2000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 12,
+    "Name": "Good Optics MH6",
+    "IsDefault": false,
+    "OpticsGround": 875.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1100.0,
+    "ModelFileName": "Optic"
+  },
+  {
+    "Id": 13,
+    "Name": "Good Optics NonDefault",
+    "IsDefault": false,
+    "OpticsGround": 875.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1100.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 14,
+    "Name": "Very Good Optics NonDefault",
+    "IsDefault": false,
+    "OpticsGround": 1000.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1250.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 15,
+    "Name": "Exceptional Optics NonDefault",
+    "IsDefault": false,
+    "OpticsGround": 1200.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 17,
+    "Name": "Optics SHORAD +Med ND",
+    "IsDefault": false,
+    "OpticsGround": 600.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 18,
+    "Name": "Optics SHORAD +Med ",
+    "IsDefault": true,
+    "OpticsGround": 600.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 19,
+    "Name": "Optics SHORAD +Bad ND",
+    "IsDefault": false,
+    "OpticsGround": 500.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 20,
+    "Name": "Exceptional Optics Model Radar",
+    "IsDefault": false,
+    "OpticsGround": 1200.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": "Radar"
+  },
+  {
+    "Id": 22,
+    "Name": "Exceptional Optics NonDefault Model",
+    "IsDefault": false,
+    "OpticsGround": 1200.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": "Optics"
+  },
+  {
+    "Id": 23,
+    "Name": "Medium Plus Optics",
+    "IsDefault": true,
+    "OpticsGround": 700.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 900.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 24,
+    "Name": "Optics Plane AC-130/Drone",
+    "IsDefault": true,
+    "OpticsGround": 1200.0,
+    "OpticsHighAltitude": 3000.0,
+    "OpticsLowAltitude": 2000.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 25,
+    "Name": "Blind Optics",
+    "IsDefault": true,
+    "OpticsGround": 50.0,
+    "OpticsHighAltitude": 0.0,
+    "OpticsLowAltitude": 50.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 26,
+    "Name": "Very Good Optics NonDefault Model",
+    "IsDefault": false,
+    "OpticsGround": 1000.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1250.0,
+    "ModelFileName": "Optics"
+  },
+  {
+    "Id": 27,
+    "Name": "Optics SAM HA + Med [Optics]",
+    "IsDefault": false,
+    "OpticsGround": 600.0,
+    "OpticsHighAltitude": 2000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": "Optics"
+  },
+  {
+    "Id": 28,
+    "Name": "Medium Plus Optics NonDefault",
+    "IsDefault": false,
+    "OpticsGround": 700.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 900.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 29,
+    "Name": "Medium Plus Optics Model",
+    "IsDefault": true,
+    "OpticsGround": 700.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 900.0,
+    "ModelFileName": "Optics"
+  },
+  {
+    "Id": 30,
+    "Name": "Optics SHORAD +Med ND Model",
+    "IsDefault": false,
+    "OpticsGround": 600.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": "Optics"
+  },
+  {
+    "Id": 31,
+    "Name": "Medium Plus Optics SprutHelper",
+    "IsDefault": true,
+    "OpticsGround": 700.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 900.0,
+    "ModelFileName": "SprutSDM"
+  },
+  {
+    "Id": 32,
+    "Name": "Optics DroneHA RQ4",
+    "IsDefault": true,
+    "OpticsGround": 2750.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 33,
+    "Name": "Optics Drone 2250",
+    "IsDefault": true,
+    "OpticsGround": 2250.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": "Optics"
+  },
+  {
+    "Id": 34,
+    "Name": "Optics Drone 2000",
+    "IsDefault": true,
+    "OpticsGround": 2000.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 35,
+    "Name": "Optics Carrier Solo",
+    "IsDefault": true,
+    "OpticsGround": 1200.0,
+    "OpticsHighAltitude": 2500.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 36,
+    "Name": "Optics SAM HA + Bad ND",
+    "IsDefault": false,
+    "OpticsGround": 500.0,
+    "OpticsHighAltitude": 2000.0,
+    "OpticsLowAltitude": 1600.0,
+    "ModelFileName": null
+  }
+]

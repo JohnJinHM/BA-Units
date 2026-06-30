@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "Name": "Russia",
+    "UIName": "Russia",
+    "FlagFileName": "rus flag",
+    "MaxPoints": 10000,
+    "Hidden": false,
+    "ContentMembership": -1
+  },
+  {
+    "Id": 2,
+    "Name": "USA",
+    "UIName": "USA",
+    "FlagFileName": "usa flag",
+    "MaxPoints": 10000,
+    "Hidden": false,
+    "ContentMembership": -1
+  },
+  {
+    "Id": 3,
+    "Name": "Editor",
+    "UIName": "Editor",
+    "FlagFileName": null,
+    "MaxPoints": 800000,
+    "Hidden": true,
+    "ContentMembership": -1
+  }
+]

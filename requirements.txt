@@ -1,0 +1,6 @@
+# Core extraction (decrypt + JSON export + localization)
+pycryptodome>=3.20
+
+# Only needed for tools/recover_key.py (re-recovering the AES key after a game update)
+capstone>=5.0
+pefile>=2023.2.7

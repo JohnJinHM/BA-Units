@@ -1,0 +1,4835 @@
+[
+  {
+    "Id": 3,
+    "UnitId": 22,
+    "Name": "Armor StrykerICV",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 4,
+    "UnitId": 22,
+    "Name": "Weapons Stryker ICV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 5,
+    "UnitId": 21,
+    "Name": "Armor Stryker RV",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 6,
+    "UnitId": 27,
+    "Name": "Weapons M6Linebacker",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 7,
+    "UnitId": 29,
+    "Name": "Armor LAV-25",
+    "Type": 5,
+    "UIName": "Custom_Slot_Modernization",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 8,
+    "UnitId": 30,
+    "Name": "Armor LAV-AT",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 9,
+    "UnitId": 30,
+    "Name": "Weapons LAVAT",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 10,
+    "UnitId": 24,
+    "Name": "Armor Stryker MGS",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 11,
+    "UnitId": 34,
+    "Name": "Armor LAV-AD",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 12,
+    "UnitId": 35,
+    "Name": "Weapons M1117 Guardian ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 13,
+    "UnitId": 33,
+    "Name": "Weapons Stryker ESV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 14,
+    "UnitId": 16,
+    "Name": "Armor M2A3 Bradley",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 15,
+    "UnitId": 15,
+    "Name": "Armor M2A2 Bradley",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 16,
+    "UnitId": 33,
+    "Name": "Armor Stryker ESV",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 17,
+    "UnitId": 25,
+    "Name": "Armor Stryker ATGM",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 18,
+    "UnitId": 26,
+    "Name": "Armor M2A3 Bradley BEV",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 19,
+    "UnitId": 21,
+    "Name": "Weapons Stryker RV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 20,
+    "UnitId": 28,
+    "Name": "Armor Bradley M7 FIST",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 21,
+    "UnitId": 27,
+    "Name": "Armor M6Linebacker",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 22,
+    "UnitId": 37,
+    "Name": "Armor Bradley M3A3",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 23,
+    "UnitId": 41,
+    "Name": "Armor AMPV",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 24,
+    "UnitId": 41,
+    "Name": "Weapons AMPV ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 25,
+    "UnitId": 10,
+    "Name": "Weapons Avenger",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 26,
+    "UnitId": 10,
+    "Name": "Armor Avenger",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 33,
+    "UnitId": 20,
+    "Name": "Armor Stryker SHORAD",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 34,
+    "UnitId": 48,
+    "Name": "Weapons HMMWV GMV ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 36,
+    "UnitId": 50,
+    "Name": "Armor HMMWV Hawkeye",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 37,
+    "UnitId": 47,
+    "Name": "Armor HMMWV ",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 38,
+    "UnitId": 51,
+    "Name": "Armor HMMWV RV",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 39,
+    "UnitId": 6,
+    "Name": "Armor HMMWV TOW",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 40,
+    "UnitId": 47,
+    "Name": "Weapons HMMWV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 41,
+    "UnitId": 6,
+    "Name": "Weapons HMMWV TOW",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 42,
+    "UnitId": 11,
+    "Name": "Armor HIMARS",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 44,
+    "UnitId": 11,
+    "Name": "Weapons HIMARS",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 46,
+    "UnitId": 53,
+    "Name": "Armor M1A1HC",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 47,
+    "UnitId": 54,
+    "Name": "Armor M1A1FEP",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 49,
+    "UnitId": 19,
+    "Name": "Weapons Apache InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 50,
+    "UnitId": 19,
+    "Name": "Weapons Apache OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 51,
+    "UnitId": 78,
+    "Name": "Armor AAVP7A1",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 52,
+    "UnitId": 49,
+    "Name": "Weapons GMV M1288",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 53,
+    "UnitId": 52,
+    "Name": "Armor LMTV",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 54,
+    "UnitId": 52,
+    "Name": "Weapons LMTV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 55,
+    "UnitId": 84,
+    "Name": "Armor MTVR",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 56,
+    "UnitId": 84,
+    "Name": "Weapons MTVR",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 57,
+    "UnitId": 86,
+    "Name": "Weapons Viper InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": "",
+    "Order": 0
+  },
+  {
+    "Id": 58,
+    "UnitId": 86,
+    "Name": "Weapons Viper OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 59,
+    "UnitId": 86,
+    "Name": "Weapons Viper WingtipPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Wingtips",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 60,
+    "UnitId": 87,
+    "Name": "Weapons AH1W InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 61,
+    "UnitId": 87,
+    "Name": "Weapons AH1W OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 63,
+    "UnitId": 89,
+    "Name": "Armor BMD4M",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 64,
+    "UnitId": 90,
+    "Name": "Weapons BMD2",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 68,
+    "UnitId": 99,
+    "Name": "Weapons IFAV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": "",
+    "Order": 0
+  },
+  {
+    "Id": 74,
+    "UnitId": 103,
+    "Name": "Weapons InnerPylon MQ9",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 75,
+    "UnitId": 46,
+    "Name": "Weapons InnerPylons Ka52",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 76,
+    "UnitId": 46,
+    "Name": "Weapons MiddlePylons Ka52",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 77,
+    "UnitId": 46,
+    "Name": "Weapons OuterPylon KA52",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 78,
+    "UnitId": 106,
+    "Name": "Weapons AH6 LeftPylon",
+    "Type": 3,
+    "UIName": "Custom_Slot_Portside_pylon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 79,
+    "UnitId": 106,
+    "Name": "Weapons RightPylons AH6",
+    "Type": 3,
+    "UIName": "Custom_Slot_Starboard_pylon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 80,
+    "UnitId": 102,
+    "Name": "Weapons MiddlePylons MI24VP",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 81,
+    "UnitId": 102,
+    "Name": "Weapons OuterPylons MI24VP",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 82,
+    "UnitId": 107,
+    "Name": "Weapons InnerPylons MI24K",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 83,
+    "UnitId": 107,
+    "Name": "Weapons OuterPylons MI24K",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 85,
+    "UnitId": 79,
+    "Name": "Optics MH6",
+    "Type": 4,
+    "UIName": "Custom_Slot_Sensors",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 86,
+    "UnitId": 40,
+    "Name": "Weapons AMPV MC HullTurrets",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 87,
+    "UnitId": 40,
+    "Name": "Armory AMPV MC ",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 88,
+    "UnitId": 141,
+    "Name": "Weapons BTRD",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 89,
+    "UnitId": 7,
+    "Name": "Weapons MI8MTV5 Loadout",
+    "Type": 3,
+    "UIName": "Custom_Slot_Rear_Pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 94,
+    "UnitId": 144,
+    "Name": "Variant Sprut",
+    "Type": 1,
+    "UIName": "Custom_Slot_Modernization",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 95,
+    "UnitId": 145,
+    "Name": "Weapons InnerPylons MI8AMTSH",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 96,
+    "UnitId": 145,
+    "Name": "Weapons MiddlePylons MI8AMTSH",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 97,
+    "UnitId": 145,
+    "Name": "Weapons OuterPylons MI8AMTSH",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 98,
+    "UnitId": 23,
+    "Name": "Weapons Naparnik",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 99,
+    "UnitId": 81,
+    "Name": "Weapons UH60M",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 100,
+    "UnitId": 151,
+    "Name": "Weapons BMD_Kornet",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 101,
+    "UnitId": 152,
+    "Name": "Weapons SARMAT2",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 102,
+    "UnitId": 154,
+    "Name": "Armory LAVM",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 103,
+    "UnitId": 159,
+    "Name": "Weapons UH1Y PintleTurrets",
+    "Type": 3,
+    "UIName": "Custom_Slot_Door_guns",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 104,
+    "UnitId": 159,
+    "Name": "Weapons UH1Y Pylon",
+    "Type": 3,
+    "UIName": "Custom_Slot_Rear_Pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 105,
+    "UnitId": 160,
+    "Name": "Weapons AV8B NA Centerline",
+    "Type": 3,
+    "UIName": "Custom_Slot_Centerline",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 106,
+    "UnitId": 160,
+    "Name": "Weapons AV8B NA MiddlePylons ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 107,
+    "UnitId": 160,
+    "Name": "Weapons AV8B NA OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 108,
+    "UnitId": 160,
+    "Name": "Weapons AV8B NA InnerPylons ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 113,
+    "UnitId": 162,
+    "Name": "Weapons M109A7",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 114,
+    "UnitId": 162,
+    "Name": "Armor M109A7",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 115,
+    "UnitId": 163,
+    "Name": "Armor Patriot PAC2",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 116,
+    "UnitId": 164,
+    "Name": "Armory LVSR",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 117,
+    "UnitId": 164,
+    "Name": "Weapons LVSR",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 118,
+    "UnitId": 163,
+    "Name": "Weapons Patriot PAC2",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 120,
+    "UnitId": 168,
+    "Name": "Weapons SU34 OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 121,
+    "UnitId": 169,
+    "Name": "Weapons SU35S OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 122,
+    "UnitId": 103,
+    "Name": "Weapons OuterPylons MQ9",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 123,
+    "UnitId": 170,
+    "Name": "Weapons Inohodets InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 124,
+    "UnitId": 170,
+    "Name": "Weapons Inohodets OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 125,
+    "UnitId": 170,
+    "Name": "Optics Inohodets",
+    "Type": 4,
+    "UIName": "Custom_Slot_Sensors",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 126,
+    "UnitId": 173,
+    "Name": "Weapons BRDM2",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 127,
+    "UnitId": 173,
+    "Name": "Armory BRDM2",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 128,
+    "UnitId": 8,
+    "Name": "Weapons InnerPylons Longbow",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 129,
+    "UnitId": 8,
+    "Name": "Weapons OuterPylons Longbow",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 131,
+    "UnitId": 100,
+    "Name": "Weapons MiddlePylons Mi24P",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 132,
+    "UnitId": 100,
+    "Name": "Weapons OuterPylons MI24P",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 134,
+    "UnitId": 80,
+    "Name": "Weapons MV22B",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 135,
+    "UnitId": 163,
+    "Name": "Weapons Patriot PAC2 MG",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 136,
+    "UnitId": 31,
+    "Name": "Weapon TOR",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 139,
+    "UnitId": 180,
+    "Name": "Weapons ACV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 140,
+    "UnitId": 183,
+    "Name": "Weapons M8 AGS",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 141,
+    "UnitId": 183,
+    "Name": "Armory M8 AGS",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 142,
+    "UnitId": 184,
+    "Name": "Weapons RSOV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 143,
+    "UnitId": 185,
+    "Name": "Weapons M113A3",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 144,
+    "UnitId": 185,
+    "Name": "Armory M113A3",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 146,
+    "UnitId": 186,
+    "Name": "Armory M981",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 147,
+    "UnitId": 187,
+    "Name": "Armory M901",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 149,
+    "UnitId": 188,
+    "Name": "Armory PIVADS",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 150,
+    "UnitId": 189,
+    "Name": "Weapons M1064A3",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 151,
+    "UnitId": 189,
+    "Name": "Armory M1064A3",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 152,
+    "UnitId": 190,
+    "Name": "Weapons M270A2",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 153,
+    "UnitId": 191,
+    "Name": "Armory M1A2C",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 163,
+    "UnitId": 198,
+    "Name": "Weapons TOS1",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 164,
+    "UnitId": 198,
+    "Name": "Armory TOS1",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 165,
+    "UnitId": 199,
+    "Name": "Weapons MTLB",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 166,
+    "UnitId": 199,
+    "Name": "Armory MTLB",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 167,
+    "UnitId": 200,
+    "Name": "Weapons MTLB SPAAG",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 168,
+    "UnitId": 200,
+    "Name": "Armory MTLB SPAAG",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 169,
+    "UnitId": 201,
+    "Name": "Weapons Sturm",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 170,
+    "UnitId": 202,
+    "Name": "Weapons MTLB SAM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 171,
+    "UnitId": 203,
+    "Name": "Weapons MTLB Mortar",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 172,
+    "UnitId": 204,
+    "Name": "Armory BTO",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 173,
+    "UnitId": 205,
+    "Name": "Weapons Gvozdika",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 174,
+    "UnitId": 206,
+    "Name": "Weapons BTRZD Skrezhet",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 175,
+    "UnitId": 207,
+    "Name": "Weapons NonaS",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 176,
+    "UnitId": 3,
+    "Name": "Weapons BMP3",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 177,
+    "UnitId": 3,
+    "Name": "Armory BMP3",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 178,
+    "UnitId": 208,
+    "Name": "Weapons BMP3F",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 179,
+    "UnitId": 208,
+    "Name": "Abilities BMP3F",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 180,
+    "UnitId": 209,
+    "Name": "Weapons BRM3K",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 181,
+    "UnitId": 210,
+    "Name": "Weapons Vena",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 182,
+    "UnitId": 211,
+    "Name": "Weapons Derivatsiya",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 183,
+    "UnitId": 212,
+    "Name": "Weapons BT3F",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 184,
+    "UnitId": 212,
+    "Name": "Armory BT3F",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 185,
+    "UnitId": 213,
+    "Name": "Weapons BMP ATGM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 186,
+    "UnitId": 214,
+    "Name": "Weapons BMP2",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 187,
+    "UnitId": 214,
+    "Name": "Armory BMP2",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 188,
+    "UnitId": 215,
+    "Name": "Armory BRM1K",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 189,
+    "UnitId": 216,
+    "Name": "Armory BMO1",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 190,
+    "UnitId": 1,
+    "Name": "Weapons BTR82",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 191,
+    "UnitId": 1,
+    "Name": "Armory BTR82",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 192,
+    "UnitId": 217,
+    "Name": "Turret BRDM3",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 193,
+    "UnitId": 217,
+    "Name": "Armory BRDM3",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 194,
+    "UnitId": 218,
+    "Name": "Armory NonaSVK",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 196,
+    "UnitId": 156,
+    "Name": "Weapons S300",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 197,
+    "UnitId": 221,
+    "Name": "Weapons Shilka ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 198,
+    "UnitId": 222,
+    "Name": "Weapons Ural4320",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 199,
+    "UnitId": 222,
+    "Name": "Armory URAL4320",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 201,
+    "UnitId": 226,
+    "Name": "Weapons Iskander",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 203,
+    "UnitId": 228,
+    "Name": "Armory Ural5323",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 204,
+    "UnitId": 230,
+    "Name": "Weapons PT76",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 205,
+    "UnitId": 230,
+    "Name": "Armory PT-76",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 206,
+    "UnitId": 230,
+    "Name": "Engine PT76",
+    "Type": 2,
+    "UIName": "Custom_Slot_Engine",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 207,
+    "UnitId": 231,
+    "Name": "Weapons BUK",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 208,
+    "UnitId": 232,
+    "Name": "Weapons Koalitsiya",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 209,
+    "UnitId": 233,
+    "Name": "Weapons Tunguska",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 210,
+    "UnitId": 234,
+    "Name": "Weapons Akatsiya",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 211,
+    "UnitId": 235,
+    "Name": "Armory BMOT",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 212,
+    "UnitId": 236,
+    "Name": "UnitVariant T90",
+    "Type": 1,
+    "UIName": "Custom_Slot_Modernization",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 213,
+    "UnitId": 237,
+    "Name": "Weapon T90M Razvedchik",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 214,
+    "UnitId": 237,
+    "Name": "Optics T90M Razvedchik",
+    "Type": 4,
+    "UIName": "Custom_Slot_Sensors",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 215,
+    "UnitId": 238,
+    "Name": "Weapons T90M",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 216,
+    "UnitId": 238,
+    "Name": "Armory T90M",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 217,
+    "UnitId": 158,
+    "Name": "UnitVariant T80BV",
+    "Type": 1,
+    "UIName": "Custom_Slot_Modernization",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 218,
+    "UnitId": 239,
+    "Name": "UnitVariant T80U",
+    "Type": 1,
+    "UIName": "Custom_Slot_Modernization",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 219,
+    "UnitId": 240,
+    "Name": "Weapons BMPT",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 220,
+    "UnitId": 240,
+    "Name": "Armory BMPT",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 221,
+    "UnitId": 241,
+    "Name": "Weapons PLS",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 222,
+    "UnitId": 241,
+    "Name": "Armory PLS",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 223,
+    "UnitId": 242,
+    "Name": "Weapons HEMMT",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 224,
+    "UnitId": 242,
+    "Name": "Armory HEMMT ",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 225,
+    "UnitId": 243,
+    "Name": "Armory M1A2 SEP2",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 226,
+    "UnitId": 244,
+    "Name": "Armory M1A2SEP",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 227,
+    "UnitId": 245,
+    "Name": "Armory M1A2",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 228,
+    "UnitId": 246,
+    "Name": "Weapons M548A3",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 230,
+    "UnitId": 249,
+    "Name": "Weapons HMMWV RCW",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 231,
+    "UnitId": 249,
+    "Name": "Armory HMMWV RCW",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 232,
+    "UnitId": 250,
+    "Name": "Armor Centurion",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 233,
+    "UnitId": 251,
+    "Name": "Weapons PatriotPAC3 Missiles",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 234,
+    "UnitId": 251,
+    "Name": "Weapons Patriot PAC3 MG",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 235,
+    "UnitId": 251,
+    "Name": "Armory Patriot PAC3",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 236,
+    "UnitId": 252,
+    "Name": "Weapons BRDM ATGM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 237,
+    "UnitId": 9,
+    "Name": "Weapons T72B",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 238,
+    "UnitId": 9,
+    "Name": "Armory T72B",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 239,
+    "UnitId": 9,
+    "Name": "Engine T72B",
+    "Type": 2,
+    "UIName": "Custom_Slot_Engine",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 240,
+    "UnitId": 157,
+    "Name": "Armory T72B3",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 241,
+    "UnitId": 157,
+    "Name": "Engine T72B3",
+    "Type": 2,
+    "UIName": "Custom_Slot_Engine",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 242,
+    "UnitId": 253,
+    "Name": "Weapons Bumerang",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 244,
+    "UnitId": 253,
+    "Name": "Armor Bumerang",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 245,
+    "UnitId": 254,
+    "Name": "Weapons Kurganets",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 246,
+    "UnitId": 254,
+    "Name": "Ability Kurganets",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 247,
+    "UnitId": 255,
+    "Name": "Weapons Barbaris",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 248,
+    "UnitId": 256,
+    "Name": "Weapons InnerPylons MI28",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 249,
+    "UnitId": 256,
+    "Name": "Weapons OuterPylons MI28",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 252,
+    "UnitId": 259,
+    "Name": "Weapons CV22 ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 253,
+    "UnitId": 262,
+    "Name": "Weapons MH60M",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 254,
+    "UnitId": 263,
+    "Name": "Weapons InnerPylons MI35M",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 255,
+    "UnitId": 263,
+    "Name": "Weapons MI35M LeftPylon",
+    "Type": 3,
+    "UIName": "Custom_Slot_Portside_pylon",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 256,
+    "UnitId": 266,
+    "Name": "Weapons InnerPylons Mi8MTV2",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 257,
+    "UnitId": 266,
+    "Name": "Weapons OuterPylons Mi8MTV2",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 258,
+    "UnitId": 267,
+    "Name": "Weapons Kiowa LeftPylon",
+    "Type": 3,
+    "UIName": "Custom_Slot_Portside_pylon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 259,
+    "UnitId": 267,
+    "Name": "Weapons Kiowa RightPylon",
+    "Type": 3,
+    "UIName": "Custom_Slot_Starboard_pylon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 260,
+    "UnitId": 267,
+    "Name": "Optics Kiowa",
+    "Type": 4,
+    "UIName": "Custom_Slot_Sensors",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 261,
+    "UnitId": 269,
+    "Name": "Weapons InnerPylons MI24PN",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 262,
+    "UnitId": 269,
+    "Name": "Weapons MI24PN LeftPylon",
+    "Type": 3,
+    "UIName": "Custom_Slot_Portside_pylon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 263,
+    "UnitId": 270,
+    "Name": "Weapons InnerPylons AH64E",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 264,
+    "UnitId": 270,
+    "Name": "Weapons OuterPylons AH64E",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 265,
+    "UnitId": 270,
+    "Name": "Weapons WingtipPylons AH64E",
+    "Type": 3,
+    "UIName": "Custom_Slot_Wingtips",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 267,
+    "UnitId": 271,
+    "Name": "Weapons InnerPylons Ka52K",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 268,
+    "UnitId": 271,
+    "Name": "Weapons OuterPylons Ka52K",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 269,
+    "UnitId": 272,
+    "Name": "Weapons InnerPylons MH60M DAP",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 270,
+    "UnitId": 272,
+    "Name": "Weapons OuterPylons MH60M DAP",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 271,
+    "UnitId": 273,
+    "Name": "Weapons Ka29 Hull",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 272,
+    "UnitId": 273,
+    "Name": "Weapons InnerPylons KA29",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 273,
+    "UnitId": 273,
+    "Name": "Weapons OuterPylons KA29",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 274,
+    "UnitId": 17,
+    "Name": "Weapons CH47",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 275,
+    "UnitId": 274,
+    "Name": "Weapons Mh47G Front",
+    "Type": 3,
+    "UIName": "Custom_Slot_Front_weapons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 276,
+    "UnitId": 274,
+    "Name": "Weapons MH47G rear",
+    "Type": 3,
+    "UIName": "Custom_Slot_Rear_weapons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 277,
+    "UnitId": 275,
+    "Name": "Weapons CH53K",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 278,
+    "UnitId": 51,
+    "Name": "Weapons HMMWV RV ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 279,
+    "UnitId": 82,
+    "Name": "Weapons M1297 AGMV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 289,
+    "UnitId": 282,
+    "Name": "Weapons A10C OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 290,
+    "UnitId": 282,
+    "Name": "Weapons A10C MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 291,
+    "UnitId": 282,
+    "Name": "Weapons A10C CentralPylons ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Central_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 292,
+    "UnitId": 283,
+    "Name": "Weapons F15C Wings",
+    "Type": 3,
+    "UIName": "Custom_Slot_Wing_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 293,
+    "UnitId": 283,
+    "Name": "Weapons F15C Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 294,
+    "UnitId": 283,
+    "Name": "Mobilty F15C ",
+    "Type": 2,
+    "UIName": "Custom_Slot_Fuel",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 295,
+    "UnitId": 284,
+    "Name": "Weapons F16 BLK70 OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 296,
+    "UnitId": 284,
+    "Name": "Weapons F16 BLK70 MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 297,
+    "UnitId": 284,
+    "Name": "Weapons F16 BLK70 InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 298,
+    "UnitId": 284,
+    "Name": "Weapons F16 BLK70 ECM",
+    "Type": 6,
+    "UIName": "Custom_Slot_ECM",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 299,
+    "UnitId": 285,
+    "Name": "Weapons F16 BLK52 OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 300,
+    "UnitId": 285,
+    "Name": "Weapons F16 BLK52 MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 301,
+    "UnitId": 285,
+    "Name": "Weapons F16 BLK52 InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 302,
+    "UnitId": 285,
+    "Name": "ECM F16 BLK52",
+    "Type": 6,
+    "UIName": "Custom_Slot_ECM",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 303,
+    "UnitId": 286,
+    "Name": "Weapons F16CJ OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 304,
+    "UnitId": 286,
+    "Name": "Weapons F16CJ InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 305,
+    "UnitId": 287,
+    "Name": "Weapon F15E WingPylons1",
+    "Type": 3,
+    "UIName": "Custom_Slot_Wing_pylons",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 306,
+    "UnitId": 287,
+    "Name": "Weapon F15E WingPylons2",
+    "Type": 3,
+    "UIName": "Custom_Slot_Wing_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 307,
+    "UnitId": 287,
+    "Name": "Weapons F15E Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 308,
+    "UnitId": 287,
+    "Name": "Weapons F15E Centerline",
+    "Type": 3,
+    "UIName": "Custom_Slot_Centerline",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 309,
+    "UnitId": 288,
+    "Name": "Weapons AV8B Plus OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 310,
+    "UnitId": 288,
+    "Name": "Weapons AV8B Plus MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 311,
+    "UnitId": 288,
+    "Name": "Weapons AV8B Plus InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 312,
+    "UnitId": 288,
+    "Name": "Weapons AV8B Centerline",
+    "Type": 3,
+    "UIName": "Custom_Slot_Centerline",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 313,
+    "UnitId": 289,
+    "Name": "Weapons F15EX OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 314,
+    "UnitId": 289,
+    "Name": "Ability F15EX Laser",
+    "Type": 6,
+    "UIName": "Custom_Slot_Designation_pod",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 315,
+    "UnitId": 289,
+    "Name": "Weapons F15EX MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 316,
+    "UnitId": 289,
+    "Name": "Weapons F15EX Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 318,
+    "UnitId": 291,
+    "Name": "Weapons FA18C OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 319,
+    "UnitId": 291,
+    "Name": "Weapons FA18C InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 320,
+    "UnitId": 291,
+    "Name": "Weapons FA18C Fuselage ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 322,
+    "UnitId": 292,
+    "Name": "Weapons FA18D OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 323,
+    "UnitId": 292,
+    "Name": "Weapons FA18D InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 324,
+    "UnitId": 292,
+    "Name": "Weapons FA18D Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 325,
+    "UnitId": 293,
+    "Name": "Loadout B1B",
+    "Type": 3,
+    "UIName": "Custom_Slot_Bomb_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 326,
+    "UnitId": 294,
+    "Name": "Weapons F35A LeftBay",
+    "Type": 3,
+    "UIName": "Custom_Slot_Portside_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 327,
+    "UnitId": 294,
+    "Name": "Weapons F35A RightPylon",
+    "Type": 3,
+    "UIName": "Custom_Slot_Starboard_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 328,
+    "UnitId": 295,
+    "Name": "Weapons F35B LeftBay",
+    "Type": 3,
+    "UIName": "Custom_Slot_Portside_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 329,
+    "UnitId": 295,
+    "Name": "Weapons F35B RightBay",
+    "Type": 3,
+    "UIName": "Custom_Slot_Starboard_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 332,
+    "UnitId": 297,
+    "Name": "Weapons F22 LeftBay",
+    "Type": 3,
+    "UIName": "Custom_Slot_Portside_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 333,
+    "UnitId": 297,
+    "Name": "Weapons F22 RightBay",
+    "Type": 3,
+    "UIName": "Custom_Slot_Starboard_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 334,
+    "UnitId": 298,
+    "Name": "Loadout F117",
+    "Type": 3,
+    "UIName": "Custom_Slot_Bomb_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 335,
+    "UnitId": 299,
+    "Name": "Weapons B2 Loadout",
+    "Type": 3,
+    "UIName": "Custom_Slot_Bomb_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 336,
+    "UnitId": 300,
+    "Name": "Weapons B52H Bay",
+    "Type": 3,
+    "UIName": "Custom_Slot_Bomb_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 337,
+    "UnitId": 300,
+    "Name": "Weapons B52H Pylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Wing_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 338,
+    "UnitId": 303,
+    "Name": "Weapons KC130J LeftPylon",
+    "Type": 3,
+    "UIName": "Custom_Slot_Portside_pylon",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 340,
+    "UnitId": 44,
+    "Name": "Weapons SU57 ForwardBay",
+    "Type": 3,
+    "UIName": "Custom_Slot_Forward_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 341,
+    "UnitId": 44,
+    "Name": "Weapons SU57RearBay",
+    "Type": 3,
+    "UIName": "Custom_Slot_Rear_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 342,
+    "UnitId": 169,
+    "Name": "Weapons SU35S InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 343,
+    "UnitId": 169,
+    "Name": "Weapons SU35S Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 344,
+    "UnitId": 168,
+    "Name": "Weapons SU34 MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 345,
+    "UnitId": 168,
+    "Name": "Weapons SU34 InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 346,
+    "UnitId": 168,
+    "Name": "Weapons SU34 Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 347,
+    "UnitId": 306,
+    "Name": "Weapons SU24M2 OuterPylons ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 348,
+    "UnitId": 306,
+    "Name": "Weapons SU24M2 InnerPylons ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 349,
+    "UnitId": 306,
+    "Name": "Weapons SU24M2 Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 350,
+    "UnitId": 307,
+    "Name": "Weapons SU25SM Wingtip",
+    "Type": 3,
+    "UIName": "Custom_Slot_Wingtips",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 351,
+    "UnitId": 307,
+    "Name": "Weapons SU25SM OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 352,
+    "UnitId": 307,
+    "Name": "Weapons SU25SM MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 353,
+    "UnitId": 307,
+    "Name": "Weapons SU25SM InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 354,
+    "UnitId": 308,
+    "Name": "Weapons SU24MP OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 355,
+    "UnitId": 308,
+    "Name": "Weapons SU24MP InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 356,
+    "UnitId": 309,
+    "Name": "Weapons MIG35D OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 357,
+    "UnitId": 309,
+    "Name": "Weapons MIG35D MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 358,
+    "UnitId": 309,
+    "Name": "Weapons MIG35D InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 359,
+    "UnitId": 310,
+    "Name": "Weapons MIG29SMT OuterPylons ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 360,
+    "UnitId": 310,
+    "Name": "Weapons MIG29SMT MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 361,
+    "UnitId": 310,
+    "Name": "Weapons MIG29SMT InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 362,
+    "UnitId": 311,
+    "Name": "Weapons MIG29K OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 363,
+    "UnitId": 311,
+    "Name": "Weapons MIG29K MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 364,
+    "UnitId": 311,
+    "Name": "Weapons MIG29K InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 365,
+    "UnitId": 312,
+    "Name": "Weapons SU33 OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 366,
+    "UnitId": 312,
+    "Name": "Weapons SU33 MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 367,
+    "UnitId": 312,
+    "Name": "Weapons SU33 InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 368,
+    "UnitId": 312,
+    "Name": "Weapons SU33 Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 369,
+    "UnitId": 313,
+    "Name": "Weapons YAK38 OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 370,
+    "UnitId": 313,
+    "Name": "Weapons YAK38 InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 377,
+    "UnitId": 280,
+    "Name": "Weapons Tu22M3 Wings",
+    "Type": 3,
+    "UIName": "Custom_Slot_Wing_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 378,
+    "UnitId": 280,
+    "Name": "Weapons Tu22M3 Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 379,
+    "UnitId": 280,
+    "Name": "Weapons Tu22M3 Bay",
+    "Type": 3,
+    "UIName": "Custom_Slot_Bomb_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 380,
+    "UnitId": 317,
+    "Name": "Weapons Tu160 Bay",
+    "Type": 3,
+    "UIName": "Custom_Slot_Bomb_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 381,
+    "UnitId": 319,
+    "Name": "Weapons SU30SM OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 382,
+    "UnitId": 319,
+    "Name": "Weapons SU30SM MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 383,
+    "UnitId": 319,
+    "Name": "Weapons SU30SM InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 384,
+    "UnitId": 319,
+    "Name": "Weapons SU30SM Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 385,
+    "UnitId": 142,
+    "Name": "Weapons BTRMDM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 386,
+    "UnitId": 4,
+    "Name": "Weapons MSTA",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 387,
+    "UnitId": 328,
+    "Name": "Weapons Forpost",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 388,
+    "UnitId": 329,
+    "Name": "Weapons Korsar",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 389,
+    "UnitId": 329,
+    "Name": "Optics Korsar",
+    "Type": 4,
+    "UIName": "Custom_Slot_Sensors",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 390,
+    "UnitId": 213,
+    "Name": "Armory BMP ATGM",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 392,
+    "UnitId": 153,
+    "Name": "Weapons CH53E",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 393,
+    "UnitId": 102,
+    "Name": "Weapons MainTurret Mi24VP",
+    "Type": 3,
+    "UIName": "Custom_Slot_Front_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 395,
+    "UnitId": 256,
+    "Name": "Optics Mi28N",
+    "Type": 4,
+    "UIName": "Custom_Slot_Sensors",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 397,
+    "UnitId": 54,
+    "Name": "Ability M1A1FEP",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 398,
+    "UnitId": 53,
+    "Name": "Ability M1A1HC",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 399,
+    "UnitId": 63,
+    "Name": "Assaultmen",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 400,
+    "UnitId": 68,
+    "Name": "Squad ScoutSnipers",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 401,
+    "UnitId": 61,
+    "Name": "Squad ForceRecon",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 403,
+    "UnitId": 77,
+    "Name": "Squad RangersRRC",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 404,
+    "UnitId": 76,
+    "Name": "Squad RangersSnipers",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 405,
+    "UnitId": 278,
+    "Name": "Squad ArmySnipers",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 406,
+    "UnitId": 177,
+    "Name": "Squad GreenBerets",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 407,
+    "UnitId": 276,
+    "Name": "Squad Pararescue STT",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 408,
+    "UnitId": 147,
+    "Name": "Squad CAAT TOW",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 411,
+    "UnitId": 125,
+    "Name": "Squad SpetsnazGRU",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 412,
+    "UnitId": 124,
+    "Name": "Squad Snaipery",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 413,
+    "UnitId": 115,
+    "Name": "Squad VDVSnaipery",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 414,
+    "UnitId": 116,
+    "Name": "Squad VDVSpetsnaz",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 417,
+    "UnitId": 110,
+    "Name": "Squad VDVKornet",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 419,
+    "UnitId": 128,
+    "Name": "Squad PTRKFagot",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 420,
+    "UnitId": 120,
+    "Name": "Squad PZRKIgla",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 421,
+    "UnitId": 121,
+    "Name": "Squad PTRKKonkurs ",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 422,
+    "UnitId": 122,
+    "Name": "Squad Ognemetchiki",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 423,
+    "UnitId": 70,
+    "Name": "Squad MarineRaiders",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 424,
+    "UnitId": 25,
+    "Name": "Weapons Stryker ATGM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 425,
+    "UnitId": 303,
+    "Name": "Weapons KC130J Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 426,
+    "UnitId": 301,
+    "Name": "Weapons AC130J LeftPylon",
+    "Type": 3,
+    "UIName": "Custom_Slot_Portside_pylon",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 427,
+    "UnitId": 301,
+    "Name": "Weapons AC130J RightPylon",
+    "Type": 3,
+    "UIName": "Custom_Slot_Starboard_pylon",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 428,
+    "UnitId": 301,
+    "Name": "Weapons AC130J Ramp",
+    "Type": 3,
+    "UIName": "Custom_Slot_Rear_weapons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 429,
+    "UnitId": 362,
+    "Name": "Weapons LeftPylon MQ1B",
+    "Type": 3,
+    "UIName": "Custom_Slot_Starboard_pylon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 430,
+    "UnitId": 362,
+    "Name": "Weapons MQ1B RightPylon",
+    "Type": 3,
+    "UIName": "Custom_Slot_Portside_pylon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 431,
+    "UnitId": 363,
+    "Name": "Weapon InnerPylons MQ1C",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 432,
+    "UnitId": 363,
+    "Name": "Weapons OuterPylons MQ1C",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 433,
+    "UnitId": 218,
+    "Name": "Weapons NonaSVK",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 434,
+    "UnitId": 91,
+    "Name": "Weapons A222Bereg",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 435,
+    "UnitId": 155,
+    "Name": "Weapons Drok",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 436,
+    "UnitId": 364,
+    "Name": "Weapons InnerPylons RAH66",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 437,
+    "UnitId": 364,
+    "Name": "Weapons MiddlePylons RAH66",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 438,
+    "UnitId": 364,
+    "Name": "Weapons OuterPylons RAH66",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 439,
+    "UnitId": 364,
+    "Name": "Optics RAH66",
+    "Type": 4,
+    "UIName": "Custom_Slot_Sensors",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 440,
+    "UnitId": 50,
+    "Name": "Weapons Hawkeye",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 441,
+    "UnitId": 5,
+    "Name": "Weapons StrykerMC",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 442,
+    "UnitId": 40,
+    "Name": "Weapons AMPV MC ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 443,
+    "UnitId": 189,
+    "Name": "Weapons M1064A3 Loadout",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 444,
+    "UnitId": 247,
+    "Name": "Weapons M109A6 Paladin",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 445,
+    "UnitId": 92,
+    "Name": "Weapons 9K51 Grad",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 446,
+    "UnitId": 93,
+    "Name": "Weapons 9K58 Smerch",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 448,
+    "UnitId": 365,
+    "Name": "Weapons BMP1",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 449,
+    "UnitId": 365,
+    "Name": "Armory BMP1",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 450,
+    "UnitId": 367,
+    "Name": "Squad SpetsnazVMF",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 451,
+    "UnitId": 182,
+    "Name": "Weapons M551A1Sheridan",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 452,
+    "UnitId": 372,
+    "Name": "Squad ChernyeBerety",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 453,
+    "UnitId": 373,
+    "Name": "Weapons TochkaU",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 454,
+    "UnitId": 263,
+    "Name": "Ability Mi35M",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 455,
+    "UnitId": 172,
+    "Name": "Weapons BTRRDRobot",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 456,
+    "UnitId": 374,
+    "Name": "Weapons SU25T InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 457,
+    "UnitId": 374,
+    "Name": "Weapons SU25T MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 458,
+    "UnitId": 374,
+    "Name": "Weapons SU25T OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 459,
+    "UnitId": 374,
+    "Name": "Weapons SU25T Wingtip",
+    "Type": 3,
+    "UIName": "Custom_Slot_Wingtips",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 460,
+    "UnitId": 374,
+    "Name": "Optics SU25T",
+    "Type": 4,
+    "UIName": "Custom_Slot_Sensors",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 461,
+    "UnitId": 263,
+    "Name": "Weapons StarboardPylons Mi35M",
+    "Type": 3,
+    "UIName": "Custom_Slot_Starboard_pylon",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 462,
+    "UnitId": 375,
+    "Name": "Weapons LAVL ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 463,
+    "UnitId": 375,
+    "Name": "Armory LAVL",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 464,
+    "UnitId": 376,
+    "Name": "Weapons M270A1",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 465,
+    "UnitId": 377,
+    "Name": "Weapons InnterPylons EA6Prowler",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 466,
+    "UnitId": 377,
+    "Name": "Weapons OuterPylons EA6BProwler",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 470,
+    "UnitId": 209,
+    "Name": "Armory BRM3K",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 471,
+    "UnitId": 215,
+    "Name": "Weapons BRM1K",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 472,
+    "UnitId": 379,
+    "Name": "Weapons Tu142 Bay",
+    "Type": 3,
+    "UIName": "Custom_Slot_Bomb_bay",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 473,
+    "UnitId": 380,
+    "Name": "Weapons InnerPylons Mi28NM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 474,
+    "UnitId": 380,
+    "Name": "Weapons OuterPylons Mi28NM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 475,
+    "UnitId": 382,
+    "Name": "Weapons Magnolia",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 476,
+    "UnitId": 383,
+    "Name": "Weapons BTR90",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 477,
+    "UnitId": 383,
+    "Name": "Armory BTR90",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 478,
+    "UnitId": 94,
+    "Name": "Weapon OsaAKM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 479,
+    "UnitId": 384,
+    "Name": "Optics Reostat",
+    "Type": 4,
+    "UIName": "Custom_Slot_Sensors",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 481,
+    "UnitId": 138,
+    "Name": "Squad PDSS",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 482,
+    "UnitId": 15,
+    "Name": "Ability BradleyA2",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 483,
+    "UnitId": 16,
+    "Name": "Ability M2A3",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 484,
+    "UnitId": 16,
+    "Name": "Engine M2A3",
+    "Type": 2,
+    "UIName": "Custom_Slot_Engine",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 485,
+    "UnitId": 26,
+    "Name": "Ability M2A3BEV",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 486,
+    "UnitId": 26,
+    "Name": "Engine M2A3BEV",
+    "Type": 2,
+    "UIName": "Custom_Slot_Engine",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 487,
+    "UnitId": 386,
+    "Name": "Armor M2A2ESV Bradley",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 488,
+    "UnitId": 386,
+    "Name": "Ability M2A2ESV",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 489,
+    "UnitId": 37,
+    "Name": "Ability M3A3",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 490,
+    "UnitId": 37,
+    "Name": "Engine M3A3",
+    "Type": 2,
+    "UIName": "Custom_Slot_Engine",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 491,
+    "UnitId": 387,
+    "Name": "Armor M3A2 Bradley",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 492,
+    "UnitId": 387,
+    "Name": "Ability M3A2",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 493,
+    "UnitId": 28,
+    "Name": "Ability M7BFIST",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 494,
+    "UnitId": 28,
+    "Name": "UnitVariant M7BFIST",
+    "Type": 1,
+    "UIName": "Custom_Slot_Modernization",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 495,
+    "UnitId": 235,
+    "Name": "Engine BMOT",
+    "Type": 2,
+    "UIName": "Custom_Slot_Engine",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 496,
+    "UnitId": 388,
+    "Name": "Armory Brutus",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 497,
+    "UnitId": 389,
+    "Name": "Weapons SLAMRAAM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 498,
+    "UnitId": 389,
+    "Name": "Armory SLAMRAAM",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 499,
+    "UnitId": 390,
+    "Name": "Weapons MTV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 500,
+    "UnitId": 390,
+    "Name": "Armor MTV",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 501,
+    "UnitId": 391,
+    "Name": "Weapons AAVPArty",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 502,
+    "UnitId": 391,
+    "Name": "Armor AAVPArty",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 503,
+    "UnitId": 392,
+    "Name": "Weapons LMTVWarpig",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 504,
+    "UnitId": 171,
+    "Name": "Customizations graveyard",
+    "Type": 1,
+    "UIName": "Broken dreams",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 505,
+    "UnitId": 393,
+    "Name": "Weapons MML",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 506,
+    "UnitId": 393,
+    "Name": "Armor MML",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 507,
+    "UnitId": 394,
+    "Name": "Weapons DT30AA",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 508,
+    "UnitId": 397,
+    "Name": "Weapons Fuselage AN72P",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 509,
+    "UnitId": 397,
+    "Name": "Weapons InnerPylons AN72P",
+    "Type": 3,
+    "UIName": "Custom_Slot_Rear_Pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 510,
+    "UnitId": 269,
+    "Name": "Weapons StarboardPylons Mi24PN",
+    "Type": 3,
+    "UIName": "Custom_Slot_Starboard_pylon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 512,
+    "UnitId": 399,
+    "Name": "Squad Pulemetchiki",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 513,
+    "UnitId": 130,
+    "Name": "Squad SSO",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 514,
+    "UnitId": 407,
+    "Name": "Squad Marines",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 515,
+    "UnitId": 320,
+    "Name": "Squad CAAT Dragon/Javelin",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 516,
+    "UnitId": 72,
+    "Name": "Squad Rangers",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 517,
+    "UnitId": 74,
+    "Name": "Squad Rangers RAWS",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 518,
+    "UnitId": 150,
+    "Name": "Squad Delta Force",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 519,
+    "UnitId": 73,
+    "Name": "Squad RangersStinger",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 520,
+    "UnitId": 414,
+    "Name": "Squad TOW Team",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 523,
+    "UnitId": 421,
+    "Name": "Weapons M985Battleship Front",
+    "Type": 3,
+    "UIName": "Custom_Slot_Front_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 524,
+    "UnitId": 421,
+    "Name": "Weapons M985Battleship Middle",
+    "Type": 3,
+    "UIName": "Custom_Slot_Central_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 525,
+    "UnitId": 421,
+    "Name": "Weapons M985Battleship Rear",
+    "Type": 3,
+    "UIName": "Custom_Slot_Rear_weapon",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 526,
+    "UnitId": 423,
+    "Name": "Armory Ural4320",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 527,
+    "UnitId": 425,
+    "Name": "Weapons BTR80",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 528,
+    "UnitId": 425,
+    "Name": "Armory BTR80",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 529,
+    "UnitId": 432,
+    "Name": "Weapons BALTHumvee",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 530,
+    "UnitId": 433,
+    "Name": "Weapons GWagen",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 531,
+    "UnitId": 98,
+    "Name": "UnitVariant 2S4 Tulpan",
+    "Type": 7,
+    "UIName": "Custom_Slot_Unit_variant",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 532,
+    "UnitId": 14,
+    "Name": "UnitVariant M60",
+    "Type": 1,
+    "UIName": "Custom_Slot_Unit_variant",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 533,
+    "UnitId": 448,
+    "Name": "Weapons PatriotPAC3MSE Missiles",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 534,
+    "UnitId": 448,
+    "Name": "Armory Patriot PAC3MSE",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 535,
+    "UnitId": 448,
+    "Name": "Weapons Patriot PAC3 MG",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 536,
+    "UnitId": 450,
+    "Name": "Weapons BMOPToros",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 537,
+    "UnitId": 450,
+    "Name": "Armor BMOPToros",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 538,
+    "UnitId": 292,
+    "Name": "Ability FA18D ",
+    "Type": 6,
+    "UIName": "Custom_Slot_Centerline",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 540,
+    "UnitId": 282,
+    "Name": "Ability A10C ",
+    "Type": 6,
+    "UIName": "Custom_Slot_Designation_pod",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 541,
+    "UnitId": 300,
+    "Name": "Ability B52H",
+    "Type": 6,
+    "UIName": "Custom_Slot_Designation_pod",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 542,
+    "UnitId": 284,
+    "Name": "Ability F16 BLK70",
+    "Type": 6,
+    "UIName": "Custom_Slot_Designation_pod",
+    "ThumbnailFileName": null,
+    "Order": 4
+  },
+  {
+    "Id": 543,
+    "UnitId": 287,
+    "Name": "Ability F15E",
+    "Type": 6,
+    "UIName": "Custom_Slot_Designation_pod",
+    "ThumbnailFileName": null,
+    "Order": 4
+  },
+  {
+    "Id": 544,
+    "UnitId": 24,
+    "Name": "Weapons StrykerMGS",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 545,
+    "UnitId": 20,
+    "Name": "Weapons StrykerSHORAD ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 546,
+    "UnitId": 5,
+    "Name": "Armor StrykerMC",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 547,
+    "UnitId": 452,
+    "Name": "Armor StrykerSPH",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 548,
+    "UnitId": 453,
+    "Name": "Weapons M10Booker",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 549,
+    "UnitId": 453,
+    "Name": "Ability M10Booker",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 550,
+    "UnitId": 274,
+    "Name": "Ability MH47G",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": "",
+    "Order": 0
+  },
+  {
+    "Id": 551,
+    "UnitId": 132,
+    "Name": "Squad VDVMetis",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 552,
+    "UnitId": 180,
+    "Name": "Armor ACV",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 553,
+    "UnitId": 455,
+    "Name": "Weapons UAZ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 554,
+    "UnitId": 457,
+    "Name": "Weapons M1ABV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 555,
+    "UnitId": 457,
+    "Name": "Armor M1ABV",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 556,
+    "UnitId": 27,
+    "Name": "Engine M6Linebacker",
+    "Type": 2,
+    "UIName": "Custom_Slot_Engine",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 557,
+    "UnitId": 13,
+    "Name": "Weapons Armata",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 558,
+    "UnitId": 458,
+    "Name": "UnitVariant MashinaS",
+    "Type": 1,
+    "UIName": "Custom_Slot_Unit_variant",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 559,
+    "UnitId": 249,
+    "Name": "Ability HMMWV RCW ",
+    "Type": 6,
+    "UIName": "Custom_Slot_Smoke_launchers",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 560,
+    "UnitId": 459,
+    "Name": "Squad PTRKKornet",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 561,
+    "UnitId": 13,
+    "Name": "Armory Armata",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 562,
+    "UnitId": 144,
+    "Name": "Armory Sprut",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 564,
+    "UnitId": 51,
+    "Name": "Ability HMMWV LRAS3",
+    "Type": 6,
+    "UIName": "Custom_Slot_Smoke_launchers",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 565,
+    "UnitId": 6,
+    "Name": "Ability HMMWV TOW",
+    "Type": 6,
+    "UIName": "Custom_Slot_Smoke_launchers",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 566,
+    "UnitId": 388,
+    "Name": "Weapons Brutus",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 567,
+    "UnitId": 465,
+    "Name": "Weapons SU27SM Outer pylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 3
+  },
+  {
+    "Id": 568,
+    "UnitId": 465,
+    "Name": "Weapons SU27SM MiddlePylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Middle_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 569,
+    "UnitId": 465,
+    "Name": "Weapons SU27SM InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 570,
+    "UnitId": 465,
+    "Name": "Weapons SU27SM Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 571,
+    "UnitId": 117,
+    "Name": "Squad Ingenery Shturmoviki",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 572,
+    "UnitId": 225,
+    "Name": "Weapons S350",
+    "Type": 0,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 573,
+    "UnitId": 34,
+    "Name": "Weapoons LAVAD",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 574,
+    "UnitId": 154,
+    "Name": "Weapons LAVM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 575,
+    "UnitId": 14,
+    "Name": "Engine M60A1",
+    "Type": 2,
+    "UIName": "Custom_Slot_Engine",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 576,
+    "UnitId": 90,
+    "Name": "Ability BMD2",
+    "Type": 6,
+    "UIName": "Custom_Slot_Smoke_launchers",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 577,
+    "UnitId": 466,
+    "Name": "Weapons S300PM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 578,
+    "UnitId": 467,
+    "Name": "Weapons MATV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 579,
+    "UnitId": 467,
+    "Name": "Armor MATV",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 580,
+    "UnitId": 403,
+    "Name": "Squad Diversanty",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 581,
+    "UnitId": 173,
+    "Name": "Optics BRDM2",
+    "Type": 4,
+    "UIName": "Custom_Slot_Sensors",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 582,
+    "UnitId": 471,
+    "Name": "Armory UR77",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 583,
+    "UnitId": 351,
+    "Name": "Squad Airborne",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 584,
+    "UnitId": 301,
+    "Name": "Weapons AC130J Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 586,
+    "UnitId": 321,
+    "Name": "ArleighBurke Mobility",
+    "Type": 2,
+    "UIName": "Custom_Slot_ArleighBurke_mobility",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 587,
+    "UnitId": 422,
+    "Name": "Weapons Malka",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 588,
+    "UnitId": 330,
+    "Name": "LHA Mobility",
+    "Type": 2,
+    "UIName": "Custom_Slot_ArleighBurke_mobility",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 589,
+    "UnitId": 151,
+    "Name": "Armor KornetD1",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 590,
+    "UnitId": 142,
+    "Name": "Armor BTRMDM",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 591,
+    "UnitId": 452,
+    "Name": "Weapons StrykerSPH",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 592,
+    "UnitId": 250,
+    "Name": "Weapons Centurion",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 593,
+    "UnitId": 503,
+    "Name": "Armor Leopard2A8",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 594,
+    "UnitId": 503,
+    "Name": "Weapons Leopard2A8",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 595,
+    "UnitId": 502,
+    "Name": "Armor DLC2M113",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 596,
+    "UnitId": 512,
+    "Name": "Weapons L39 InnerPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Inner_pylons",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 597,
+    "UnitId": 512,
+    "Name": "Weapons L38 OuterPylons",
+    "Type": 3,
+    "UIName": "Custom_Slot_Outer_pylons",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 598,
+    "UnitId": 512,
+    "Name": "Weapons L39 Fuselage",
+    "Type": 3,
+    "UIName": "Custom_Slot_Fuselage",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 599,
+    "UnitId": 500,
+    "Name": "Abilities DLC2Vilkas",
+    "Type": 6,
+    "UIName": "Custom_Slot_Protection_system",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 600,
+    "UnitId": 501,
+    "Name": "Weapons DLC2XA180",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 601,
+    "UnitId": 501,
+    "Name": "Armory DLC2XA180",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 602,
+    "UnitId": 513,
+    "Name": "Squad JalavaeJagu",
+    "Type": 7,
+    "UIName": "ui_arsenal_column_nation",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 603,
+    "UnitId": 515,
+    "Name": "Squad Kaitseliit",
+    "Type": 7,
+    "UIName": "ui_arsenal_column_nation",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 604,
+    "UnitId": 517,
+    "Name": "Squad ESTSOF",
+    "Type": 7,
+    "UIName": "ui_arsenal_column_nation",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 605,
+    "UnitId": 519,
+    "Name": "Squad Milan",
+    "Type": 7,
+    "UIName": "ui_arsenal_column_nation",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 606,
+    "UnitId": 522,
+    "Name": "Squad Piorun",
+    "Type": 7,
+    "UIName": "ui_arsenal_column_nation",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 607,
+    "UnitId": 499,
+    "Name": "Weapons DLC2Spartan",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 608,
+    "UnitId": 499,
+    "Name": "Armory DLC2Spartan",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 609,
+    "UnitId": 525,
+    "Name": "Squad DLC2EesitScouts",
+    "Type": 7,
+    "UIName": "ui_arsenal_column_nation",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 610,
+    "UnitId": 528,
+    "Name": "Squad KNT",
+    "Type": 7,
+    "UIName": "ui_arsenal_column_nation",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 611,
+    "UnitId": 533,
+    "Name": "Squad DLC2M2HMG",
+    "Type": 7,
+    "UIName": "ui_arsenal_column_nation",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 612,
+    "UnitId": 535,
+    "Name": "Weapons DLC2HMMWV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 613,
+    "UnitId": 538,
+    "Name": "Weapons UnimogAA ",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 614,
+    "UnitId": 541,
+    "Name": "Weapons DLC2Gwagen",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 615,
+    "UnitId": 542,
+    "Name": "Weapons TypeXRCV",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 616,
+    "UnitId": 502,
+    "Name": "Weapons DLC2M113",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 617,
+    "UnitId": 510,
+    "Name": "Armor M113Panzermorser",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 2
+  },
+  {
+    "Id": 618,
+    "UnitId": 510,
+    "Name": "Weapons M113PzM120",
+    "Type": 3,
+    "UIName": "Custom_Slot_Selfdefence_weapon",
+    "ThumbnailFileName": null,
+    "Order": 1
+  },
+  {
+    "Id": 619,
+    "UnitId": 510,
+    "Name": "Weapons M113PzM120 Loadout",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 620,
+    "UnitId": 508,
+    "Name": "Weapons NASAMS",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 621,
+    "UnitId": 505,
+    "Name": "Weapons DLC2LandRover",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 622,
+    "UnitId": 498,
+    "Name": "UnitVariant DLC2CV9035",
+    "Type": 1,
+    "UIName": "Custom_Slot_Modernization",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 623,
+    "UnitId": 498,
+    "Name": "Armor DLC2CV9035",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 624,
+    "UnitId": 531,
+    "Name": "Weapons DLC2Uh60",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 625,
+    "UnitId": 532,
+    "Name": "Weapons AS365Dauphine Loadout",
+    "Type": 3,
+    "UIName": "Custom_Slot_Rear_Pylons",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 626,
+    "UnitId": 511,
+    "Name": "Weapons M109A5O",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 627,
+    "UnitId": 509,
+    "Name": "Weapons TGB1111",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 628,
+    "UnitId": 540,
+    "Name": "Weapons DLC2PZH2000",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 629,
+    "UnitId": 539,
+    "Name": "Weapons K9EST",
+    "Type": 3,
+    "UIName": "Custom_Slot_Ammunition",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 630,
+    "UnitId": 543,
+    "Name": "Armor Scimitar",
+    "Type": 5,
+    "UIName": "Custom_Slot_Armor",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 631,
+    "UnitId": 545,
+    "Name": "Weapons IRISTSLM",
+    "Type": 3,
+    "UIName": "Custom_Slot_Weapon_package",
+    "ThumbnailFileName": null,
+    "Order": 0
+  }
+]
