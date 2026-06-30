@@ -2,6 +2,8 @@
 
 以 JSON 格式提取 **游戏《[断箭 (Broken Arrow)](https://store.steampowered.com/app/644960/Broken_Arrow/)》的单位数据**
 
+**当前版本: 1.1.0.2**
+
 由于单位数据加密存储，本项目将其解密并转换为纯文本的 JSON 文件，方便阅读与二次开发。此外，项目还包含了生成这些文件的 Python 脚本，以便更新。
 
 > 🇺🇸 [English](README.md)
@@ -17,6 +19,7 @@
 | [`output/tables/<Table>.json`](output/tables/) | 按游戏数据表划分，每个表一个文件——包含数据行（单位、武器、装甲、传感器等）的 JSON 数组。 |
 | [`output/database.json`](output/database.json) | 包含所有数据表的单个文件，格式为：`{ "TableName": [ rows… ] }`。 |
 | [`output/localization/<lang>.json`](output/localization/) | 扁平化的 `{ key: text }` 映射表，用于将数据表中的 ID 转换为可读名称。 |
+| [`output/manifest.json`](output/manifest.json) | 本次导出的来源信息：对应的游戏版本、提取时间、源资产文件的 SHA-256 校验值，以及各数据表的行数。 |
 
 共包含 **24 张数据表**：
 
@@ -36,6 +39,17 @@
 ```
 
 **如果只需获取数据：** 直接使用 `output/` 目录下的文件即可，无需运行任何代码。
+
+### 这是哪个版本的数据？
+
+每次提取都会生成一份 [`output/manifest.json`](output/manifest.json)：
+
+```json
+{ "game_version": "1.1.0.2", "data_level": 2, "unity_version": "2022.3.62f3",
+  "extracted_at": "2026-06-30T05:42:26+00:00",
+  "source_sha256": "538fdba2bf46c1260dc30ba4ee2fb660ab764c30e67522ed42941cc3e701ca36",
+  "tables": 24, "total_rows": 14586, "row_counts": { "Units": 475, … } }
+```
 
 ---
 
@@ -62,6 +76,7 @@ python tools/extract_localization.py
 | --- | --- |
 | 加密的单位数据库 | `ExportedProject/Assets/Resources/DataBaseCompiled.asset` |
 | 本地化文本 | `ExportedProject/Assets/TextAsset/keys.json` + `<lang>.json` |
+| 游戏/引擎版本（仅用于 `manifest.json`） | `ExportedProject/ProjectSettings/ProjectSettings.asset` + `ProjectVersion.txt` |
 | 原生代码（仅在恢复密钥时需要） | `GameAssembly.dll` + `il2cpp_data/Metadata/global-metadata.dat` |
 
 你可以使用 [AssetRipper](https://github.com/AssetRipper/AssetRipper) 导出游戏资源，从而获取 `ExportedProject/` 目录。
