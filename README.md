@@ -44,29 +44,47 @@ The field names match the game's own data model, so a row looks like this:
 
 ### Which game build is this?
 
-Every extraction stamps a [`output/manifest.json`](output/manifest.json):
+[`output/manifest.json`](output/manifest.json) records the build provenance,
+read from `ProjectSettings` and a hash of the source asset:
 
 ```json
 { "game_version": "1.1.0.2", "data_level": 2, "unity_version": "2022.3.62f3",
   "extracted_at": "2026-06-30T05:42:26+00:00",
-  "source_sha256": "538fdba2bf46c1260dc30ba4ee2fb660ab764c30e67522ed42941cc3e701ca36",
-  "tables": 24, "total_rows": 14586, "row_counts": { "Units": 475, … } }
+  "source_asset": "ExportedProject/Assets/Resources/DataBaseCompiled.asset",
+  "source_sha256": "538fdba2bf46c1260dc30ba4ee2fb660ab764c30e67522ed42941cc3e701ca36" }
 ```
 
 ---
 
 ## Regenerating the data yourself
 
-If you want to refresh the data after a game patch, or verify how it was produced:
+To refresh the data after a game patch, or verify how it was produced:
 
 ```bash
 pip install -r requirements.txt
+```
 
-# 1. Decrypt the unit database into JSON
+**The easy way — use the UI:**
+
+```bash
+python tools/gui.py
+```
+
+Pick an export, point it at your source files, and Run. The default
+**Extract All** export takes a normal AssetRipper `ExportedProject/` folder and
+produces the database, localization and manifest in one go.
+
+**Or run the scripts directly:**
+
+```bash
+# Decrypt the unit database into JSON
 python tools/extract_database.py --combined
 
-# 2. Build a localization lookup (English by default; --all for every language)
+# Build a localization lookup (English by default; --all for every language)
 python tools/extract_localization.py
+
+# Stamp build provenance into output/manifest.json
+python tools/extract_manifest.py
 ```
 
 ### Source files you need locally
@@ -77,7 +95,7 @@ These come from your own copy of the game and are **not** included in this repo:
 |------|---------------------|
 | Encrypted unit DB | `ExportedProject/Assets/Resources/DataBaseCompiled.asset` |
 | Localization text | `ExportedProject/Assets/TextAsset/keys.json` + `<lang>.json` |
-| Game/engine version (only for `manifest.json`) | `ExportedProject/ProjectSettings/ProjectSettings.asset` + `ProjectVersion.txt` |
+| Build/engine version (for `manifest.json`) | `ExportedProject/ProjectSettings/ProjectSettings.asset` + `ProjectVersion.txt` |
 | Native code (only for key recovery) | `GameAssembly.dll` + `il2cpp_data/Metadata/global-metadata.dat` |
 
 You get the `ExportedProject/` assets by exporting the game with
@@ -123,8 +141,10 @@ rotated the encryption key. Recover the new key and re-run — the steps are in
 
 ```
 tools/
+  gui.py                   Desktop UI front-end over the scripts below
   extract_database.py      Decrypt the 24 tables → output/tables/*.json
   extract_localization.py  Flatten keys.json + <lang>.json → { key: text } maps
+  extract_manifest.py      Read build provenance from ProjectSettings → manifest.json
   recover_key.py           Re-recover the AES key after a game update
 docs/
   EXTRACTION.md            Full technical write-up of the format & decryption

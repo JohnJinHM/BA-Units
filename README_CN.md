@@ -19,7 +19,7 @@
 | [`output/tables/<Table>.json`](output/tables/) | 按游戏数据表划分，每个表一个文件——包含数据行（单位、武器、装甲、传感器等）的 JSON 数组。 |
 | [`output/database.json`](output/database.json) | 包含所有数据表的单个文件，格式为：`{ "TableName": [ rows… ] }`。 |
 | [`output/localization/<lang>.json`](output/localization/) | 扁平化的 `{ key: text }` 映射表，用于将数据表中的 ID 转换为可读名称。 |
-| [`output/manifest.json`](output/manifest.json) | 本次导出的来源信息：对应的游戏版本、提取时间、源资产文件的 SHA-256 校验值，以及各数据表的行数。 |
+| [`output/manifest.json`](output/manifest.json) | 本次导出的来源信息：对应的游戏版本、Unity 版本、提取时间，以及源资产文件的 SHA-256 校验值。 |
 
 共包含 **24 张数据表**：
 
@@ -42,13 +42,14 @@
 
 ### 这是哪个版本的数据？
 
-每次提取都会生成一份 [`output/manifest.json`](output/manifest.json)：
+[`output/manifest.json`](output/manifest.json) 记录本次导出的来源信息，
+取自 `ProjectSettings` 和源资产文件的哈希值：
 
 ```json
 { "game_version": "1.1.0.2", "data_level": 2, "unity_version": "2022.3.62f3",
   "extracted_at": "2026-06-30T05:42:26+00:00",
-  "source_sha256": "538fdba2bf46c1260dc30ba4ee2fb660ab764c30e67522ed42941cc3e701ca36",
-  "tables": 24, "total_rows": 14586, "row_counts": { "Units": 475, … } }
+  "source_asset": "ExportedProject/Assets/Resources/DataBaseCompiled.asset",
+  "source_sha256": "538fdba2bf46c1260dc30ba4ee2fb660ab764c30e67522ed42941cc3e701ca36" }
 ```
 
 ---
@@ -59,13 +60,29 @@
 
 ```bash
 pip install -r requirements.txt
+```
 
-# 1. 将单位数据库解密为 JSON
+**最简单的方式——使用图形界面：**
+
+```bash
+python tools/gui.py
+```
+
+选择一个导出项，指定源文件，然后点击 Run。默认的 **Extract All** 导出项只需
+指定一个标准的 AssetRipper `ExportedProject/` 文件夹，即可一次性生成数据库、
+本地化和清单（manifest）。
+
+**或者直接运行脚本：**
+
+```bash
+# 将单位数据库解密为 JSON
 python tools/extract_database.py --combined
 
-# 2. 构建本地化映射表（默认导出英文；使用 --all 导出所有语言）
+# 构建本地化映射表（默认导出英文；使用 --all 导出所有语言）
 python tools/extract_localization.py
 
+# 将构建来源信息写入 output/manifest.json
+python tools/extract_manifest.py
 ```
 
 ### 所需的本地源文件
@@ -76,7 +93,7 @@ python tools/extract_localization.py
 | --- | --- |
 | 加密的单位数据库 | `ExportedProject/Assets/Resources/DataBaseCompiled.asset` |
 | 本地化文本 | `ExportedProject/Assets/TextAsset/keys.json` + `<lang>.json` |
-| 游戏/引擎版本（仅用于 `manifest.json`） | `ExportedProject/ProjectSettings/ProjectSettings.asset` + `ProjectVersion.txt` |
+| 构建/引擎版本（用于 `manifest.json`） | `ExportedProject/ProjectSettings/ProjectSettings.asset` + `ProjectVersion.txt` |
 | 原生代码（仅在恢复密钥时需要） | `GameAssembly.dll` + `il2cpp_data/Metadata/global-metadata.dat` |
 
 你可以使用 [AssetRipper](https://github.com/AssetRipper/AssetRipper) 导出游戏资源，从而获取 `ExportedProject/` 目录。
@@ -117,8 +134,10 @@ python tools/extract_database.py --combined
 
 ```
 tools/
+  gui.py                   覆盖下列脚本的桌面图形界面
   extract_database.py      解密 24 张数据表 → output/tables/*.json
   extract_localization.py  展平 keys.json + <lang>.json → { key: text } 映射表
+  extract_manifest.py      从 ProjectSettings 读取构建来源信息 → manifest.json
   recover_key.py           在游戏更新后重新提取 AES 密钥
 docs/
   EXTRACTION.md            格式与解密原理的详细技术文档
