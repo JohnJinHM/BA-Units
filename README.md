@@ -40,6 +40,8 @@ The field names match the game's own data model, so a row looks like this:
   "Hidden": false, "ContentMembership": -1 }
 ```
 
+**Refer to [BA-ReCards](https://github.com/JohnJinHM/BA-ReCard/blob/main/docs/DATA_SCHEMA.md) for detailed data schema.**
+
 **Just want the data?** Grab the files in `output/` — you don't need to run anything.
 
 ### Which game build is this?

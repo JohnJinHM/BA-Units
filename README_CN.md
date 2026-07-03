@@ -38,12 +38,14 @@
 
 ```
 
-**如果只需获取数据：** 直接使用 `output/` 目录下的文件即可，无需运行任何代码。
+**详细文档参见使用例[BA-ReCard](https://github.com/JohnJinHM/BA-ReCard/blob/main/docs/DATA_SCHEMA.md)**
+
+**如果只需获取数据：** 直接使用 `output/` 目录下的文件即可。
 
 ### 这是哪个版本的数据？
 
 [`output/manifest.json`](output/manifest.json) 记录本次导出的来源信息，
-取自 `ProjectSettings` 和源资产文件的哈希值：
+取自 `ProjectSettings` 和源文件的哈希值：
 
 ```json
 { "game_version": "1.1.0.2", "data_level": 2, "unity_version": "2022.3.62f3",
@@ -56,7 +58,7 @@
 
 ## 自行重新生成数据
 
-当需要在游戏更新后刷新数据，或者想验证数据是如何生成时：
+当需要在游戏更新后刷新数据，或者想验证数据是如何生成：
 
 ```bash
 pip install -r requirements.txt
