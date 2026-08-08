@@ -672,12 +672,6 @@
     "Order": 0
   },
   {
-    "Id": 247,
-    "UnitId": 103,
-    "TurretId": 157,
-    "Order": 0
-  },
-  {
     "Id": 255,
     "UnitId": 86,
     "TurretId": 160,
@@ -5826,12 +5820,6 @@
     "Order": 0
   },
   {
-    "Id": 1428,
-    "UnitId": 362,
-    "TurretId": 747,
-    "Order": 0
-  },
-  {
     "Id": 1429,
     "UnitId": 362,
     "TurretId": 486,
@@ -5841,12 +5829,6 @@
     "Id": 1430,
     "UnitId": 362,
     "TurretId": 748,
-    "Order": 0
-  },
-  {
-    "Id": 1431,
-    "UnitId": 363,
-    "TurretId": 747,
     "Order": 0
   },
   {
@@ -8553,6 +8535,48 @@
     "Id": 1931,
     "UnitId": 545,
     "TurretId": 1063,
+    "Order": 0
+  },
+  {
+    "Id": 2072,
+    "UnitId": 301,
+    "TurretId": 1248,
+    "Order": 0
+  },
+  {
+    "Id": 2073,
+    "UnitId": 303,
+    "TurretId": 1248,
+    "Order": 0
+  },
+  {
+    "Id": 2074,
+    "UnitId": 362,
+    "TurretId": 1249,
+    "Order": 0
+  },
+  {
+    "Id": 2081,
+    "UnitId": 363,
+    "TurretId": 1249,
+    "Order": 0
+  },
+  {
+    "Id": 2082,
+    "UnitId": 103,
+    "TurretId": 1252,
+    "Order": 0
+  },
+  {
+    "Id": 2201,
+    "UnitId": 299,
+    "TurretId": 1401,
+    "Order": 0
+  },
+  {
+    "Id": 2202,
+    "UnitId": 293,
+    "TurretId": 1402,
     "Order": 0
   }
 ]

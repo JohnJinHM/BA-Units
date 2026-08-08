@@ -435,11 +435,6 @@
     "UnitId": 253
   },
   {
-    "Id": 1220,
-    "SpecializationAvailabilityId": 102,
-    "UnitId": 78
-  },
-  {
     "Id": 1221,
     "SpecializationAvailabilityId": 103,
     "UnitId": 180
@@ -660,16 +655,6 @@
     "UnitId": 82
   },
   {
-    "Id": 1311,
-    "SpecializationAvailabilityId": 610,
-    "UnitId": 47
-  },
-  {
-    "Id": 1312,
-    "SpecializationAvailabilityId": 610,
-    "UnitId": 82
-  },
-  {
     "Id": 1315,
     "SpecializationAvailabilityId": 801,
     "UnitId": 49
@@ -740,16 +725,6 @@
     "UnitId": 253
   },
   {
-    "Id": 1336,
-    "SpecializationAvailabilityId": 819,
-    "UnitId": 1
-  },
-  {
-    "Id": 1337,
-    "SpecializationAvailabilityId": 819,
-    "UnitId": 253
-  },
-  {
     "Id": 1338,
     "SpecializationAvailabilityId": 820,
     "UnitId": 1
@@ -815,19 +790,9 @@
     "UnitId": 3
   },
   {
-    "Id": 1352,
-    "SpecializationAvailabilityId": 842,
-    "UnitId": 425
-  },
-  {
     "Id": 1354,
     "SpecializationAvailabilityId": 842,
     "UnitId": 212
-  },
-  {
-    "Id": 1355,
-    "SpecializationAvailabilityId": 842,
-    "UnitId": 208
   },
   {
     "Id": 1356,
@@ -1048,5 +1013,30 @@
     "Id": 1436,
     "SpecializationAvailabilityId": 890,
     "UnitId": 500
+  },
+  {
+    "Id": 1516,
+    "SpecializationAvailabilityId": 1032,
+    "UnitId": 47
+  },
+  {
+    "Id": 1517,
+    "SpecializationAvailabilityId": 1032,
+    "UnitId": 82
+  },
+  {
+    "Id": 1518,
+    "SpecializationAvailabilityId": 1033,
+    "UnitId": 21
+  },
+  {
+    "Id": 1519,
+    "SpecializationAvailabilityId": 102,
+    "UnitId": 180
+  },
+  {
+    "Id": 1520,
+    "SpecializationAvailabilityId": 102,
+    "UnitId": 78
   }
 ]

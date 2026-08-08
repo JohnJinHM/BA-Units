@@ -68,7 +68,7 @@
     "IsDefault": true,
     "OpticsGround": 500.0,
     "OpticsHighAltitude": 2000.0,
-    "OpticsLowAltitude": 1600.0,
+    "OpticsLowAltitude": 2000.0,
     "ModelFileName": null
   },
   {
@@ -212,7 +212,7 @@
     "IsDefault": false,
     "OpticsGround": 600.0,
     "OpticsHighAltitude": 2000.0,
-    "OpticsLowAltitude": 1600.0,
+    "OpticsLowAltitude": 2000.0,
     "ModelFileName": "Optics"
   },
   {
@@ -293,7 +293,34 @@
     "IsDefault": false,
     "OpticsGround": 500.0,
     "OpticsHighAltitude": 2000.0,
-    "OpticsLowAltitude": 1600.0,
+    "OpticsLowAltitude": 2000.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 41,
+    "Name": "Medium Plus Optics Manpad",
+    "IsDefault": true,
+    "OpticsGround": 700.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1250.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 42,
+    "Name": "Medium Plus Optics Manpad",
+    "IsDefault": true,
+    "OpticsGround": 700.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1250.0,
+    "ModelFileName": null
+  },
+  {
+    "Id": 43,
+    "Name": "Good Optics Manpad",
+    "IsDefault": true,
+    "OpticsGround": 875.0,
+    "OpticsHighAltitude": 1000.0,
+    "OpticsLowAltitude": 1250.0,
     "ModelFileName": null
   }
 ]

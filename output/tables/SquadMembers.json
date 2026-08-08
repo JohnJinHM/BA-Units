@@ -1,7 +1,7 @@
 [
   {
     "Id": 43,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Motostrelki_officer",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 31,
@@ -17,7 +17,7 @@
   },
   {
     "Id": 45,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Motostrelki_rifle",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -25,7 +25,7 @@
   },
   {
     "Id": 46,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Motostrelki_grenade",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 31,
@@ -73,7 +73,7 @@
   },
   {
     "Id": 55,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_ForceRecon_grenade",
     "PrimaryWeaponId": 57,
     "SpecialWeaponId": 59,
@@ -89,7 +89,7 @@
   },
   {
     "Id": 57,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "US_ForceRecon_officer",
     "PrimaryWeaponId": 51,
     "SpecialWeaponId": 59,
@@ -105,7 +105,7 @@
   },
   {
     "Id": 59,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Army_granade",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 58,
@@ -113,7 +113,7 @@
   },
   {
     "Id": 60,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "US_Army_granade",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 58,
@@ -129,7 +129,7 @@
   },
   {
     "Id": 62,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "US_Army_MG",
     "PrimaryWeaponId": 60,
     "SpecialWeaponId": 0,
@@ -137,7 +137,7 @@
   },
   {
     "Id": 63,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "US_Army_rifle",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 59,
@@ -145,7 +145,7 @@
   },
   {
     "Id": 64,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "US_Army_officer",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 59,
@@ -153,7 +153,7 @@
   },
   {
     "Id": 65,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "US_Army_radio",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
@@ -161,7 +161,7 @@
   },
   {
     "Id": 66,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Army_rifle",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 59,
@@ -241,7 +241,7 @@
   },
   {
     "Id": 90,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_ArmyScout_Radio",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
@@ -329,7 +329,7 @@
   },
   {
     "Id": 105,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_ScoutSniper_rifle",
     "PrimaryWeaponId": 57,
     "SpecialWeaponId": 0,
@@ -346,7 +346,7 @@
   {
     "Id": 110,
     "DeathPriority": 3,
-    "ModelFileName": "US_Army_rifle",
+    "ModelFileName": "US_Airborne_radio",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 69
@@ -354,17 +354,17 @@
   {
     "Id": 111,
     "DeathPriority": 2,
-    "ModelFileName": "US_Army_Weapon",
+    "ModelFileName": "US_Airborne_Weapon",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 65,
     "UnitId": 69
   },
   {
     "Id": 113,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_MarineRaider_officer",
     "PrimaryWeaponId": 67,
-    "SpecialWeaponId": 0,
+    "SpecialWeaponId": 45,
     "UnitId": 70
   },
   {
@@ -372,12 +372,12 @@
     "DeathPriority": 2,
     "ModelFileName": "US_MarineRaider_radio",
     "PrimaryWeaponId": 67,
-    "SpecialWeaponId": 0,
+    "SpecialWeaponId": 45,
     "UnitId": 70
   },
   {
     "Id": 115,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_MarineRaider_rifle",
     "PrimaryWeaponId": 68,
     "SpecialWeaponId": 0,
@@ -393,39 +393,39 @@
   },
   {
     "Id": 117,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "US_MarineRaider_rifle",
-    "PrimaryWeaponId": 45,
+    "PrimaryWeaponId": 67,
     "SpecialWeaponId": 212,
     "UnitId": 70
   },
   {
     "Id": 118,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "US_MarineRaider_rifle2",
-    "PrimaryWeaponId": 45,
-    "SpecialWeaponId": 0,
+    "PrimaryWeaponId": 67,
+    "SpecialWeaponId": 45,
     "UnitId": 70
   },
   {
     "Id": 119,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "US_MarineRaider_rifle2",
-    "PrimaryWeaponId": 45,
-    "SpecialWeaponId": 0,
+    "PrimaryWeaponId": 67,
+    "SpecialWeaponId": 45,
     "UnitId": 70
   },
   {
     "Id": 120,
-    "DeathPriority": 2,
+    "DeathPriority": 4,
     "ModelFileName": "US_MarineRaider_rifle2",
-    "PrimaryWeaponId": 45,
+    "PrimaryWeaponId": 67,
     "SpecialWeaponId": 212,
     "UnitId": 70
   },
   {
     "Id": 121,
-    "DeathPriority": 1,
+    "DeathPriority": 4,
     "ModelFileName": "US_MarineRaider_rifle",
     "PrimaryWeaponId": 67,
     "SpecialWeaponId": 212,
@@ -433,7 +433,7 @@
   },
   {
     "Id": 122,
-    "DeathPriority": 2,
+    "DeathPriority": 4,
     "ModelFileName": "US_MarineRaider_rifle2",
     "PrimaryWeaponId": 67,
     "SpecialWeaponId": 212,
@@ -441,7 +441,7 @@
   },
   {
     "Id": 123,
-    "DeathPriority": 2,
+    "DeathPriority": 4,
     "ModelFileName": "US_MarineRaider_rifle",
     "PrimaryWeaponId": 67,
     "SpecialWeaponId": 212,
@@ -449,7 +449,7 @@
   },
   {
     "Id": 124,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_MarineRaider_rifle",
     "PrimaryWeaponId": 67,
     "SpecialWeaponId": 212,
@@ -457,7 +457,7 @@
   },
   {
     "Id": 125,
-    "DeathPriority": 1,
+    "DeathPriority": 4,
     "ModelFileName": "US_MarineRaider_grenade",
     "PrimaryWeaponId": 67,
     "SpecialWeaponId": 212,
@@ -465,7 +465,7 @@
   },
   {
     "Id": 126,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "US_MarineRaider_grenade",
     "PrimaryWeaponId": 67,
     "SpecialWeaponId": 212,
@@ -491,7 +491,7 @@
     "Id": 133,
     "DeathPriority": 3,
     "ModelFileName": "US_Ranger_MG",
-    "PrimaryWeaponId": 53,
+    "PrimaryWeaponId": 671,
     "SpecialWeaponId": 0,
     "UnitId": 72
   },
@@ -499,7 +499,7 @@
     "Id": 134,
     "DeathPriority": 2,
     "ModelFileName": "US_Ranger_MG",
-    "PrimaryWeaponId": 53,
+    "PrimaryWeaponId": 671,
     "SpecialWeaponId": 0,
     "UnitId": 72
   },
@@ -641,7 +641,7 @@
   },
   {
     "Id": 154,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "US_Ranger_Rifle",
     "PrimaryWeaponId": 70,
     "SpecialWeaponId": 0,
@@ -657,7 +657,7 @@
   },
   {
     "Id": 156,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "US_Ranger_Mk47",
     "PrimaryWeaponId": 203,
     "SpecialWeaponId": 0,
@@ -673,7 +673,7 @@
   },
   {
     "Id": 163,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_Ranger_Sniper",
     "PrimaryWeaponId": 55,
     "SpecialWeaponId": 0,
@@ -681,7 +681,7 @@
   },
   {
     "Id": 164,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_Ranger_Sniper",
     "PrimaryWeaponId": 504,
     "SpecialWeaponId": 0,
@@ -713,7 +713,7 @@
   },
   {
     "Id": 168,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_RangerRRC_Rifle",
     "PrimaryWeaponId": 210,
     "SpecialWeaponId": 533,
@@ -721,7 +721,7 @@
   },
   {
     "Id": 169,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_RangerRRC_Rifle1",
     "PrimaryWeaponId": 210,
     "SpecialWeaponId": 631,
@@ -753,7 +753,7 @@
   },
   {
     "Id": 173,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "US_Marine_grenade",
     "PrimaryWeaponId": 1,
     "SpecialWeaponId": 533,
@@ -777,7 +777,7 @@
   },
   {
     "Id": 176,
-    "DeathPriority": 5,
+    "DeathPriority": 4,
     "ModelFileName": "US_Marine_officer",
     "PrimaryWeaponId": 1,
     "SpecialWeaponId": 0,
@@ -793,7 +793,7 @@
   },
   {
     "Id": 178,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "US_MARINE_Radio",
     "PrimaryWeaponId": 1,
     "SpecialWeaponId": 0,
@@ -809,7 +809,7 @@
   },
   {
     "Id": 180,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "US_MARINE_rifle",
     "PrimaryWeaponId": 1,
     "SpecialWeaponId": 59,
@@ -825,7 +825,7 @@
   },
   {
     "Id": 182,
-    "DeathPriority": 5,
+    "DeathPriority": 4,
     "ModelFileName": "US_MARINE_rifle",
     "PrimaryWeaponId": 1,
     "SpecialWeaponId": 0,
@@ -833,7 +833,7 @@
   },
   {
     "Id": 183,
-    "DeathPriority": 2,
+    "DeathPriority": 4,
     "ModelFileName": "US_MARINE_rifle2",
     "PrimaryWeaponId": 1,
     "SpecialWeaponId": 59,
@@ -857,7 +857,7 @@
   },
   {
     "Id": 188,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "US_MARINE_Radio",
     "PrimaryWeaponId": 362,
     "SpecialWeaponId": 0,
@@ -865,7 +865,7 @@
   },
   {
     "Id": 189,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "US_Marine_Engineer_officer",
     "PrimaryWeaponId": 362,
     "SpecialWeaponId": 0,
@@ -883,29 +883,29 @@
     "Id": 198,
     "DeathPriority": 2,
     "ModelFileName": "RU_VDV_MG",
-    "PrimaryWeaponId": 129,
+    "PrimaryWeaponId": 125,
     "SpecialWeaponId": 0,
     "UnitId": 108
   },
   {
     "Id": 199,
-    "DeathPriority": 1,
-    "ModelFileName": "RU_VDV_Weapon",
+    "DeathPriority": 3,
+    "ModelFileName": "RU_VDV_rifle_2",
     "PrimaryWeaponId": 122,
-    "SpecialWeaponId": 32,
+    "SpecialWeaponId": 137,
     "UnitId": 108
   },
   {
     "Id": 200,
-    "DeathPriority": 3,
-    "ModelFileName": "RU_VDV_rifle_1",
-    "PrimaryWeaponId": 122,
+    "DeathPriority": 4,
+    "ModelFileName": "RU_VDV_MG",
+    "PrimaryWeaponId": 125,
     "SpecialWeaponId": 0,
     "UnitId": 108
   },
   {
     "Id": 201,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "RU_VDV_Weapon",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 32,
@@ -1001,7 +1001,7 @@
   },
   {
     "Id": 215,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_VDV_MG",
     "PrimaryWeaponId": 125,
     "SpecialWeaponId": 0,
@@ -1017,7 +1017,7 @@
   },
   {
     "Id": 217,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "RU_VDV_rifle",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 137,
@@ -1025,7 +1025,7 @@
   },
   {
     "Id": 218,
-    "DeathPriority": 4,
+    "DeathPriority": 2,
     "ModelFileName": "RU_VDV_rifle_1",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 0,
@@ -1033,7 +1033,7 @@
   },
   {
     "Id": 219,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "RU_VDV_rifle_2",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 0,
@@ -1049,7 +1049,7 @@
   },
   {
     "Id": 221,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "RU_VDV_officer",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 0,
@@ -1065,7 +1065,7 @@
   },
   {
     "Id": 225,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "RU_VDV_rifle",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 0,
@@ -1081,7 +1081,7 @@
   },
   {
     "Id": 227,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_VDV_AGS",
     "PrimaryWeaponId": 148,
     "SpecialWeaponId": 0,
@@ -1089,57 +1089,57 @@
   },
   {
     "Id": 228,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Chernye_Berety_officer",
-    "PrimaryWeaponId": 527,
-    "SpecialWeaponId": 528,
+    "PrimaryWeaponId": 134,
+    "SpecialWeaponId": 524,
     "UnitId": 113
   },
   {
     "Id": 229,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Chernye_Berety_granade",
-    "PrimaryWeaponId": 527,
-    "SpecialWeaponId": 528,
+    "PrimaryWeaponId": 134,
+    "SpecialWeaponId": 524,
     "UnitId": 113
   },
   {
     "Id": 236,
-    "DeathPriority": 3,
-    "ModelFileName": "RU_Chernye_Berety_rifle1",
-    "PrimaryWeaponId": 527,
-    "SpecialWeaponId": 669,
+    "DeathPriority": 2,
+    "ModelFileName": "RU_Chernye_Berety_MG",
+    "PrimaryWeaponId": 130,
+    "SpecialWeaponId": 0,
     "UnitId": 113
   },
   {
     "Id": 237,
-    "DeathPriority": 2,
-    "ModelFileName": "RU_Chernye_Berety_rifle1",
-    "PrimaryWeaponId": 527,
-    "SpecialWeaponId": 669,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_Chernye_Berety_MG",
+    "PrimaryWeaponId": 130,
+    "SpecialWeaponId": 0,
     "UnitId": 113
   },
   {
     "Id": 238,
-    "DeathPriority": 1,
-    "ModelFileName": "RU_Chernye_Berety_rifle",
-    "PrimaryWeaponId": 527,
-    "SpecialWeaponId": 669,
+    "DeathPriority": 2,
+    "ModelFileName": "RU_Chernye_Berety_MG",
+    "PrimaryWeaponId": 520,
+    "SpecialWeaponId": 0,
     "UnitId": 113
   },
   {
     "Id": 239,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "RU_Chernye_Berety_rifle2",
-    "PrimaryWeaponId": 527,
+    "PrimaryWeaponId": 134,
     "SpecialWeaponId": 669,
     "UnitId": 113
   },
   {
     "Id": 240,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Chernye_Berety_rifle",
-    "PrimaryWeaponId": 527,
+    "PrimaryWeaponId": 134,
     "SpecialWeaponId": 669,
     "UnitId": 113
   },
@@ -1241,7 +1241,7 @@
   },
   {
     "Id": 254,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Ingenery_sturmoviki_officer",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -1249,7 +1249,7 @@
   },
   {
     "Id": 255,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Ingenery_sturmoviki_rifle1",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 31,
@@ -1257,7 +1257,7 @@
   },
   {
     "Id": 256,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Ingenery_sturmoviki_rifle2",
     "PrimaryWeaponId": 161,
     "SpecialWeaponId": 0,
@@ -1273,7 +1273,7 @@
   },
   {
     "Id": 258,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Ingenery_sturmoviki_rifle2",
     "PrimaryWeaponId": 161,
     "SpecialWeaponId": 0,
@@ -1281,9 +1281,9 @@
   },
   {
     "Id": 259,
-    "DeathPriority": 4,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Ingenery_sturmoviki_rifle3",
-    "PrimaryWeaponId": 29,
+    "PrimaryWeaponId": 161,
     "SpecialWeaponId": 0,
     "UnitId": 117
   },
@@ -1449,18 +1449,18 @@
   },
   {
     "Id": 288,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Motostrelki_rifle",
     "PrimaryWeaponId": 156,
-    "SpecialWeaponId": 668,
+    "SpecialWeaponId": 0,
     "UnitId": 122
   },
   {
     "Id": 289,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Motostrelki_rifle",
     "PrimaryWeaponId": 156,
-    "SpecialWeaponId": 668,
+    "SpecialWeaponId": 0,
     "UnitId": 122
   },
   {
@@ -1475,21 +1475,21 @@
     "Id": 291,
     "DeathPriority": 2,
     "ModelFileName": "RU_Razvedka_rifle",
-    "PrimaryWeaponId": 158,
-    "SpecialWeaponId": 0,
+    "PrimaryWeaponId": 167,
+    "SpecialWeaponId": 168,
     "UnitId": 123
   },
   {
     "Id": 292,
     "DeathPriority": 2,
     "ModelFileName": "RU_Razvedka_rifle",
-    "PrimaryWeaponId": 167,
+    "PrimaryWeaponId": 133,
     "SpecialWeaponId": 168,
     "UnitId": 123
   },
   {
     "Id": 293,
-    "DeathPriority": 3,
+    "DeathPriority": 1,
     "ModelFileName": "RU_Razvedka_rifle",
     "PrimaryWeaponId": 133,
     "SpecialWeaponId": 168,
@@ -1497,7 +1497,7 @@
   },
   {
     "Id": 294,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Razvedka_rifle",
     "PrimaryWeaponId": 133,
     "SpecialWeaponId": 168,
@@ -1505,7 +1505,7 @@
   },
   {
     "Id": 299,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Marksmen_rifle",
     "PrimaryWeaponId": 167,
     "SpecialWeaponId": 0,
@@ -1521,7 +1521,7 @@
   },
   {
     "Id": 302,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_GRUSpetsnaz_officer",
     "PrimaryWeaponId": 135,
     "SpecialWeaponId": 525,
@@ -1529,7 +1529,7 @@
   },
   {
     "Id": 303,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_GRUSpetsnaz_granade",
     "PrimaryWeaponId": 135,
     "SpecialWeaponId": 525,
@@ -1537,7 +1537,7 @@
   },
   {
     "Id": 304,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_GRUSpetsnaz_officer",
     "PrimaryWeaponId": 188,
     "SpecialWeaponId": 0,
@@ -1569,7 +1569,7 @@
   },
   {
     "Id": 308,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_GRUSpetsnaz_rifle",
     "PrimaryWeaponId": 135,
     "SpecialWeaponId": 179,
@@ -1601,7 +1601,7 @@
   },
   {
     "Id": 312,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Morskaya_MG",
     "PrimaryWeaponId": 129,
     "SpecialWeaponId": 171,
@@ -1617,7 +1617,7 @@
   },
   {
     "Id": 314,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "RU_Morskaya_rifle",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 171,
@@ -1641,7 +1641,7 @@
   },
   {
     "Id": 319,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Motostrelki_rifle",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -1681,7 +1681,7 @@
   },
   {
     "Id": 325,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Motostrelki_rifle1",
     "PrimaryWeaponId": 156,
     "SpecialWeaponId": 0,
@@ -1689,7 +1689,7 @@
   },
   {
     "Id": 326,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Motostrelki_Konkurs",
     "PrimaryWeaponId": 176,
     "SpecialWeaponId": 0,
@@ -1697,7 +1697,7 @@
   },
   {
     "Id": 327,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Motostrelki_rifle_light",
     "PrimaryWeaponId": 156,
     "SpecialWeaponId": 0,
@@ -1708,36 +1708,36 @@
     "DeathPriority": 3,
     "ModelFileName": "RU_SSO_Rifle1",
     "PrimaryWeaponId": 135,
-    "SpecialWeaponId": 525,
+    "SpecialWeaponId": 161,
     "UnitId": 130
   },
   {
     "Id": 337,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_SSO_Rifle1",
     "PrimaryWeaponId": 132,
-    "SpecialWeaponId": 525,
-    "UnitId": 130
-  },
-  {
-    "Id": 338,
-    "DeathPriority": 3,
-    "ModelFileName": "RU_SSO_Rifle2",
-    "PrimaryWeaponId": 135,
     "SpecialWeaponId": 0,
     "UnitId": 130
   },
   {
-    "Id": 339,
+    "Id": 338,
     "DeathPriority": 2,
     "ModelFileName": "RU_SSO_Rifle2",
+    "PrimaryWeaponId": 135,
+    "SpecialWeaponId": 161,
+    "UnitId": 130
+  },
+  {
+    "Id": 339,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_SSO_Rifle2",
     "PrimaryWeaponId": 132,
-    "SpecialWeaponId": 155,
+    "SpecialWeaponId": 0,
     "UnitId": 130
   },
   {
     "Id": 340,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_SSO_Rifle3",
     "PrimaryWeaponId": 135,
     "SpecialWeaponId": 155,
@@ -1748,7 +1748,7 @@
     "DeathPriority": 4,
     "ModelFileName": "RU_SSO_Rifle3",
     "PrimaryWeaponId": 135,
-    "SpecialWeaponId": 0,
+    "SpecialWeaponId": 155,
     "UnitId": 130
   },
   {
@@ -1761,7 +1761,7 @@
   },
   {
     "Id": 357,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "RU_VDV_officer",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 0,
@@ -1769,7 +1769,7 @@
   },
   {
     "Id": 358,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_VDV_MG",
     "PrimaryWeaponId": 125,
     "SpecialWeaponId": 0,
@@ -1777,7 +1777,7 @@
   },
   {
     "Id": 359,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "RU_VDV_rifle_2",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 0,
@@ -1817,7 +1817,7 @@
   },
   {
     "Id": 367,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_GvMotostrelki_MG",
     "PrimaryWeaponId": 30,
     "SpecialWeaponId": 0,
@@ -1828,7 +1828,7 @@
     "DeathPriority": 2,
     "ModelFileName": "RU_GvMotostrelki_MG",
     "PrimaryWeaponId": 30,
-    "SpecialWeaponId": 0,
+    "SpecialWeaponId": 179,
     "UnitId": 133
   },
   {
@@ -1897,7 +1897,7 @@
   },
   {
     "Id": 393,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_GvMotostrelki_rifle",
     "PrimaryWeaponId": 123,
     "SpecialWeaponId": 0,
@@ -1914,7 +1914,7 @@
   {
     "Id": 395,
     "DeathPriority": 3,
-    "ModelFileName": "US_Army_officer",
+    "ModelFileName": "US_Airborne_officer",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 69
@@ -1922,7 +1922,7 @@
   {
     "Id": 396,
     "DeathPriority": 1,
-    "ModelFileName": "US_Army_Weapon",
+    "ModelFileName": "US_Airborne_Weapon",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 65,
     "UnitId": 69
@@ -1945,7 +1945,7 @@
   },
   {
     "Id": 399,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Army_Engineer_rifle2",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 200,
@@ -1961,7 +1961,7 @@
   },
   {
     "Id": 401,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Army_Engineer_rifle2",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 200,
@@ -1969,7 +1969,7 @@
   },
   {
     "Id": 402,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "US_Army_Engineer_rifle2",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 200,
@@ -2010,7 +2010,7 @@
   {
     "Id": 409,
     "DeathPriority": 2,
-    "ModelFileName": "US_Army_rifle",
+    "ModelFileName": "US_Airborne_rifle1",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 148
@@ -2026,7 +2026,7 @@
   {
     "Id": 411,
     "DeathPriority": 3,
-    "ModelFileName": "US_Army_rifle",
+    "ModelFileName": "US_Airborne_rifle2",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 148
@@ -2042,7 +2042,7 @@
   {
     "Id": 413,
     "DeathPriority": 2,
-    "ModelFileName": "US_Army_rifle",
+    "ModelFileName": "US_Airborne_rifle1",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 149
@@ -2058,7 +2058,7 @@
   {
     "Id": 415,
     "DeathPriority": 3,
-    "ModelFileName": "US_Army_rifle",
+    "ModelFileName": "US_Airborne_rifle2",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 149
@@ -2073,7 +2073,7 @@
   },
   {
     "Id": 417,
-    "DeathPriority": 6,
+    "DeathPriority": 3,
     "ModelFileName": "Delta_Rifle1",
     "PrimaryWeaponId": 210,
     "SpecialWeaponId": 0,
@@ -2081,7 +2081,7 @@
   },
   {
     "Id": 418,
-    "DeathPriority": 5,
+    "DeathPriority": 2,
     "ModelFileName": "Delta_MG",
     "PrimaryWeaponId": 211,
     "SpecialWeaponId": 0,
@@ -2089,7 +2089,7 @@
   },
   {
     "Id": 419,
-    "DeathPriority": 5,
+    "DeathPriority": 4,
     "ModelFileName": "Delta_Rifle1",
     "PrimaryWeaponId": 68,
     "SpecialWeaponId": 45,
@@ -2097,7 +2097,7 @@
   },
   {
     "Id": 420,
-    "DeathPriority": 6,
+    "DeathPriority": 5,
     "ModelFileName": "Delta_Rifle",
     "PrimaryWeaponId": 210,
     "SpecialWeaponId": 0,
@@ -2105,7 +2105,7 @@
   },
   {
     "Id": 421,
-    "DeathPriority": 4,
+    "DeathPriority": 5,
     "ModelFileName": "Delta_Officer",
     "PrimaryWeaponId": 210,
     "SpecialWeaponId": 0,
@@ -2145,7 +2145,7 @@
   },
   {
     "Id": 426,
-    "DeathPriority": 1,
+    "DeathPriority": 4,
     "ModelFileName": "Delta_MG",
     "PrimaryWeaponId": 211,
     "SpecialWeaponId": 0,
@@ -2153,7 +2153,7 @@
   },
   {
     "Id": 427,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "Delta_Rifle",
     "PrimaryWeaponId": 68,
     "SpecialWeaponId": 45,
@@ -2161,7 +2161,7 @@
   },
   {
     "Id": 428,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "Delta_Officer",
     "PrimaryWeaponId": 210,
     "SpecialWeaponId": 590,
@@ -2228,7 +2228,7 @@
     "DeathPriority": 2,
     "ModelFileName": "US_Army_MG",
     "PrimaryWeaponId": 60,
-    "SpecialWeaponId": 0,
+    "SpecialWeaponId": 59,
     "UnitId": 57
   },
   {
@@ -2241,7 +2241,7 @@
   },
   {
     "Id": 438,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Army_rifle",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 59,
@@ -2251,13 +2251,13 @@
     "Id": 439,
     "DeathPriority": 2,
     "ModelFileName": "US_Army_MG",
-    "PrimaryWeaponId": 50,
+    "PrimaryWeaponId": 60,
     "SpecialWeaponId": 59,
     "UnitId": 57
   },
   {
     "Id": 440,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Army_radio",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 59,
@@ -2265,7 +2265,7 @@
   },
   {
     "Id": 441,
-    "DeathPriority": 2,
+    "DeathPriority": 4,
     "ModelFileName": "US_Pararescuemen_Officer",
     "PrimaryWeaponId": 210,
     "SpecialWeaponId": 0,
@@ -2273,7 +2273,7 @@
   },
   {
     "Id": 442,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Pararescuemen_MG",
     "PrimaryWeaponId": 211,
     "SpecialWeaponId": 0,
@@ -2281,7 +2281,7 @@
   },
   {
     "Id": 443,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_Pararescuemen_Rifle2",
     "PrimaryWeaponId": 211,
     "SpecialWeaponId": 0,
@@ -2289,7 +2289,7 @@
   },
   {
     "Id": 444,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "US_Pararescuemen_Rifle2",
     "PrimaryWeaponId": 210,
     "SpecialWeaponId": 45,
@@ -2364,7 +2364,7 @@
     "DeathPriority": 3,
     "ModelFileName": "US_ArmyScout_Radio",
     "PrimaryWeaponId": 50,
-    "SpecialWeaponId": 0,
+    "SpecialWeaponId": 59,
     "UnitId": 277
   },
   {
@@ -2377,7 +2377,7 @@
   },
   {
     "Id": 460,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "US_ArmyScout_Rifle1",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 58,
@@ -2385,7 +2385,7 @@
   },
   {
     "Id": 461,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_ArmySniper_Rifle1",
     "PrimaryWeaponId": 540,
     "SpecialWeaponId": 0,
@@ -2425,7 +2425,7 @@
   },
   {
     "Id": 467,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Marine_Heavy",
     "PrimaryWeaponId": 63,
     "SpecialWeaponId": 0,
@@ -2569,7 +2569,7 @@
   },
   {
     "Id": 485,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_ScoutSniper_rifle",
     "PrimaryWeaponId": 57,
     "SpecialWeaponId": 0,
@@ -2577,7 +2577,7 @@
   },
   {
     "Id": 486,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_PDSS_rifle",
     "PrimaryWeaponId": 182,
     "SpecialWeaponId": 183,
@@ -2617,7 +2617,7 @@
   },
   {
     "Id": 491,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "US_ForceRecon_officer",
     "PrimaryWeaponId": 67,
     "SpecialWeaponId": 212,
@@ -2633,7 +2633,7 @@
   },
   {
     "Id": 493,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_ForceRecon_rifle",
     "PrimaryWeaponId": 67,
     "SpecialWeaponId": 212,
@@ -2641,7 +2641,7 @@
   },
   {
     "Id": 494,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_ForceRecon_grenade",
     "PrimaryWeaponId": 67,
     "SpecialWeaponId": 212,
@@ -2657,7 +2657,7 @@
   },
   {
     "Id": 496,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "US_ForceRecon_grenade",
     "PrimaryWeaponId": 45,
     "SpecialWeaponId": 212,
@@ -2665,7 +2665,7 @@
   },
   {
     "Id": 501,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_RangerRRC_Officer",
     "PrimaryWeaponId": 71,
     "SpecialWeaponId": 0,
@@ -2697,7 +2697,7 @@
   },
   {
     "Id": 505,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_RangerRRC_Rifle1",
     "PrimaryWeaponId": 71,
     "SpecialWeaponId": 116,
@@ -2713,7 +2713,7 @@
   },
   {
     "Id": 507,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_Ranger_Sniper",
     "PrimaryWeaponId": 70,
     "SpecialWeaponId": 59,
@@ -2721,7 +2721,7 @@
   },
   {
     "Id": 508,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "US_Ranger_Sniper",
     "PrimaryWeaponId": 70,
     "SpecialWeaponId": 59,
@@ -2729,7 +2729,7 @@
   },
   {
     "Id": 509,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "US_Ranger_Sniper",
     "PrimaryWeaponId": 56,
     "SpecialWeaponId": 0,
@@ -2761,7 +2761,7 @@
   },
   {
     "Id": 513,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "GreenBerets_Rifle1",
     "PrimaryWeaponId": 532,
     "SpecialWeaponId": 0,
@@ -2769,7 +2769,7 @@
   },
   {
     "Id": 514,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "GreenBerets_Rifle2",
     "PrimaryWeaponId": 672,
     "SpecialWeaponId": 0,
@@ -2777,7 +2777,7 @@
   },
   {
     "Id": 515,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "GreenBerets_Rifle3",
     "PrimaryWeaponId": 674,
     "SpecialWeaponId": 0,
@@ -2889,7 +2889,7 @@
   },
   {
     "Id": 540,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_GRUSpetsnaz_rifle",
     "PrimaryWeaponId": 188,
     "SpecialWeaponId": 179,
@@ -2929,7 +2929,7 @@
   },
   {
     "Id": 549,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Marksmen_rifle",
     "PrimaryWeaponId": 167,
     "SpecialWeaponId": 0,
@@ -3000,6 +3000,38 @@
     "UnitId": 349
   },
   {
+    "Id": 559,
+    "DeathPriority": 3,
+    "ModelFileName": "US_Airborne_radio",
+    "PrimaryWeaponId": 70,
+    "SpecialWeaponId": 0,
+    "UnitId": 350
+  },
+  {
+    "Id": 560,
+    "DeathPriority": 3,
+    "ModelFileName": "US_Airborne_officer",
+    "PrimaryWeaponId": 70,
+    "SpecialWeaponId": 533,
+    "UnitId": 350
+  },
+  {
+    "Id": 561,
+    "DeathPriority": 2,
+    "ModelFileName": "US_ArmySniper_Rifle1",
+    "PrimaryWeaponId": 73,
+    "SpecialWeaponId": 0,
+    "UnitId": 350
+  },
+  {
+    "Id": 562,
+    "DeathPriority": 1,
+    "ModelFileName": "US_Airborne_Weapon",
+    "PrimaryWeaponId": 70,
+    "SpecialWeaponId": 505,
+    "UnitId": 350
+  },
+  {
     "Id": 564,
     "DeathPriority": 2,
     "ModelFileName": "US_Airborne_Granade",
@@ -3033,7 +3065,7 @@
   },
   {
     "Id": 568,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Airborne_officer",
     "PrimaryWeaponId": 208,
     "SpecialWeaponId": 0,
@@ -3041,7 +3073,7 @@
   },
   {
     "Id": 569,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_VDV_rifle_1",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 0,
@@ -3057,7 +3089,7 @@
   },
   {
     "Id": 572,
-    "DeathPriority": 2,
+    "DeathPriority": 4,
     "ModelFileName": "RU_VDV_rifle_2",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 0,
@@ -3073,7 +3105,7 @@
   },
   {
     "Id": 575,
-    "DeathPriority": 4,
+    "DeathPriority": 2,
     "ModelFileName": "RU_VDV_officer",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 0,
@@ -3097,7 +3129,7 @@
   },
   {
     "Id": 579,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_GvMotostrelki_rifle_AGS",
     "PrimaryWeaponId": 185,
     "SpecialWeaponId": 0,
@@ -3105,7 +3137,7 @@
   },
   {
     "Id": 580,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "RU_GvMotostrelki_rifle",
     "PrimaryWeaponId": 123,
     "SpecialWeaponId": 0,
@@ -3129,7 +3161,7 @@
   },
   {
     "Id": 599,
-    "DeathPriority": 2,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Motostrelki_rifle",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -3137,7 +3169,7 @@
   },
   {
     "Id": 600,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Motostrelki_Konkurs",
     "PrimaryWeaponId": 176,
     "SpecialWeaponId": 0,
@@ -3145,7 +3177,7 @@
   },
   {
     "Id": 601,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Motostrelki_rifle_light",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -3169,7 +3201,7 @@
   },
   {
     "Id": 606,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Motostrelki_rifle",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 539,
@@ -3177,7 +3209,7 @@
   },
   {
     "Id": 607,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Motostrelki_rifle",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 539,
@@ -3361,7 +3393,7 @@
   },
   {
     "Id": 634,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "Morskaya_razvedka_rifle",
     "PrimaryWeaponId": 134,
     "SpecialWeaponId": 524,
@@ -3369,7 +3401,7 @@
   },
   {
     "Id": 635,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "Morskaya_razvedka_mg",
     "PrimaryWeaponId": 130,
     "SpecialWeaponId": 171,
@@ -3377,7 +3409,7 @@
   },
   {
     "Id": 636,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "Morskaya_razvedka_rifle",
     "PrimaryWeaponId": 134,
     "SpecialWeaponId": 171,
@@ -3385,7 +3417,7 @@
   },
   {
     "Id": 637,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "Morskaya_razvedka_rifle",
     "PrimaryWeaponId": 134,
     "SpecialWeaponId": 171,
@@ -3395,13 +3427,13 @@
     "Id": 638,
     "DeathPriority": 2,
     "ModelFileName": "Morskaya_razvedka_mg",
-    "PrimaryWeaponId": 130,
-    "SpecialWeaponId": 0,
+    "PrimaryWeaponId": 134,
+    "SpecialWeaponId": 171,
     "UnitId": 366
   },
   {
     "Id": 639,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "Spetsnaz_VMF_officer",
     "PrimaryWeaponId": 182,
     "SpecialWeaponId": 183,
@@ -3433,7 +3465,7 @@
   },
   {
     "Id": 644,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "Spetsnaz_VMF_marksmen",
     "PrimaryWeaponId": 520,
     "SpecialWeaponId": 0,
@@ -3449,7 +3481,7 @@
   },
   {
     "Id": 646,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "Spetsnaz_VMF_officer",
     "PrimaryWeaponId": 182,
     "SpecialWeaponId": 183,
@@ -3457,7 +3489,7 @@
   },
   {
     "Id": 647,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "Spetsnaz_VMF_rifle",
     "PrimaryWeaponId": 182,
     "SpecialWeaponId": 183,
@@ -3465,7 +3497,7 @@
   },
   {
     "Id": 649,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "Spetsnaz_VMF_rifle1",
     "PrimaryWeaponId": 151,
     "SpecialWeaponId": 0,
@@ -3593,7 +3625,7 @@
   },
   {
     "Id": 666,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "US_Army_rifle",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
@@ -3641,7 +3673,7 @@
   },
   {
     "Id": 673,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Chernye_Berety_officer",
     "PrimaryWeaponId": 527,
     "SpecialWeaponId": 528,
@@ -3657,22 +3689,6 @@
   },
   {
     "Id": 675,
-    "DeathPriority": 3,
-    "ModelFileName": "RU_Chernye_Berety_rifle",
-    "PrimaryWeaponId": 527,
-    "SpecialWeaponId": 0,
-    "UnitId": 372
-  },
-  {
-    "Id": 676,
-    "DeathPriority": 4,
-    "ModelFileName": "RU_Chernye_Berety_rifle2",
-    "PrimaryWeaponId": 527,
-    "SpecialWeaponId": 0,
-    "UnitId": 372
-  },
-  {
-    "Id": 677,
     "DeathPriority": 2,
     "ModelFileName": "RU_Chernye_Berety_MG",
     "PrimaryWeaponId": 125,
@@ -3680,7 +3696,15 @@
     "UnitId": 372
   },
   {
-    "Id": 678,
+    "Id": 676,
+    "DeathPriority": 2,
+    "ModelFileName": "RU_Chernye_Berety_MG",
+    "PrimaryWeaponId": 151,
+    "SpecialWeaponId": 0,
+    "UnitId": 372
+  },
+  {
+    "Id": 677,
     "DeathPriority": 3,
     "ModelFileName": "RU_Chernye_Berety_MG",
     "PrimaryWeaponId": 125,
@@ -3688,10 +3712,18 @@
     "UnitId": 372
   },
   {
-    "Id": 679,
+    "Id": 678,
     "DeathPriority": 1,
-    "ModelFileName": "RU_Chernye_Berety_AGS",
-    "PrimaryWeaponId": 148,
+    "ModelFileName": "RU_Chernye_Berety_Weapon",
+    "PrimaryWeaponId": 527,
+    "SpecialWeaponId": 172,
+    "UnitId": 372
+  },
+  {
+    "Id": 679,
+    "DeathPriority": 2,
+    "ModelFileName": "RU_Chernye_Berety_rifle2",
+    "PrimaryWeaponId": 527,
     "SpecialWeaponId": 0,
     "UnitId": 372
   },
@@ -3713,7 +3745,7 @@
   },
   {
     "Id": 689,
-    "DeathPriority": 0,
+    "DeathPriority": 1,
     "ModelFileName": "RU_PDSS_rifle",
     "PrimaryWeaponId": 184,
     "SpecialWeaponId": 0,
@@ -3721,7 +3753,7 @@
   },
   {
     "Id": 690,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "RU_PDSS_rifle1",
     "PrimaryWeaponId": 184,
     "SpecialWeaponId": 0,
@@ -3729,7 +3761,7 @@
   },
   {
     "Id": 691,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "RU_PDSS_rifle1",
     "PrimaryWeaponId": 184,
     "SpecialWeaponId": 0,
@@ -3737,7 +3769,7 @@
   },
   {
     "Id": 692,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "RU_PDSS_rifle",
     "PrimaryWeaponId": 184,
     "SpecialWeaponId": 0,
@@ -3793,7 +3825,7 @@
   },
   {
     "Id": 699,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Motostrelki_MG",
     "PrimaryWeaponId": 14,
     "SpecialWeaponId": 168,
@@ -3801,7 +3833,7 @@
   },
   {
     "Id": 700,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Motostrelki_rifle1",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 168,
@@ -3865,7 +3897,7 @@
   },
   {
     "Id": 708,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Motostrelki_MG",
     "PrimaryWeaponId": 30,
     "SpecialWeaponId": 0,
@@ -3881,7 +3913,7 @@
   },
   {
     "Id": 710,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Motostrelki_rifle1",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 168,
@@ -3953,8 +3985,8 @@
   },
   {
     "Id": 719,
-    "DeathPriority": 2,
-    "ModelFileName": "RU_Motostrelki_grenade",
+    "DeathPriority": 4,
+    "ModelFileName": "RU_GvMotostrelki_grenade",
     "PrimaryWeaponId": 123,
     "SpecialWeaponId": 192,
     "UnitId": 401
@@ -3970,7 +4002,7 @@
   {
     "Id": 721,
     "DeathPriority": 2,
-    "ModelFileName": "RU_Motostrelki_Weapon",
+    "ModelFileName": "RU_GvMotostrelki_Weapon",
     "PrimaryWeaponId": 123,
     "SpecialWeaponId": 632,
     "UnitId": 401
@@ -3986,7 +4018,7 @@
   {
     "Id": 723,
     "DeathPriority": 4,
-    "ModelFileName": "RU_Motostrelki_officer",
+    "ModelFileName": "RU_GvMotostrelki_officer",
     "PrimaryWeaponId": 123,
     "SpecialWeaponId": 0,
     "UnitId": 401
@@ -3994,7 +4026,7 @@
   {
     "Id": 724,
     "DeathPriority": 1,
-    "ModelFileName": "RU_Motostrelki_Weapon",
+    "ModelFileName": "RU_GvMotostrelki_Weapon",
     "PrimaryWeaponId": 123,
     "SpecialWeaponId": 632,
     "UnitId": 401
@@ -4041,7 +4073,7 @@
   },
   {
     "Id": 731,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Motostrelki_rifle1",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -4049,7 +4081,7 @@
   },
   {
     "Id": 732,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Motostrelki_heavy",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 635,
@@ -4057,7 +4089,7 @@
   },
   {
     "Id": 733,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Motostrelki_rifle",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -4065,7 +4097,7 @@
   },
   {
     "Id": 734,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Motostrelki_rifle_light",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -4089,7 +4121,7 @@
   },
   {
     "Id": 737,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_GRUSpetsnaz_rifle",
     "PrimaryWeaponId": 135,
     "SpecialWeaponId": 0,
@@ -4145,7 +4177,7 @@
   },
   {
     "Id": 745,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Motostrelki_rifle1",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -4313,7 +4345,7 @@
   },
   {
     "Id": 770,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_Marine_grenade",
     "PrimaryWeaponId": 362,
     "SpecialWeaponId": 363,
@@ -4337,7 +4369,7 @@
   },
   {
     "Id": 773,
-    "DeathPriority": 2,
+    "DeathPriority": 5,
     "ModelFileName": "US_MARINE_rifle",
     "PrimaryWeaponId": 362,
     "SpecialWeaponId": 0,
@@ -4345,7 +4377,7 @@
   },
   {
     "Id": 774,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Marine_grenade",
     "PrimaryWeaponId": 362,
     "SpecialWeaponId": 363,
@@ -4361,7 +4393,7 @@
   },
   {
     "Id": 776,
-    "DeathPriority": 4,
+    "DeathPriority": 5,
     "ModelFileName": "US_MARINE_rifle2",
     "PrimaryWeaponId": 362,
     "SpecialWeaponId": 0,
@@ -4369,7 +4401,7 @@
   },
   {
     "Id": 777,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "US_Marine_rifle3",
     "PrimaryWeaponId": 362,
     "SpecialWeaponId": 0,
@@ -4377,7 +4409,7 @@
   },
   {
     "Id": 778,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "US_Marine_grenade",
     "PrimaryWeaponId": 362,
     "SpecialWeaponId": 363,
@@ -4393,7 +4425,7 @@
   },
   {
     "Id": 780,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "US_MARINE_rifle2",
     "PrimaryWeaponId": 362,
     "SpecialWeaponId": 0,
@@ -4401,7 +4433,7 @@
   },
   {
     "Id": 781,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_MARINE_rifle",
     "PrimaryWeaponId": 362,
     "SpecialWeaponId": 0,
@@ -4417,7 +4449,7 @@
   },
   {
     "Id": 783,
-    "DeathPriority": 2,
+    "DeathPriority": 4,
     "ModelFileName": "US_Marine_Engineer_rifle1",
     "PrimaryWeaponId": 362,
     "SpecialWeaponId": 0,
@@ -4497,7 +4529,7 @@
   },
   {
     "Id": 793,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "US_Marine_M2",
     "PrimaryWeaponId": 206,
     "SpecialWeaponId": 0,
@@ -4612,7 +4644,7 @@
     "DeathPriority": 2,
     "ModelFileName": "US_Ranger_Rifle1",
     "PrimaryWeaponId": 211,
-    "SpecialWeaponId": 212,
+    "SpecialWeaponId": 0,
     "UnitId": 409
   },
   {
@@ -4626,46 +4658,46 @@
   {
     "Id": 809,
     "DeathPriority": 1,
-    "ModelFileName": "US_Ranger_Rifle",
+    "ModelFileName": "US_Ranger_Weapon",
     "PrimaryWeaponId": 67,
-    "SpecialWeaponId": 212,
+    "SpecialWeaponId": 952,
     "UnitId": 409
   },
   {
     "Id": 810,
-    "DeathPriority": 2,
+    "DeathPriority": 4,
     "ModelFileName": "US_Ranger_Rifle1",
     "PrimaryWeaponId": 67,
-    "SpecialWeaponId": 212,
+    "SpecialWeaponId": 0,
     "UnitId": 409
   },
   {
     "Id": 811,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "US_Ranger_Officer",
     "PrimaryWeaponId": 67,
-    "SpecialWeaponId": 212,
+    "SpecialWeaponId": 0,
     "UnitId": 409
   },
   {
     "Id": 812,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "US_Ranger_Radio",
     "PrimaryWeaponId": 67,
-    "SpecialWeaponId": 212,
+    "SpecialWeaponId": 0,
     "UnitId": 409
   },
   {
     "Id": 813,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "US_Ranger_Rifle",
     "PrimaryWeaponId": 67,
-    "SpecialWeaponId": 212,
+    "SpecialWeaponId": 0,
     "UnitId": 409
   },
   {
     "Id": 814,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Ranger_Weapon",
     "PrimaryWeaponId": 70,
     "SpecialWeaponId": 505,
@@ -4857,7 +4889,7 @@
   },
   {
     "Id": 844,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "US_Army_rifle",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
@@ -4865,9 +4897,9 @@
   },
   {
     "Id": 845,
-    "DeathPriority": 4,
+    "DeathPriority": 2,
     "ModelFileName": "US_Army_rifle",
-    "PrimaryWeaponId": 50,
+    "PrimaryWeaponId": 54,
     "SpecialWeaponId": 0,
     "UnitId": 413
   },
@@ -4882,7 +4914,7 @@
   {
     "Id": 847,
     "DeathPriority": 2,
-    "ModelFileName": "US_Army_rifle",
+    "ModelFileName": "US_Airborne_rifle2",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 414
@@ -4890,7 +4922,7 @@
   {
     "Id": 848,
     "DeathPriority": 2,
-    "ModelFileName": "US_Army_officer",
+    "ModelFileName": "US_Airborne_officer",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 414
@@ -4898,7 +4930,7 @@
   {
     "Id": 849,
     "DeathPriority": 2,
-    "ModelFileName": "US_Army_radio",
+    "ModelFileName": "US_Airborne_radio",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 414
@@ -4914,7 +4946,7 @@
   {
     "Id": 851,
     "DeathPriority": 2,
-    "ModelFileName": "US_Army_rifle",
+    "ModelFileName": "US_Airborne_rifle2",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 415
@@ -4922,7 +4954,7 @@
   {
     "Id": 852,
     "DeathPriority": 2,
-    "ModelFileName": "US_Army_officer",
+    "ModelFileName": "US_Airborne_officer",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 415
@@ -4930,7 +4962,7 @@
   {
     "Id": 853,
     "DeathPriority": 2,
-    "ModelFileName": "US_Army_radio",
+    "ModelFileName": "US_Airborne_radio",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 0,
     "UnitId": 415
@@ -4945,7 +4977,7 @@
   },
   {
     "Id": 855,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "US_Ranger_Rifle1",
     "PrimaryWeaponId": 70,
     "SpecialWeaponId": 0,
@@ -4977,7 +5009,7 @@
   },
   {
     "Id": 859,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "US_Ranger_Rifle",
     "PrimaryWeaponId": 70,
     "SpecialWeaponId": 0,
@@ -4985,7 +5017,7 @@
   },
   {
     "Id": 860,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "US_Ranger_MG",
     "PrimaryWeaponId": 629,
     "SpecialWeaponId": 0,
@@ -5017,7 +5049,7 @@
   },
   {
     "Id": 864,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "RU_GRUSpetsnaz_Weapon",
     "PrimaryWeaponId": 135,
     "SpecialWeaponId": 146,
@@ -5041,7 +5073,7 @@
   },
   {
     "Id": 867,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_GRUSpetsnaz_officer",
     "PrimaryWeaponId": 188,
     "SpecialWeaponId": 0,
@@ -5057,7 +5089,7 @@
   },
   {
     "Id": 869,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "RU_GRUSpetsnaz_granade",
     "PrimaryWeaponId": 135,
     "SpecialWeaponId": 0,
@@ -5089,7 +5121,7 @@
   },
   {
     "Id": 873,
-    "DeathPriority": 0,
+    "DeathPriority": 1,
     "ModelFileName": "RU_GRUSpetsnaz_officer",
     "PrimaryWeaponId": 135,
     "SpecialWeaponId": 169,
@@ -5097,7 +5129,7 @@
   },
   {
     "Id": 874,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "RU_GRUSpetsnaz_granade",
     "PrimaryWeaponId": 135,
     "SpecialWeaponId": 169,
@@ -5105,7 +5137,7 @@
   },
   {
     "Id": 875,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "RU_GRUSpetsnaz_rifle",
     "PrimaryWeaponId": 135,
     "SpecialWeaponId": 169,
@@ -5113,7 +5145,7 @@
   },
   {
     "Id": 876,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Marksmen_rifle",
     "PrimaryWeaponId": 135,
     "SpecialWeaponId": 169,
@@ -5137,7 +5169,7 @@
   },
   {
     "Id": 879,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Gornostrelki_Officer",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -5145,7 +5177,7 @@
   },
   {
     "Id": 880,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Gornostrelki_MG",
     "PrimaryWeaponId": 167,
     "SpecialWeaponId": 0,
@@ -5161,7 +5193,7 @@
   },
   {
     "Id": 882,
-    "DeathPriority": 4,
+    "DeathPriority": 2,
     "ModelFileName": "RU_Gornostrelki_rifle",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -5529,7 +5561,7 @@
   },
   {
     "Id": 933,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "US_Army_Engineer_rifle1",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 58,
@@ -5537,7 +5569,7 @@
   },
   {
     "Id": 934,
-    "DeathPriority": 2,
+    "DeathPriority": 4,
     "ModelFileName": "US_Army_Engineer_rifle2",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 58,
@@ -5553,7 +5585,7 @@
   },
   {
     "Id": 936,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_Army_Engineer_rifle1",
     "PrimaryWeaponId": 60,
     "SpecialWeaponId": 0,
@@ -5561,7 +5593,7 @@
   },
   {
     "Id": 937,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "US_Army_Engineer_rifle2",
     "PrimaryWeaponId": 199,
     "SpecialWeaponId": 200,
@@ -5585,7 +5617,7 @@
   },
   {
     "Id": 940,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "US_Army_Engineer_rifle2",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 200,
@@ -5593,7 +5625,7 @@
   },
   {
     "Id": 941,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "US_Army_Engineer_rifle2",
     "PrimaryWeaponId": 50,
     "SpecialWeaponId": 200,
@@ -5601,7 +5633,7 @@
   },
   {
     "Id": 942,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "US_Airborne_radio",
     "PrimaryWeaponId": 208,
     "SpecialWeaponId": 0,
@@ -5617,7 +5649,7 @@
   },
   {
     "Id": 944,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "US_Airborne_rifle2",
     "PrimaryWeaponId": 209,
     "SpecialWeaponId": 0,
@@ -5665,7 +5697,7 @@
   },
   {
     "Id": 950,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Motostrelki_rifle_light",
     "PrimaryWeaponId": 156,
     "SpecialWeaponId": 0,
@@ -5673,7 +5705,7 @@
   },
   {
     "Id": 951,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Motostrelki_officer",
     "PrimaryWeaponId": 156,
     "SpecialWeaponId": 0,
@@ -5681,7 +5713,7 @@
   },
   {
     "Id": 952,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Motostrelki_rifle_light",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -5689,7 +5721,7 @@
   },
   {
     "Id": 953,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "RU_Motostrelki_rifle_light",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -5761,7 +5793,7 @@
   },
   {
     "Id": 962,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "RU_Motostrelki_rifle_light",
     "PrimaryWeaponId": 29,
     "SpecialWeaponId": 0,
@@ -5916,7 +5948,7 @@
     "DeathPriority": 3,
     "ModelFileName": "GreenBerets_Rifle1",
     "PrimaryWeaponId": 210,
-    "SpecialWeaponId": 0,
+    "SpecialWeaponId": 45,
     "UnitId": 470
   },
   {
@@ -5932,14 +5964,14 @@
     "DeathPriority": 2,
     "ModelFileName": "GreenBerets_Rifle3",
     "PrimaryWeaponId": 210,
-    "SpecialWeaponId": 0,
+    "SpecialWeaponId": 45,
     "UnitId": 470
   },
   {
     "Id": 992,
     "DeathPriority": 1,
     "ModelFileName": "GreenBerets_Weapon",
-    "PrimaryWeaponId": 45,
+    "PrimaryWeaponId": 210,
     "SpecialWeaponId": 698,
     "UnitId": 470
   },
@@ -6073,7 +6105,7 @@
   },
   {
     "Id": 1009,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_VDV_rifle_1",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 0,
@@ -6081,7 +6113,7 @@
   },
   {
     "Id": 1010,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "RU_VDV_rifle_2",
     "PrimaryWeaponId": 122,
     "SpecialWeaponId": 0,
@@ -6425,8 +6457,8 @@
   },
   {
     "Id": 1053,
-    "DeathPriority": 3,
-    "ModelFileName": "RU_Motostrelki_MG",
+    "DeathPriority": 2,
+    "ModelFileName": "RU_GvMotostrelki_MG",
     "PrimaryWeaponId": 30,
     "SpecialWeaponId": 0,
     "UnitId": 401
@@ -6497,7 +6529,7 @@
   },
   {
     "Id": 1062,
-    "DeathPriority": 0,
+    "DeathPriority": 1,
     "ModelFileName": "DLC2_KASP_rifle1",
     "PrimaryWeaponId": 735,
     "SpecialWeaponId": 743,
@@ -6505,7 +6537,7 @@
   },
   {
     "Id": 1063,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_KASP_rifle2",
     "PrimaryWeaponId": 735,
     "SpecialWeaponId": 743,
@@ -6513,7 +6545,7 @@
   },
   {
     "Id": 1064,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_KASP_rifle3",
     "PrimaryWeaponId": 735,
     "SpecialWeaponId": 743,
@@ -6521,7 +6553,7 @@
   },
   {
     "Id": 1065,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_KASP_rifle3",
     "PrimaryWeaponId": 735,
     "SpecialWeaponId": 743,
@@ -6529,7 +6561,7 @@
   },
   {
     "Id": 1066,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_KASP_rifle4",
     "PrimaryWeaponId": 735,
     "SpecialWeaponId": 743,
@@ -6556,7 +6588,7 @@
     "DeathPriority": 2,
     "ModelFileName": "DLC2_JalavaeJagu_rifle2",
     "PrimaryWeaponId": 785,
-    "SpecialWeaponId": 0,
+    "SpecialWeaponId": 644,
     "UnitId": 513
   },
   {
@@ -6601,7 +6633,7 @@
   },
   {
     "Id": 1075,
-    "DeathPriority": 4,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_MechanizetieKajiniieki_rifle1",
     "PrimaryWeaponId": 736,
     "SpecialWeaponId": 738,
@@ -6617,7 +6649,7 @@
   },
   {
     "Id": 1077,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_MechanizetieKajiniieki_rifle2",
     "PrimaryWeaponId": 739,
     "SpecialWeaponId": 59,
@@ -6625,7 +6657,7 @@
   },
   {
     "Id": 1078,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "DLC2_MechanizetieKajiniieki_rifle3",
     "PrimaryWeaponId": 736,
     "SpecialWeaponId": 59,
@@ -6633,7 +6665,7 @@
   },
   {
     "Id": 1079,
-    "DeathPriority": 4,
+    "DeathPriority": 3,
     "ModelFileName": "DLC2_MechanizetieKajiniieki_rifle1",
     "PrimaryWeaponId": 736,
     "SpecialWeaponId": 59,
@@ -6745,7 +6777,7 @@
   },
   {
     "Id": 1093,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "DLC2_ESTSOF_rifle1",
     "PrimaryWeaponId": 751,
     "SpecialWeaponId": 752,
@@ -6785,7 +6817,7 @@
   },
   {
     "Id": 1098,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "DLC2_ESTSOF_rifle3",
     "PrimaryWeaponId": 751,
     "SpecialWeaponId": 752,
@@ -6809,10 +6841,10 @@
   },
   {
     "Id": 1105,
-    "DeathPriority": 4,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_Zaliukai_rifle1",
     "PrimaryWeaponId": 754,
-    "SpecialWeaponId": 0,
+    "SpecialWeaponId": 756,
     "UnitId": 518
   },
   {
@@ -6820,12 +6852,12 @@
     "DeathPriority": 2,
     "ModelFileName": "DLC2_Zaliukai_rifle3",
     "PrimaryWeaponId": 755,
-    "SpecialWeaponId": 756,
+    "SpecialWeaponId": 212,
     "UnitId": 518
   },
   {
     "Id": 1107,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_Zaliukai_rifle2",
     "PrimaryWeaponId": 754,
     "SpecialWeaponId": 212,
@@ -6833,7 +6865,7 @@
   },
   {
     "Id": 1108,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "DLC2_Zaliukai_rifle3",
     "PrimaryWeaponId": 755,
     "SpecialWeaponId": 212,
@@ -6849,7 +6881,7 @@
   },
   {
     "Id": 1111,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "DLC2_Zaliukai_rifle2",
     "PrimaryWeaponId": 754,
     "SpecialWeaponId": 756,
@@ -6857,7 +6889,7 @@
   },
   {
     "Id": 1112,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "DLC2_Zaliukai_rifle4",
     "PrimaryWeaponId": 754,
     "SpecialWeaponId": 212,
@@ -6865,7 +6897,7 @@
   },
   {
     "Id": 1113,
-    "DeathPriority": 3,
+    "DeathPriority": 4,
     "ModelFileName": "DLC2_Zaliukai_rifle4",
     "PrimaryWeaponId": 754,
     "SpecialWeaponId": 212,
@@ -7025,7 +7057,7 @@
   },
   {
     "Id": 1136,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "DLC2_GelezinisVilkas_rifle3",
     "PrimaryWeaponId": 735,
     "SpecialWeaponId": 0,
@@ -7057,7 +7089,7 @@
   },
   {
     "Id": 1140,
-    "DeathPriority": 2,
+    "DeathPriority": 1,
     "ModelFileName": "DLC2_MechanizetieKajiniieki_Heavy",
     "PrimaryWeaponId": 749,
     "SpecialWeaponId": 0,
@@ -7084,7 +7116,7 @@
     "DeathPriority": 2,
     "ModelFileName": "DLC2_EestiScouts_rifle3",
     "PrimaryWeaponId": 696,
-    "SpecialWeaponId": 0,
+    "SpecialWeaponId": 644,
     "UnitId": 525
   },
   {
@@ -7137,7 +7169,7 @@
   },
   {
     "Id": 1151,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_SUV_rifle1",
     "PrimaryWeaponId": 761,
     "SpecialWeaponId": 0,
@@ -7177,7 +7209,7 @@
   },
   {
     "Id": 1157,
-    "DeathPriority": 3,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_Jageries_rifle1",
     "PrimaryWeaponId": 767,
     "SpecialWeaponId": 0,
@@ -7217,7 +7249,7 @@
   },
   {
     "Id": 1163,
-    "DeathPriority": 1,
+    "DeathPriority": 3,
     "ModelFileName": "DLC2_SnaiperuKomanda_rifle1",
     "PrimaryWeaponId": 736,
     "SpecialWeaponId": 738,
@@ -7225,7 +7257,7 @@
   },
   {
     "Id": 1164,
-    "DeathPriority": 1,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_SnaiperuKomanda_rifle2",
     "PrimaryWeaponId": 763,
     "SpecialWeaponId": 0,
@@ -7241,7 +7273,7 @@
   },
   {
     "Id": 1166,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_Snaiprid_rifle1",
     "PrimaryWeaponId": 696,
     "SpecialWeaponId": 0,
@@ -7249,7 +7281,7 @@
   },
   {
     "Id": 1167,
-    "DeathPriority": 0,
+    "DeathPriority": 1,
     "ModelFileName": "DLC2_Snaiprid_rifle2",
     "PrimaryWeaponId": 765,
     "SpecialWeaponId": 0,
@@ -7321,7 +7353,7 @@
   },
   {
     "Id": 1176,
-    "DeathPriority": 2,
+    "DeathPriority": 3,
     "ModelFileName": "DLC2_EestiScouts_rifle1",
     "PrimaryWeaponId": 693,
     "SpecialWeaponId": 644,
@@ -7361,7 +7393,7 @@
   },
   {
     "Id": 1183,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_MechanizetieKajiniieki_rifle1",
     "PrimaryWeaponId": 736,
     "SpecialWeaponId": 0,
@@ -7369,7 +7401,7 @@
   },
   {
     "Id": 1184,
-    "DeathPriority": 0,
+    "DeathPriority": 2,
     "ModelFileName": "DLC2_MechanizetieKajiniieki_Heavy",
     "PrimaryWeaponId": 206,
     "SpecialWeaponId": 0,
@@ -7377,7 +7409,7 @@
   },
   {
     "Id": 1185,
-    "DeathPriority": 0,
+    "DeathPriority": 3,
     "ModelFileName": "DLC2_MechanizetieKajiniieki_rifle2",
     "PrimaryWeaponId": 736,
     "SpecialWeaponId": 0,
@@ -7385,10 +7417,354 @@
   },
   {
     "Id": 1186,
-    "DeathPriority": 0,
+    "DeathPriority": 1,
     "ModelFileName": "DLC2_MechanizetieKajiniieki_Heavy",
     "PrimaryWeaponId": 750,
     "SpecialWeaponId": 0,
     "UnitId": 544
+  },
+  {
+    "Id": 1315,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_Chernye_Berety_rifle1",
+    "PrimaryWeaponId": 134,
+    "SpecialWeaponId": 669,
+    "UnitId": 113
+  },
+  {
+    "Id": 1316,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_Chernye_Berety_rifle2",
+    "PrimaryWeaponId": 134,
+    "SpecialWeaponId": 669,
+    "UnitId": 113
+  },
+  {
+    "Id": 1317,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_Chernye_Berety_rifle",
+    "PrimaryWeaponId": 134,
+    "SpecialWeaponId": 669,
+    "UnitId": 113
+  },
+  {
+    "Id": 1318,
+    "DeathPriority": 4,
+    "ModelFileName": "RU_Chernye_Berety_rifle2",
+    "PrimaryWeaponId": 134,
+    "SpecialWeaponId": 669,
+    "UnitId": 113
+  },
+  {
+    "Id": 1319,
+    "DeathPriority": 4,
+    "ModelFileName": "RU_Chernye_Berety_granade",
+    "PrimaryWeaponId": 134,
+    "SpecialWeaponId": 524,
+    "UnitId": 113
+  },
+  {
+    "Id": 1322,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_Chernye_Berety_rifle2",
+    "PrimaryWeaponId": 527,
+    "SpecialWeaponId": 0,
+    "UnitId": 372
+  },
+  {
+    "Id": 1323,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_Chernye_Berety_rifle1",
+    "PrimaryWeaponId": 527,
+    "SpecialWeaponId": 0,
+    "UnitId": 372
+  },
+  {
+    "Id": 1324,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_Chernye_Berety_rifle2",
+    "PrimaryWeaponId": 527,
+    "SpecialWeaponId": 0,
+    "UnitId": 372
+  },
+  {
+    "Id": 1325,
+    "DeathPriority": 4,
+    "ModelFileName": "RU_Chernye_Berety_rifle1",
+    "PrimaryWeaponId": 527,
+    "SpecialWeaponId": 0,
+    "UnitId": 372
+  },
+  {
+    "Id": 1326,
+    "DeathPriority": 4,
+    "ModelFileName": "RU_Chernye_Berety_granade",
+    "PrimaryWeaponId": 527,
+    "SpecialWeaponId": 528,
+    "UnitId": 372
+  },
+  {
+    "Id": 1415,
+    "DeathPriority": 3,
+    "ModelFileName": "US_Army_Engineer_rifle2",
+    "PrimaryWeaponId": 50,
+    "SpecialWeaponId": 0,
+    "UnitId": 146
+  },
+  {
+    "Id": 1416,
+    "DeathPriority": 2,
+    "ModelFileName": "US_Army_granade",
+    "PrimaryWeaponId": 50,
+    "SpecialWeaponId": 58,
+    "UnitId": 57
+  },
+  {
+    "Id": 1417,
+    "DeathPriority": 2,
+    "ModelFileName": "US_Army_MG",
+    "PrimaryWeaponId": 63,
+    "SpecialWeaponId": 0,
+    "UnitId": 370
+  },
+  {
+    "Id": 1418,
+    "DeathPriority": 2,
+    "ModelFileName": "US_Army_granade",
+    "PrimaryWeaponId": 50,
+    "SpecialWeaponId": 58,
+    "UnitId": 371
+  },
+  {
+    "Id": 1427,
+    "DeathPriority": 3,
+    "ModelFileName": "US_Army_officer",
+    "PrimaryWeaponId": 50,
+    "SpecialWeaponId": 0,
+    "UnitId": 638
+  },
+  {
+    "Id": 1428,
+    "DeathPriority": 3,
+    "ModelFileName": "US_Army_radio",
+    "PrimaryWeaponId": 50,
+    "SpecialWeaponId": 0,
+    "UnitId": 638
+  },
+  {
+    "Id": 1429,
+    "DeathPriority": 2,
+    "ModelFileName": "US_Army_MG",
+    "PrimaryWeaponId": 63,
+    "SpecialWeaponId": 0,
+    "UnitId": 638
+  },
+  {
+    "Id": 1430,
+    "DeathPriority": 2,
+    "ModelFileName": "US_Army_MG",
+    "PrimaryWeaponId": 63,
+    "SpecialWeaponId": 0,
+    "UnitId": 638
+  },
+  {
+    "Id": 1431,
+    "DeathPriority": 1,
+    "ModelFileName": "US_Army_Weapon",
+    "PrimaryWeaponId": 50,
+    "SpecialWeaponId": 506,
+    "UnitId": 638
+  },
+  {
+    "Id": 1432,
+    "DeathPriority": 3,
+    "ModelFileName": "US_Army_rifle",
+    "PrimaryWeaponId": 50,
+    "SpecialWeaponId": 0,
+    "UnitId": 638
+  },
+  {
+    "Id": 1433,
+    "DeathPriority": 3,
+    "ModelFileName": "US_Army_rifle",
+    "PrimaryWeaponId": 50,
+    "SpecialWeaponId": 0,
+    "UnitId": 638
+  },
+  {
+    "Id": 1434,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_Motostrelki_officer",
+    "PrimaryWeaponId": 29,
+    "SpecialWeaponId": 31,
+    "UnitId": 639
+  },
+  {
+    "Id": 1435,
+    "DeathPriority": 4,
+    "ModelFileName": "RU_Motostrelki_MG",
+    "PrimaryWeaponId": 30,
+    "SpecialWeaponId": 0,
+    "UnitId": 639
+  },
+  {
+    "Id": 1436,
+    "DeathPriority": 2,
+    "ModelFileName": "RU_Motostrelki_AGS",
+    "PrimaryWeaponId": 578,
+    "SpecialWeaponId": 0,
+    "UnitId": 639
+  },
+  {
+    "Id": 1437,
+    "DeathPriority": 1,
+    "ModelFileName": "RU_Motostrelki_Weapon",
+    "PrimaryWeaponId": 29,
+    "SpecialWeaponId": 32,
+    "UnitId": 639
+  },
+  {
+    "Id": 1438,
+    "DeathPriority": 4,
+    "ModelFileName": "RU_Motostrelki_rifle",
+    "PrimaryWeaponId": 29,
+    "SpecialWeaponId": 0,
+    "UnitId": 639
+  },
+  {
+    "Id": 1439,
+    "DeathPriority": 4,
+    "ModelFileName": "RU_Motostrelki_rifle",
+    "PrimaryWeaponId": 29,
+    "SpecialWeaponId": 0,
+    "UnitId": 639
+  },
+  {
+    "Id": 1440,
+    "DeathPriority": 4,
+    "ModelFileName": "RU_Motostrelki_rifle",
+    "PrimaryWeaponId": 29,
+    "SpecialWeaponId": 0,
+    "UnitId": 639
+  },
+  {
+    "Id": 1441,
+    "DeathPriority": 4,
+    "ModelFileName": "RU_Motostrelki_rifle1",
+    "PrimaryWeaponId": 29,
+    "SpecialWeaponId": 0,
+    "UnitId": 639
+  },
+  {
+    "Id": 1442,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_VDV_officer",
+    "PrimaryWeaponId": 122,
+    "SpecialWeaponId": 137,
+    "UnitId": 640
+  },
+  {
+    "Id": 1443,
+    "DeathPriority": 2,
+    "ModelFileName": "RU_VDV_MG",
+    "PrimaryWeaponId": 129,
+    "SpecialWeaponId": 0,
+    "UnitId": 640
+  },
+  {
+    "Id": 1444,
+    "DeathPriority": 2,
+    "ModelFileName": "RU_VDV_Weapon",
+    "PrimaryWeaponId": 122,
+    "SpecialWeaponId": 789,
+    "UnitId": 640
+  },
+  {
+    "Id": 1445,
+    "DeathPriority": 1,
+    "ModelFileName": "RU_VDV_Weapon",
+    "PrimaryWeaponId": 122,
+    "SpecialWeaponId": 789,
+    "UnitId": 640
+  },
+  {
+    "Id": 1446,
+    "DeathPriority": 4,
+    "ModelFileName": "RU_VDV_rifle_2",
+    "PrimaryWeaponId": 122,
+    "SpecialWeaponId": 0,
+    "UnitId": 640
+  },
+  {
+    "Id": 1462,
+    "DeathPriority": 3,
+    "ModelFileName": "US_Airborne_radio",
+    "PrimaryWeaponId": 208,
+    "SpecialWeaponId": 0,
+    "UnitId": 644
+  },
+  {
+    "Id": 1463,
+    "DeathPriority": 2,
+    "ModelFileName": "US_Airborne_officer",
+    "PrimaryWeaponId": 208,
+    "SpecialWeaponId": 533,
+    "UnitId": 644
+  },
+  {
+    "Id": 1464,
+    "DeathPriority": 2,
+    "ModelFileName": "US_Airborne_rifle2",
+    "PrimaryWeaponId": 209,
+    "SpecialWeaponId": 0,
+    "UnitId": 644
+  },
+  {
+    "Id": 1465,
+    "DeathPriority": 1,
+    "ModelFileName": "US_ArmySniper_Rifle1",
+    "PrimaryWeaponId": 56,
+    "SpecialWeaponId": 0,
+    "UnitId": 644
+  },
+  {
+    "Id": 1466,
+    "DeathPriority": 2,
+    "ModelFileName": "RU_VDV_officer",
+    "PrimaryWeaponId": 122,
+    "SpecialWeaponId": 137,
+    "UnitId": 645
+  },
+  {
+    "Id": 1467,
+    "DeathPriority": 2,
+    "ModelFileName": "RU_VDV_rifle_1",
+    "PrimaryWeaponId": 122,
+    "SpecialWeaponId": 0,
+    "UnitId": 645
+  },
+  {
+    "Id": 1468,
+    "DeathPriority": 1,
+    "ModelFileName": "RU_VDV_Weapon",
+    "PrimaryWeaponId": 122,
+    "SpecialWeaponId": 162,
+    "UnitId": 645
+  },
+  {
+    "Id": 1469,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_VDV_rifle_1",
+    "PrimaryWeaponId": 122,
+    "SpecialWeaponId": 0,
+    "UnitId": 645
+  },
+  {
+    "Id": 1470,
+    "DeathPriority": 3,
+    "ModelFileName": "RU_VDV_rifle_2",
+    "PrimaryWeaponId": 122,
+    "SpecialWeaponId": 0,
+    "UnitId": 645
   }
 ]

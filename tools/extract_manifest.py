@@ -12,6 +12,11 @@ runs (and stays meaningful) on its own:
     data_level    : Assets/Resources/DataBaseCompiled.asset (Level:)
     source_sha256 : SHA-256 of that same .asset  -> the definitive "did the
                     data actually change this patch?" signal, timestamp-free.
+    tables/total_rows/row_counts : per-table row counts, read from the decrypted
+                    output/tables/*.json if they exist. These are derived from
+                    the *already-produced* JSON (not from decryption), so the
+                    manifest still needs no AES key; when the tables have not
+                    been extracted yet the row-count fields are simply omitted.
 
 Usage:
     python tools/extract_manifest.py
@@ -28,6 +33,15 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+# Make sibling tools importable regardless of the caller's cwd, so we can reuse
+# the canonical table order for stable, diff-friendly row_counts output.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+try:
+    from extract_database import FIELD_TO_TABLE
+    TABLE_ORDER = list(FIELD_TO_TABLE.values())
+except Exception:  # pragma: no cover - fallback if the sibling module moves
+    TABLE_ORDER = []
+
 DEFAULT_ROOT = "ExportedProject"
 DEFAULT_OUT = "output"
 
@@ -39,6 +53,29 @@ ASSET_REL = "Assets/Resources/DataBaseCompiled.asset"
 
 def warn(msg: str) -> None:
     print(f"  ! {msg}", file=sys.stderr)
+
+
+def count_table_rows(tables_dir: Path) -> dict[str, int]:
+    """Per-table row counts from output/tables/*.json (canonical order first).
+
+    Returns an empty dict if the tables have not been extracted, so callers can
+    treat row counts as an optional enrichment of the key-free manifest.
+    """
+    if not tables_dir.is_dir():
+        return {}
+    found = {p.stem: p for p in tables_dir.glob("*.json")}
+    # Canonical table order first, then any extras (alphabetical) for stability.
+    ordered = [t for t in TABLE_ORDER if t in found]
+    ordered += sorted(name for name in found if name not in TABLE_ORDER)
+    counts: dict[str, int] = {}
+    for name in ordered:
+        try:
+            data = json.loads(found[name].read_text(encoding="utf-8"))
+        except Exception as exc:  # noqa: BLE001 - skip unreadable table, keep going
+            warn(f"could not read {found[name].name} for row count: {exc}")
+            continue
+        counts[name] = len(data) if isinstance(data, list) else 1
+    return counts
 
 
 def sha256_file(path: Path) -> str:
@@ -95,13 +132,22 @@ def main() -> int:
         "data_level": data_level,
         "unity_version": unity_version,
         "extracted_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "source_asset": str(asset_path),
+        "source_asset": str(asset_path).replace("\\", "/"),
         "source_sha256": source_sha256,
     }
+    row_counts = count_table_rows(out_dir / "tables")
+    if row_counts:
+        manifest["tables"] = len(row_counts)
+        manifest["total_rows"] = sum(row_counts.values())
+        manifest["row_counts"] = row_counts
+    else:
+        warn(f"no decrypted tables in {out_dir / 'tables'}; "
+             "row_counts omitted (run extract_database.py first)")
     (out_dir / "manifest.json").write_text(
         json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
     short = source_sha256[:12] + "…" if source_sha256 else "n/a"
-    print(f"Wrote {out_dir / 'manifest.json'} (game {game_version}, sha256 {short})")
+    rows = f", {manifest['total_rows']} rows" if row_counts else ""
+    print(f"Wrote {out_dir / 'manifest.json'} (game {game_version}, sha256 {short}{rows})")
     return 0
 
 

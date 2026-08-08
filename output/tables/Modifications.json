@@ -4831,5 +4831,41 @@
     "UIName": "Custom_Slot_Weapon_package",
     "ThumbnailFileName": null,
     "Order": 0
+  },
+  {
+    "Id": 737,
+    "UnitId": 370,
+    "Name": "Squad Mech. Riflemen MMG",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 738,
+    "UnitId": 402,
+    "Name": "Squad PTO Metis",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 742,
+    "UnitId": 350,
+    "Name": "Squad AB Recce",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
+  },
+  {
+    "Id": 743,
+    "UnitId": 108,
+    "Name": "Squad VDV Dsh",
+    "Type": 7,
+    "UIName": "Custom_Slot_Squad_loadout",
+    "ThumbnailFileName": null,
+    "Order": 0
   }
 ]

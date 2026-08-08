@@ -17,12 +17,12 @@
   {
     "Id": 108,
     "UnitId": 57,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 121,
     "UnitId": 70,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 137,
@@ -77,12 +77,7 @@
   {
     "Id": 185,
     "UnitId": 66,
-    "SensorId": 2
-  },
-  {
-    "Id": 186,
-    "UnitId": 69,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 194,
@@ -157,27 +152,22 @@
   {
     "Id": 260,
     "UnitId": 110,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 261,
     "UnitId": 111,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 262,
     "UnitId": 108,
-    "SensorId": 2
-  },
-  {
-    "Id": 263,
-    "UnitId": 109,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 264,
     "UnitId": 112,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 267,
@@ -187,7 +177,7 @@
   {
     "Id": 269,
     "UnitId": 117,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 270,
@@ -197,22 +187,17 @@
   {
     "Id": 271,
     "UnitId": 119,
-    "SensorId": 2
-  },
-  {
-    "Id": 272,
-    "UnitId": 120,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 273,
     "UnitId": 121,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 274,
     "UnitId": 122,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 276,
@@ -222,32 +207,27 @@
   {
     "Id": 278,
     "UnitId": 126,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 279,
     "UnitId": 127,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 280,
     "UnitId": 128,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 284,
     "UnitId": 132,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 285,
     "UnitId": 133,
-    "SensorId": 2
-  },
-  {
-    "Id": 286,
-    "UnitId": 134,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 292,
@@ -272,22 +252,22 @@
   {
     "Id": 300,
     "UnitId": 146,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 301,
     "UnitId": 147,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 302,
     "UnitId": 148,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 303,
     "UnitId": 149,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 306,
@@ -767,7 +747,7 @@
   {
     "Id": 512,
     "UnitId": 62,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 517,
@@ -892,7 +872,7 @@
   {
     "Id": 561,
     "UnitId": 320,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 569,
@@ -927,7 +907,7 @@
   {
     "Id": 586,
     "UnitId": 332,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 592,
@@ -942,7 +922,7 @@
   {
     "Id": 595,
     "UnitId": 343,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 599,
@@ -957,42 +937,37 @@
   {
     "Id": 603,
     "UnitId": 351,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 604,
     "UnitId": 352,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 605,
     "UnitId": 353,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 607,
     "UnitId": 355,
-    "SensorId": 2
-  },
-  {
-    "Id": 608,
-    "UnitId": 356,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 609,
     "UnitId": 357,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 610,
     "UnitId": 358,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 612,
     "UnitId": 359,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 614,
@@ -1082,6 +1057,11 @@
   {
     "Id": 656,
     "UnitId": 114,
+    "SensorId": 1
+  },
+  {
+    "Id": 657,
+    "UnitId": 350,
     "SensorId": 1
   },
   {
@@ -1222,7 +1202,7 @@
   {
     "Id": 708,
     "UnitId": 369,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 710,
@@ -1242,12 +1222,7 @@
   {
     "Id": 713,
     "UnitId": 370,
-    "SensorId": 2
-  },
-  {
-    "Id": 714,
-    "UnitId": 371,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 716,
@@ -1347,22 +1322,17 @@
   {
     "Id": 739,
     "UnitId": 72,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 740,
     "UnitId": 75,
-    "SensorId": 2
-  },
-  {
-    "Id": 741,
-    "UnitId": 73,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 742,
     "UnitId": 74,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 743,
@@ -1377,27 +1347,27 @@
   {
     "Id": 745,
     "UnitId": 59,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 746,
     "UnitId": 60,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 747,
     "UnitId": 63,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 748,
     "UnitId": 64,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 749,
     "UnitId": 176,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 753,
@@ -1572,37 +1542,32 @@
   {
     "Id": 805,
     "UnitId": 398,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 806,
     "UnitId": 399,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 807,
     "UnitId": 400,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 808,
     "UnitId": 401,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 809,
     "UnitId": 402,
-    "SensorId": 2
-  },
-  {
-    "Id": 811,
-    "UnitId": 404,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 812,
     "UnitId": 405,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 813,
@@ -1612,42 +1577,37 @@
   {
     "Id": 815,
     "UnitId": 407,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 816,
     "UnitId": 408,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 817,
     "UnitId": 409,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 818,
     "UnitId": 410,
-    "SensorId": 2
-  },
-  {
-    "Id": 821,
-    "UnitId": 413,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 822,
     "UnitId": 414,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 823,
     "UnitId": 415,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 824,
     "UnitId": 416,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 826,
@@ -1657,7 +1617,7 @@
   {
     "Id": 827,
     "UnitId": 419,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 828,
@@ -1835,11 +1795,6 @@
     "SensorId": 3
   },
   {
-    "Id": 867,
-    "UnitId": 440,
-    "SensorId": 2
-  },
-  {
     "Id": 868,
     "UnitId": 441,
     "SensorId": 2
@@ -1907,7 +1862,7 @@
   {
     "Id": 881,
     "UnitId": 449,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 882,
@@ -1932,27 +1887,27 @@
   {
     "Id": 886,
     "UnitId": 454,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 887,
     "UnitId": 150,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 888,
     "UnitId": 411,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 889,
     "UnitId": 113,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 890,
     "UnitId": 372,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 895,
@@ -1967,12 +1922,12 @@
   {
     "Id": 899,
     "UnitId": 406,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 900,
     "UnitId": 130,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 901,
@@ -1987,12 +1942,12 @@
   {
     "Id": 903,
     "UnitId": 459,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 904,
     "UnitId": 460,
-    "SensorId": 2
+    "SensorId": 23
   },
   {
     "Id": 905,
@@ -2230,28 +2185,13 @@
     "SensorId": 1
   },
   {
-    "Id": 966,
-    "UnitId": 417,
-    "SensorId": 1
-  },
-  {
     "Id": 967,
     "UnitId": 346,
     "SensorId": 1
   },
   {
-    "Id": 968,
-    "UnitId": 125,
-    "SensorId": 1
-  },
-  {
     "Id": 969,
     "UnitId": 138,
-    "SensorId": 3
-  },
-  {
-    "Id": 970,
-    "UnitId": 385,
     "SensorId": 3
   },
   {
@@ -2277,11 +2217,6 @@
   {
     "Id": 975,
     "UnitId": 276,
-    "SensorId": 1
-  },
-  {
-    "Id": 976,
-    "UnitId": 342,
     "SensorId": 1
   },
   {
@@ -2450,16 +2385,6 @@
     "SensorId": 2
   },
   {
-    "Id": 1016,
-    "UnitId": 506,
-    "SensorId": 2
-  },
-  {
-    "Id": 1017,
-    "UnitId": 507,
-    "SensorId": 2
-  },
-  {
     "Id": 1018,
     "UnitId": 508,
     "SensorId": 7
@@ -2473,66 +2398,6 @@
     "Id": 1021,
     "UnitId": 512,
     "SensorId": 9
-  },
-  {
-    "Id": 1022,
-    "UnitId": 513,
-    "SensorId": 2
-  },
-  {
-    "Id": 1023,
-    "UnitId": 514,
-    "SensorId": 2
-  },
-  {
-    "Id": 1024,
-    "UnitId": 515,
-    "SensorId": 2
-  },
-  {
-    "Id": 1025,
-    "UnitId": 516,
-    "SensorId": 2
-  },
-  {
-    "Id": 1026,
-    "UnitId": 517,
-    "SensorId": 2
-  },
-  {
-    "Id": 1027,
-    "UnitId": 518,
-    "SensorId": 2
-  },
-  {
-    "Id": 1028,
-    "UnitId": 519,
-    "SensorId": 2
-  },
-  {
-    "Id": 1029,
-    "UnitId": 520,
-    "SensorId": 2
-  },
-  {
-    "Id": 1030,
-    "UnitId": 521,
-    "SensorId": 2
-  },
-  {
-    "Id": 1031,
-    "UnitId": 522,
-    "SensorId": 2
-  },
-  {
-    "Id": 1032,
-    "UnitId": 523,
-    "SensorId": 2
-  },
-  {
-    "Id": 1033,
-    "UnitId": 524,
-    "SensorId": 2
   },
   {
     "Id": 1034,
@@ -2568,16 +2433,6 @@
     "Id": 1041,
     "UnitId": 531,
     "SensorId": 4
-  },
-  {
-    "Id": 1042,
-    "UnitId": 533,
-    "SensorId": 2
-  },
-  {
-    "Id": 1043,
-    "UnitId": 534,
-    "SensorId": 2
   },
   {
     "Id": 1044,
@@ -2670,11 +2525,6 @@
     "SensorId": 28
   },
   {
-    "Id": 1063,
-    "UnitId": 544,
-    "SensorId": 2
-  },
-  {
     "Id": 1064,
     "UnitId": 545,
     "SensorId": 8
@@ -2683,5 +2533,190 @@
     "Id": 1065,
     "UnitId": 508,
     "SensorId": 36
+  },
+  {
+    "Id": 1066,
+    "UnitId": 506,
+    "SensorId": 23
+  },
+  {
+    "Id": 1067,
+    "UnitId": 507,
+    "SensorId": 23
+  },
+  {
+    "Id": 1068,
+    "UnitId": 513,
+    "SensorId": 23
+  },
+  {
+    "Id": 1069,
+    "UnitId": 514,
+    "SensorId": 23
+  },
+  {
+    "Id": 1070,
+    "UnitId": 515,
+    "SensorId": 23
+  },
+  {
+    "Id": 1071,
+    "UnitId": 516,
+    "SensorId": 23
+  },
+  {
+    "Id": 1072,
+    "UnitId": 517,
+    "SensorId": 23
+  },
+  {
+    "Id": 1073,
+    "UnitId": 518,
+    "SensorId": 23
+  },
+  {
+    "Id": 1074,
+    "UnitId": 519,
+    "SensorId": 23
+  },
+  {
+    "Id": 1075,
+    "UnitId": 520,
+    "SensorId": 23
+  },
+  {
+    "Id": 1076,
+    "UnitId": 521,
+    "SensorId": 23
+  },
+  {
+    "Id": 1080,
+    "UnitId": 533,
+    "SensorId": 23
+  },
+  {
+    "Id": 1081,
+    "UnitId": 534,
+    "SensorId": 23
+  },
+  {
+    "Id": 1082,
+    "UnitId": 544,
+    "SensorId": 23
+  },
+  {
+    "Id": 1205,
+    "UnitId": 385,
+    "SensorId": 1
+  },
+  {
+    "Id": 1246,
+    "UnitId": 638,
+    "SensorId": 23
+  },
+  {
+    "Id": 1247,
+    "UnitId": 639,
+    "SensorId": 23
+  },
+  {
+    "Id": 1248,
+    "UnitId": 640,
+    "SensorId": 23
+  },
+  {
+    "Id": 1252,
+    "UnitId": 644,
+    "SensorId": 1
+  },
+  {
+    "Id": 1257,
+    "UnitId": 109,
+    "SensorId": 41
+  },
+  {
+    "Id": 1258,
+    "UnitId": 404,
+    "SensorId": 41
+  },
+  {
+    "Id": 1259,
+    "UnitId": 120,
+    "SensorId": 41
+  },
+  {
+    "Id": 1260,
+    "UnitId": 356,
+    "SensorId": 41
+  },
+  {
+    "Id": 1261,
+    "UnitId": 134,
+    "SensorId": 41
+  },
+  {
+    "Id": 1262,
+    "UnitId": 417,
+    "SensorId": 43
+  },
+  {
+    "Id": 1263,
+    "UnitId": 125,
+    "SensorId": 43
+  },
+  {
+    "Id": 1264,
+    "UnitId": 371,
+    "SensorId": 41
+  },
+  {
+    "Id": 1265,
+    "UnitId": 413,
+    "SensorId": 41
+  },
+  {
+    "Id": 1266,
+    "UnitId": 69,
+    "SensorId": 41
+  },
+  {
+    "Id": 1269,
+    "UnitId": 440,
+    "SensorId": 41
+  },
+  {
+    "Id": 1270,
+    "UnitId": 342,
+    "SensorId": 43
+  },
+  {
+    "Id": 1271,
+    "UnitId": 522,
+    "SensorId": 41
+  },
+  {
+    "Id": 1272,
+    "UnitId": 523,
+    "SensorId": 41
+  },
+  {
+    "Id": 1273,
+    "UnitId": 524,
+    "SensorId": 41
+  },
+  {
+    "Id": 1279,
+    "UnitId": 454,
+    "SensorId": 23
+  },
+  {
+    "Id": 1314,
+    "UnitId": 73,
+    "SensorId": 42
+  },
+  {
+    "Id": 1401,
+    "UnitId": 645,
+    "SensorId": 23
   }
 ]

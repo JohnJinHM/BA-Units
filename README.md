@@ -2,7 +2,7 @@
 
 Extract clean, readable JSON of **unit data from the game [Broken Arrow](https://store.steampowered.com/app/644960/Broken_Arrow/)**.
 
-**Current Build: 1.1.0.2**
+**Current Build: 1.1.1.1**
 
 The game ships its unit database encrypted inside its assets. This project decrypts
 it and turns it into plain JSON files you can read, diff, or build tools on top of —
@@ -50,11 +50,16 @@ The field names match the game's own data model, so a row looks like this:
 read from `ProjectSettings` and a hash of the source asset:
 
 ```json
-{ "game_version": "1.1.0.2", "data_level": 2, "unity_version": "2022.3.62f3",
-  "extracted_at": "2026-06-30T05:42:26+00:00",
+{ "game_version": "1.1.1.1", "data_level": 2, "unity_version": "2022.3.62f3",
+  "extracted_at": "2026-08-08T21:23:42+00:00",
   "source_asset": "ExportedProject/Assets/Resources/DataBaseCompiled.asset",
-  "source_sha256": "538fdba2bf46c1260dc30ba4ee2fb660ab764c30e67522ed42941cc3e701ca36" }
+  "source_sha256": "5357d07b20e77baaa0914415266ba88aa88ff04a1ea8bc0d532f547fda27af8c",
+  "tables": 24, "total_rows": 14825,
+  "row_counts": { "Units": 481, "Weapons": 717, "Options": 1810, "…": 0 } }
 ```
+
+The `row_counts` block is filled in from the decrypted `output/tables/*.json`, so
+it appears whenever the tables have already been extracted (as in `Extract All`).
 
 ---
 

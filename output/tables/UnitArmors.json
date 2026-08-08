@@ -1215,11 +1215,6 @@
     "ArmorId": 223
   },
   {
-    "Id": 438,
-    "UnitId": 57,
-    "ArmorId": 82
-  },
-  {
     "Id": 442,
     "UnitId": 277,
     "ArmorId": 82
@@ -1620,16 +1615,6 @@
     "ArmorId": 94
   },
   {
-    "Id": 585,
-    "UnitId": 370,
-    "ArmorId": 82
-  },
-  {
-    "Id": 586,
-    "UnitId": 371,
-    "ArmorId": 82
-  },
-  {
     "Id": 588,
     "UnitId": 373,
     "ArmorId": 108
@@ -1763,11 +1748,6 @@
     "Id": 632,
     "UnitId": 138,
     "ArmorId": 282
-  },
-  {
-    "Id": 633,
-    "UnitId": 146,
-    "ArmorId": 275
   },
   {
     "Id": 634,
@@ -2065,11 +2045,6 @@
     "ArmorId": 272
   },
   {
-    "Id": 723,
-    "UnitId": 406,
-    "ArmorId": 272
-  },
-  {
     "Id": 727,
     "UnitId": 408,
     "ArmorId": 291
@@ -2318,6 +2293,11 @@
     "Id": 791,
     "UnitId": 448,
     "ArmorId": 133
+  },
+  {
+    "Id": 794,
+    "UnitId": 350,
+    "ArmorId": 276
   },
   {
     "Id": 797,
@@ -2718,16 +2698,6 @@
     "Id": 898,
     "UnitId": 111,
     "ArmorId": 324
-  },
-  {
-    "Id": 899,
-    "UnitId": 113,
-    "ArmorId": 273
-  },
-  {
-    "Id": 900,
-    "UnitId": 372,
-    "ArmorId": 273
   },
   {
     "Id": 901,
@@ -3138,5 +3108,65 @@
     "Id": 1007,
     "UnitId": 539,
     "ArmorId": 346
+  },
+  {
+    "Id": 1124,
+    "UnitId": 113,
+    "ArmorId": 283
+  },
+  {
+    "Id": 1125,
+    "UnitId": 372,
+    "ArmorId": 314
+  },
+  {
+    "Id": 1167,
+    "UnitId": 146,
+    "ArmorId": 273
+  },
+  {
+    "Id": 1168,
+    "UnitId": 57,
+    "ArmorId": 83
+  },
+  {
+    "Id": 1169,
+    "UnitId": 371,
+    "ArmorId": 83
+  },
+  {
+    "Id": 1170,
+    "UnitId": 370,
+    "ArmorId": 83
+  },
+  {
+    "Id": 1175,
+    "UnitId": 638,
+    "ArmorId": 83
+  },
+  {
+    "Id": 1177,
+    "UnitId": 639,
+    "ArmorId": 84
+  },
+  {
+    "Id": 1179,
+    "UnitId": 640,
+    "ArmorId": 280
+  },
+  {
+    "Id": 1183,
+    "UnitId": 644,
+    "ArmorId": 276
+  },
+  {
+    "Id": 1185,
+    "UnitId": 645,
+    "ArmorId": 281
+  },
+  {
+    "Id": 1188,
+    "UnitId": 406,
+    "ArmorId": 291
   }
 ]
