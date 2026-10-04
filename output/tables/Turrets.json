@@ -21,7 +21,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 3,
@@ -45,7 +45,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 5,
@@ -106,6 +106,18 @@
     "LeftHorizontalAngle": -120.0,
     "RightHorizontalAngle": 120.0,
     "HorizontalRotationSpeed": 60.0
+  },
+  {
+    "Id": 10,
+    "Name": "MainTurret Pantsir S1",
+    "ModelFileName": null,
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 360.0
   },
   {
     "Id": 11,
@@ -213,7 +225,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 25,
@@ -237,7 +249,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 27,
@@ -285,7 +297,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 31,
@@ -297,7 +309,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 32,
@@ -345,7 +357,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 36,
@@ -369,7 +381,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 39,
@@ -381,7 +393,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 40,
@@ -597,7 +609,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 60,
@@ -609,7 +621,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 61,
@@ -981,7 +993,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 97,
@@ -1380,6 +1392,42 @@
     "HorizontalRotationSpeed": 360.0
   },
   {
+    "Id": 142,
+    "Name": "MainTurret 9K58 Kama Kama Loadout1",
+    "ModelFileName": "DLC3_Kama/DLC3_Kama_Kama",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -120.0,
+    "RightHorizontalAngle": 120.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
+    "Id": 143,
+    "Name": "MainTurret 9K58 Kama Sarma Loadout1",
+    "ModelFileName": "DLC3_Kama/DLC3_Kama_Sarma",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -120.0,
+    "RightHorizontalAngle": 120.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
+    "Id": 144,
+    "Name": "MainTurret TyphoonK HMG",
+    "ModelFileName": "DLC3_TyphoonK/DLC3_TyphoonK_Kord",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
     "Id": 145,
     "Name": "MainTurret Tulpan 2S4",
     "ModelFileName": null,
@@ -1425,7 +1473,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 149,
@@ -1546,6 +1594,18 @@
     "LeftHorizontalAngle": 0.0,
     "RightHorizontalAngle": 0.0,
     "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 159,
+    "Name": "MainTurret KA50",
+    "ModelFileName": null,
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -2.0,
+    "RightHorizontalAngle": 10.0,
+    "HorizontalRotationSpeed": 60.0
   },
   {
     "Id": 160,
@@ -1773,7 +1833,7 @@
     "FullRotation": false,
     "LeftHorizontalAngle": -120.0,
     "RightHorizontalAngle": 120.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 180,
@@ -1785,7 +1845,7 @@
     "FullRotation": false,
     "LeftHorizontalAngle": -120.0,
     "RightHorizontalAngle": 120.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 181,
@@ -1809,7 +1869,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 183,
@@ -2065,7 +2125,7 @@
   },
   {
     "Id": 204,
-    "Name": "MainTurret T72B3 obr16",
+    "Name": "MainTurret T72B3 T72B3A",
     "ModelFileName": null,
     "IsDefault": true,
     "IsDynamicTurret": false,
@@ -2077,11 +2137,11 @@
   },
   {
     "Id": 205,
-    "Name": "CupolaTurret T72B3 obr16",
+    "Name": "CupolaTurret T72B3 T72B3A",
     "ModelFileName": null,
     "IsDefault": false,
-    "IsDynamicTurret": false,
-    "ParentTurretId": 204,
+    "IsDynamicTurret": true,
+    "ParentTurretId": 0,
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
@@ -2400,6 +2460,42 @@
     "HorizontalRotationSpeed": 120.0
   },
   {
+    "Id": 238,
+    "Name": "MainTurret ChaborzM6 HMG",
+    "ModelFileName": "DLC3_Chaborz/DLC3_Chaborz_HMG",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 239,
+    "Name": "MainTurret ChaborzM6 GShG",
+    "ModelFileName": "DLC3_Chaborz/DLC3_Chaborz_GShG",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 240,
+    "Name": "HullTurret ChaborzM6 MMG",
+    "ModelFileName": null,
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -50.0,
+    "RightHorizontalAngle": 50.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
     "Id": 241,
     "Name": "MainTurret Planes GSh301",
     "ModelFileName": null,
@@ -2493,7 +2589,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 251,
@@ -2517,7 +2613,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 253,
@@ -2529,7 +2625,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 254,
@@ -2625,7 +2721,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 271,
@@ -2976,6 +3072,150 @@
     "HorizontalRotationSpeed": 0.0
   },
   {
+    "Id": 301,
+    "Name": "MainTurret Tigr PKP AGS",
+    "ModelFileName": "DLC3_TIGR/DLC3_Tigr_PKP_AGS",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 302,
+    "Name": "MainTurret Uragan1M Empty",
+    "ModelFileName": "DLC3_UraganM1/DLC3_UraganM1_Empty",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -120.0,
+    "RightHorizontalAngle": 120.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
+    "Id": 303,
+    "Name": "MainTurret Tigr RWS Kord",
+    "ModelFileName": "DLC3_TIGR/DLC3_Tigr_Arbalet",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 304,
+    "Name": "MainTurret Tigr RWS AP23",
+    "ModelFileName": "DLC3_Tigr_Arbalet_AP23",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 305,
+    "Name": "MainTurret Uragan1M 220",
+    "ModelFileName": "DLC3_UraganM1/DLC3_UraganM1_220_220",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
+    "Id": 306,
+    "Name": "MainTurret BRShM Tigr Kord",
+    "ModelFileName": "DLC3_TIGR_BRShM/DLC3_TIGR_SBRM",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 307,
+    "Name": "MainTurret BRShM Tigr 2A72",
+    "ModelFileName": "DLC3_TIGR_BRShM/DLC3_TIGR_BRShM",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 308,
+    "Name": "MainTurret Tigr Gibka IglaS",
+    "ModelFileName": null,
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 120.0
+  },
+  {
+    "Id": 309,
+    "Name": "MainTurret Tigr Gibka Verba",
+    "ModelFileName": null,
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 120.0
+  },
+  {
+    "Id": 310,
+    "Name": "MainTurret Tigr KornetD KornetM x4",
+    "ModelFileName": "DLC3_Tigr_Kornet/DLC3_Tigr_Kornet_4",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 311,
+    "Name": "MainTurret Tigr KornetD x4-2",
+    "ModelFileName": "DLC3_Tigr_Kornet/DLC3_Tigr_Kornet_8",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -45.0,
+    "RightHorizontalAngle": 45.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 312,
+    "Name": "MainTurret Tigr KornetD x4-2 NoModel",
+    "ModelFileName": "",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -45.0,
+    "RightHorizontalAngle": 45.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
     "Id": 313,
     "Name": "MainTurret TOS1",
     "ModelFileName": "RU_TOS1/RU_TOS1",
@@ -3045,7 +3285,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 319,
@@ -3081,7 +3321,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 322,
@@ -3393,7 +3633,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 348,
@@ -3453,7 +3693,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 353,
@@ -3465,7 +3705,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 354,
@@ -3477,7 +3717,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 355,
@@ -3573,7 +3813,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 363,
@@ -3585,7 +3825,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 364,
@@ -3597,7 +3837,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 365,
@@ -3633,7 +3873,55 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 368,
+    "Name": "MainTurret BPM97 Kord",
+    "ModelFileName": "DLC3_BPM97/DLC3_BPM97_Kord",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 369,
+    "Name": "MainTurret BPM97 82A",
+    "ModelFileName": "DLC3_BPM97/DLC3_BPM97_2A72",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 370,
+    "Name": "MainTurret BPM97 Spitsa",
+    "ModelFileName": "DLC3_BPM97/DLC3_BPM97_2A42_AGS",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 371,
+    "Name": "MainTurret BPM97 Strela10MN",
+    "ModelFileName": "DLC3_BPM97_AA/DLC3_BPM97_Strela10MN",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 120.0
   },
   {
     "Id": 372,
@@ -3708,6 +3996,42 @@
     "HorizontalRotationSpeed": 360.0
   },
   {
+    "Id": 378,
+    "Name": "NestedTurret Uragan1M 220 Left",
+    "ModelFileName": "DLC3_UraganM1/DLC3_UraganM1_NestedLeft_200",
+    "IsDefault": false,
+    "IsDynamicTurret": true,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 379,
+    "Name": "NestedTurret Uragan1M 300 Right",
+    "ModelFileName": "DLC3_UraganM1/DLC3_UraganM1_NestedRight_300",
+    "IsDefault": false,
+    "IsDynamicTurret": true,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 380,
+    "Name": "MainTurret TOS2",
+    "ModelFileName": null,
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -120.0,
+    "RightHorizontalAngle": 120.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
     "Id": 381,
     "Name": "MainTurret S350 9M96",
     "ModelFileName": null,
@@ -3747,6 +4071,30 @@
     "Id": 384,
     "Name": "MainTurret Iskander Klub",
     "ModelFileName": "RU_ISKANDER/Iskander_Klub",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 385,
+    "Name": "MainTurret S400 Big",
+    "ModelFileName": "DLC3_S400/DLC3_S400_4",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 386,
+    "Name": "MainTurret S400 Small",
+    "ModelFileName": "DLC3_S400/DLC3_S400_16",
     "IsDefault": false,
     "IsDynamicTurret": false,
     "ParentTurretId": null,
@@ -4665,7 +5013,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 463,
@@ -4677,7 +5025,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 464,
@@ -4725,7 +5073,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 468,
@@ -4737,7 +5085,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 90.0
+    "HorizontalRotationSpeed": 75.0
   },
   {
     "Id": 469,
@@ -5493,7 +5841,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 537,
@@ -5505,7 +5853,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 538,
@@ -6888,6 +7236,18 @@
     "HorizontalRotationSpeed": 0.0
   },
   {
+    "Id": 659,
+    "Name": "PylonTurret FAB500 x1 NoRack",
+    "ModelFileName": "Weapon/AB500/FAB500_1_NoRack",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
     "Id": 660,
     "Name": "PylonTurret ZB500 x1 NoRack",
     "ModelFileName": "Weapon/AB500/ZB500_1_NoRack",
@@ -7212,6 +7572,18 @@
     "HorizontalRotationSpeed": 0.0
   },
   {
+    "Id": 687,
+    "Name": "PylonTurret Mig31K Kh47M2 Nuke",
+    "ModelFileName": "Weapon/Kh47_Kinzhal",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
     "Id": 688,
     "Name": "MainTurret BMD2 NoKonkurs",
     "ModelFileName": "RU_BMD-2/RU_BMD_2_NoKonkurs",
@@ -7416,6 +7788,42 @@
     "HorizontalRotationSpeed": 90.0
   },
   {
+    "Id": 707,
+    "Name": "MainTurret TyphoonK 23",
+    "ModelFileName": "DLC3_TyphoonK/DLC3_TyphoonK_AP23",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 708,
+    "Name": "PylonTurret AP30 Heli",
+    "ModelFileName": "Weapon/DLC3/GUV8700AP",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -10.0,
+    "RightHorizontalAngle": 10.0,
+    "HorizontalRotationSpeed": 999.0
+  },
+  {
+    "Id": 710,
+    "Name": "MainTurret BPM97 GSh30",
+    "ModelFileName": "DLC3_BPM97_AA/DLC3_BPM97_GSh30",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 120.0
+  },
+  {
     "Id": 711,
     "Name": "RightTurret CH47 NoModel M240 ",
     "ModelFileName": "",
@@ -7485,7 +7893,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 717,
@@ -8352,6 +8760,18 @@
     "HorizontalRotationSpeed": 90.0
   },
   {
+    "Id": 791,
+    "Name": "PylonTurret Kord",
+    "ModelFileName": "Weapon/Kord_6P49T",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -10.0,
+    "RightHorizontalAngle": 10.0,
+    "HorizontalRotationSpeed": 999.0
+  },
+  {
     "Id": 792,
     "Name": "MainTurret B2 Mk84",
     "ModelFileName": "Bomb_Bays/B2/Mk84_16",
@@ -8421,7 +8841,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 798,
@@ -8511,6 +8931,18 @@
     "Id": 808,
     "Name": "PylonTurret MK82 SE x6",
     "ModelFileName": "Weapon/MK82/Mk82SE_6",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 813,
+    "Name": "PylonTurret Kh101",
+    "ModelFileName": "Weapon/KH101",
     "IsDefault": false,
     "IsDynamicTurret": false,
     "ParentTurretId": null,
@@ -8685,7 +9117,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 828,
@@ -8697,7 +9129,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 829,
@@ -8709,7 +9141,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 830,
@@ -8721,7 +9153,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 831,
@@ -8775,6 +9207,18 @@
     "Id": 835,
     "Name": "PylonTurret TOW x4",
     "ModelFileName": "BGM71D_4",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 836,
+    "Name": "PylonTurret Mig31K Kh47M2 HE",
+    "ModelFileName": "Weapon/Kh47_Kinzhal",
     "IsDefault": false,
     "IsDynamicTurret": false,
     "ParentTurretId": null,
@@ -9153,7 +9597,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 868,
@@ -9573,7 +10017,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 904,
@@ -10857,7 +11301,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 1011,
@@ -10869,7 +11313,7 @@
     "FullRotation": true,
     "LeftHorizontalAngle": -180.0,
     "RightHorizontalAngle": 180.0,
-    "HorizontalRotationSpeed": 75.0
+    "HorizontalRotationSpeed": 90.0
   },
   {
     "Id": 1012,
@@ -11006,7 +11450,7 @@
   {
     "Id": 1023,
     "Name": "MainTurret DLC2GWagen MAPATS",
-    "ModelFileName": "DLC2_GVagen/DLC2_GVagen_MAPATS",
+    "ModelFileName": "DLC2_GWagen/DLC2_GWagen_MAPATS",
     "IsDefault": false,
     "IsDynamicTurret": false,
     "ParentTurretId": null,
@@ -11018,7 +11462,7 @@
   {
     "Id": 1024,
     "Name": "MainTurret DLC2GWagen MilanER",
-    "ModelFileName": "DLC2_GVagen/DLC2_GVagen_Milan",
+    "ModelFileName": "DLC2_GWagen/DLC2_GWagen_Milan",
     "IsDefault": false,
     "IsDynamicTurret": false,
     "ParentTurretId": null,
@@ -11030,7 +11474,7 @@
   {
     "Id": 1025,
     "Name": "MainTurret DLC2GWagen SpikeLR",
-    "ModelFileName": "DLC2_GVagen/DLC2_GVagen_Spike",
+    "ModelFileName": "DLC2_GWagen/DLC2_GWagen_Spike",
     "IsDefault": false,
     "IsDynamicTurret": false,
     "ParentTurretId": null,
@@ -11496,6 +11940,510 @@
     "HorizontalRotationSpeed": 0.0
   },
   {
+    "Id": 1202,
+    "Name": "MainTurret T62M NoAtgm",
+    "ModelFileName": "DLC3_T62M/DLC3_T62M_NoATGM",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 75.0
+  },
+  {
+    "Id": 1203,
+    "Name": "MainTurret T62M Atgm",
+    "ModelFileName": "DLC3_T62M/DLC3_T62M",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 75.0
+  },
+  {
+    "Id": 1204,
+    "Name": "MainTurret T62M 22",
+    "ModelFileName": "DLC3_T62M/DLC3_T62M_Obr22",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 75.0
+  },
+  {
+    "Id": 1205,
+    "Name": "CupolaTurret T62M HMG",
+    "ModelFileName": null,
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": 1202,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1206,
+    "Name": "CupolaTurret T62M HMG 2",
+    "ModelFileName": null,
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": 1203,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1207,
+    "Name": "CupolaTurret T62M HMG 3",
+    "ModelFileName": null,
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": 1204,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1208,
+    "Name": "MainTurret 9K58 Kama Kama Loadout2",
+    "ModelFileName": "DLC3_Kama/DLC3_Kama_Kama",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -120.0,
+    "RightHorizontalAngle": 120.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
+    "Id": 1209,
+    "Name": "MainTurret 9K58 Kama Sarma Loadout2",
+    "ModelFileName": "DLC3_Kama/DLC3_Kama_Sarma",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -120.0,
+    "RightHorizontalAngle": 120.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
+    "Id": 1210,
+    "Name": "MainTurret GSh23L Yak130",
+    "ModelFileName": "DLC3_Yak130/DLC3_Yak130_GSh23",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -10.0,
+    "RightHorizontalAngle": 10.0,
+    "HorizontalRotationSpeed": 999.0
+  },
+  {
+    "Id": 1211,
+    "Name": "MainTurret BPM97 Spitsa ATGM",
+    "ModelFileName": "DLC3_BPM97/DLC3_BPM97_2A42_ATGM",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1212,
+    "Name": "MainTurret T72A",
+    "ModelFileName": "DLC3_T72A/DLC3_T72A",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 75.0
+  },
+  {
+    "Id": 1213,
+    "Name": "CupolaTurret T72A HMG",
+    "ModelFileName": null,
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": 1212,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1214,
+    "Name": "MainTurret T72A Gadyuka",
+    "ModelFileName": "DLC3_T72A/DLC3_T72A_Gadyuka",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 75.0
+  },
+  {
+    "Id": 1215,
+    "Name": "CupolaTurret T72A Gadyuka HMG",
+    "ModelFileName": null,
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": 1214,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1216,
+    "Name": "PylonTurret Kh25ML Heli",
+    "ModelFileName": "Weapon/KH_Missiles/KH25ML",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1217,
+    "Name": "PylonTurret R73 x1 Heli",
+    "ModelFileName": "Weapon/R73/R73",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1218,
+    "Name": "MainTurret Shchuka KPVT",
+    "ModelFileName": "DLC3_Shchuka/DLC3_Shchuka_KPVT",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1219,
+    "Name": "MainTurret Shchuka KPVT Optics",
+    "ModelFileName": "DLC3_Shchuka/DLC3_Shchuka_KPVT_optics",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1220,
+    "Name": "MainTurret Shchuka Zu23M",
+    "ModelFileName": "DLC3_Shchuka/DLC3_Shchuka_ZU23",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1221,
+    "Name": "MainTurret Uran9 Empty",
+    "ModelFileName": "DLC3_Uran9/DLC3_Uran9_empty",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 75.0
+  },
+  {
+    "Id": 1222,
+    "Name": "MainTurret Uran9 Ataka",
+    "ModelFileName": "DLC3_Uran9/DLC3_Uran9_Ataka",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 75.0
+  },
+  {
+    "Id": 1223,
+    "Name": "MainTurret Uran9 Shmel",
+    "ModelFileName": "DLC3_Uran9/DLC3_Uran9_Shmel",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 75.0
+  },
+  {
+    "Id": 1224,
+    "Name": "NestedTurret Uran9 Shmel6",
+    "ModelFileName": "",
+    "IsDefault": false,
+    "IsDynamicTurret": true,
+    "ParentTurretId": 0,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1225,
+    "Name": "NestedTurret Uran9 Shmel12",
+    "ModelFileName": "",
+    "IsDefault": false,
+    "IsDynamicTurret": true,
+    "ParentTurretId": 0,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1226,
+    "Name": "NestedTurret Uran9 Igla",
+    "ModelFileName": "",
+    "IsDefault": false,
+    "IsDynamicTurret": true,
+    "ParentTurretId": 0,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1227,
+    "Name": "PylonTurret Kornet x2 MDP01",
+    "ModelFileName": "DLC3_MDP01_Termit/RU_MDP_01_Termit_Kornet",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1228,
+    "Name": "PylonTurret S8L x3 MDP01",
+    "ModelFileName": "DLC3_MDP01_Termit/RU_MDP_01_Termit_S8",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1229,
+    "Name": "PylonTurret Igla x2 MDP01",
+    "ModelFileName": "DLC3_MDP01_Termit/RU_MDP_01_Termit_Igla",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1230,
+    "Name": "BayTurret Tu95 6xKh555",
+    "ModelFileName": "Bomb_Bays/DLC3_Tu95/Kh555_6",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1231,
+    "Name": "BayTurret Tu95 6xKh55SM",
+    "ModelFileName": "Bomb_Bays/DLC3_Tu95/Kh555_6",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1232,
+    "Name": "BayTurret Tu95 FAB9000",
+    "ModelFileName": "Bomb_Bays/DLC3_Tu95/FAB9000_1",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1233,
+    "Name": "BayTurret Tu95 FAB3000",
+    "ModelFileName": "Bomb_Bays/DLC3_Tu95/FAB3000_4",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1234,
+    "Name": "PylonTurret Kh55SM",
+    "ModelFileName": "Weapon/KH555",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1235,
+    "Name": "PylonTurret Kh555",
+    "ModelFileName": "Weapon/KH555",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1239,
+    "Name": "RightTurret Mi8AMTShVN Kord",
+    "ModelFileName": "",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -95.0,
+    "RightHorizontalAngle": 95.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1240,
+    "Name": "MainTurret ChaborzM6 AGS40",
+    "ModelFileName": "DLC3_Chaborz/DLC3_Chaborz_AGL",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1241,
+    "Name": "MainTurret ChaborzM6 Kornet",
+    "ModelFileName": "DLC3_Chaborz/DLC3_Chaborz_Kornet",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1242,
+    "Name": "MainTurret Kamaz Tor M2KM",
+    "ModelFileName": "",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 120.0
+  },
+  {
+    "Id": 1243,
+    "Name": "MainTurret 2S40 Floks",
+    "ModelFileName": "",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -15.0,
+    "RightHorizontalAngle": 15.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
+    "Id": 1244,
+    "Name": "HullTurret 2S40 Floks",
+    "ModelFileName": "",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 90.0
+  },
+  {
+    "Id": 1245,
+    "Name": "MainTurret Malva",
+    "ModelFileName": "",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -15.0,
+    "RightHorizontalAngle": 15.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
+    "Id": 1246,
+    "Name": "MainTurret Giatsint-K",
+    "ModelFileName": "",
+    "IsDefault": true,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -15.0,
+    "RightHorizontalAngle": 15.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
     "Id": 1248,
     "Name": "PylonTurret Hellfire AC-130",
     "ModelFileName": "Weapon/Hellfire/Hellfire_4",
@@ -11532,6 +12480,18 @@
     "HorizontalRotationSpeed": 0.0
   },
   {
+    "Id": 1253,
+    "Name": "MainTurret Uragan1M 300 HE",
+    "ModelFileName": "DLC3_UraganM1/DLC3_UraganM1_300_300",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
     "Id": 1401,
     "Name": "BayTurret B2 AGM181A Nuke",
     "ModelFileName": "",
@@ -11554,5 +12514,149 @@
     "LeftHorizontalAngle": 0.0,
     "RightHorizontalAngle": 0.0,
     "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1403,
+    "Name": "MainTurret Uragan1M 300 Clus",
+    "ModelFileName": "DLC3_UraganM1/DLC3_UraganM1_300_300",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 60.0
+  },
+  {
+    "Id": 1404,
+    "Name": "Helper ECM Yak130 ECM Left",
+    "ModelFileName": "Weapon/DLC3/ECM_YAK",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1405,
+    "Name": "Helper ECM Yak130 ECM Right",
+    "ModelFileName": "Weapon/DLC3/ECM_YAK_Right",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1406,
+    "Name": "PylonTurret S24 Plane",
+    "ModelFileName": "Weapon/S24B",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1408,
+    "Name": "PylonTurret Kh25ML YAK38",
+    "ModelFileName": "Weapon/KH_Missiles/KH25ML",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1410,
+    "Name": "PylonTurret S24 Heli",
+    "ModelFileName": "Weapon/S24B",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1411,
+    "Name": "PylonTurret LMUR x1",
+    "ModelFileName": "Weapon/LMUR_1",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1412,
+    "Name": "PylonTurret Mig31K Kh47M2 Cluster",
+    "ModelFileName": "Weapon/Kh47_Kinzhal",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1413,
+    "Name": "MainTurret T72B3M T72B3AM",
+    "ModelFileName": null,
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": true,
+    "LeftHorizontalAngle": -180.0,
+    "RightHorizontalAngle": 180.0,
+    "HorizontalRotationSpeed": 75.0
+  },
+  {
+    "Id": 1414,
+    "Name": "PylonTurret Verba Strelets4 ",
+    "ModelFileName": "Weapon/Strelets4",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1415,
+    "Name": "PylonTurret Verba Strelets2",
+    "ModelFileName": "Weapon/Strelets2",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": 0.0,
+    "RightHorizontalAngle": 0.0,
+    "HorizontalRotationSpeed": 0.0
+  },
+  {
+    "Id": 1416,
+    "Name": "MainTurret 2S40 Floks Double",
+    "ModelFileName": "",
+    "IsDefault": false,
+    "IsDynamicTurret": false,
+    "ParentTurretId": null,
+    "FullRotation": false,
+    "LeftHorizontalAngle": -15.0,
+    "RightHorizontalAngle": 15.0,
+    "HorizontalRotationSpeed": 60.0
   }
 ]

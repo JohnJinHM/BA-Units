@@ -35,6 +35,11 @@
     "ArmorId": 11
   },
   {
+    "Id": 11,
+    "UnitId": 12,
+    "ArmorId": 12
+  },
+  {
     "Id": 12,
     "UnitId": 13,
     "ArmorId": 13
@@ -345,6 +350,21 @@
     "ArmorId": 108
   },
   {
+    "Id": 184,
+    "UnitId": 95,
+    "ArmorId": 109
+  },
+  {
+    "Id": 185,
+    "UnitId": 95,
+    "ArmorId": 110
+  },
+  {
+    "Id": 186,
+    "UnitId": 96,
+    "ArmorId": 111
+  },
+  {
     "Id": 188,
     "UnitId": 98,
     "ArmorId": 112
@@ -370,6 +390,11 @@
     "ArmorId": 115
   },
   {
+    "Id": 196,
+    "UnitId": 105,
+    "ArmorId": 117
+  },
+  {
     "Id": 197,
     "UnitId": 106,
     "ArmorId": 95
@@ -385,9 +410,14 @@
     "ArmorId": 80
   },
   {
-    "Id": 214,
-    "UnitId": 123,
-    "ArmorId": 81
+    "Id": 220,
+    "UnitId": 129,
+    "ArmorId": 83
+  },
+  {
+    "Id": 222,
+    "UnitId": 131,
+    "ArmorId": 118
   },
   {
     "Id": 224,
@@ -523,6 +553,11 @@
     "Id": 265,
     "UnitId": 166,
     "ArmorId": 134
+  },
+  {
+    "Id": 266,
+    "UnitId": 167,
+    "ArmorId": 135
   },
   {
     "Id": 267,
@@ -668,6 +703,46 @@
     "Id": 302,
     "UnitId": 191,
     "ArmorId": 156
+  },
+  {
+    "Id": 305,
+    "UnitId": 194,
+    "ArmorId": 158
+  },
+  {
+    "Id": 306,
+    "UnitId": 194,
+    "ArmorId": 159
+  },
+  {
+    "Id": 307,
+    "UnitId": 195,
+    "ArmorId": 158
+  },
+  {
+    "Id": 308,
+    "UnitId": 195,
+    "ArmorId": 159
+  },
+  {
+    "Id": 309,
+    "UnitId": 196,
+    "ArmorId": 159
+  },
+  {
+    "Id": 310,
+    "UnitId": 196,
+    "ArmorId": 158
+  },
+  {
+    "Id": 311,
+    "UnitId": 197,
+    "ArmorId": 159
+  },
+  {
+    "Id": 312,
+    "UnitId": 197,
+    "ArmorId": 158
   },
   {
     "Id": 313,
@@ -835,6 +910,16 @@
     "ArmorId": 167
   },
   {
+    "Id": 346,
+    "UnitId": 219,
+    "ArmorId": 168
+  },
+  {
+    "Id": 347,
+    "UnitId": 220,
+    "ArmorId": 168
+  },
+  {
     "Id": 348,
     "UnitId": 221,
     "ArmorId": 169
@@ -850,6 +935,16 @@
     "ArmorId": 171
   },
   {
+    "Id": 351,
+    "UnitId": 223,
+    "ArmorId": 172
+  },
+  {
+    "Id": 352,
+    "UnitId": 224,
+    "ArmorId": 173
+  },
+  {
     "Id": 353,
     "UnitId": 225,
     "ArmorId": 174
@@ -857,6 +952,11 @@
   {
     "Id": 354,
     "UnitId": 226,
+    "ArmorId": 172
+  },
+  {
+    "Id": 355,
+    "UnitId": 227,
     "ArmorId": 172
   },
   {
@@ -1135,6 +1235,16 @@
     "ArmorId": 213
   },
   {
+    "Id": 418,
+    "UnitId": 257,
+    "ArmorId": 214
+  },
+  {
+    "Id": 419,
+    "UnitId": 258,
+    "ArmorId": 215
+  },
+  {
     "Id": 420,
     "UnitId": 80,
     "ArmorId": 216
@@ -1213,11 +1323,6 @@
     "Id": 437,
     "UnitId": 275,
     "ArmorId": 223
-  },
-  {
-    "Id": 442,
-    "UnitId": 277,
-    "ArmorId": 82
   },
   {
     "Id": 443,
@@ -1385,9 +1490,29 @@
     "ArmorId": 239
   },
   {
+    "Id": 480,
+    "UnitId": 314,
+    "ArmorId": 240
+  },
+  {
+    "Id": 481,
+    "UnitId": 315,
+    "ArmorId": 241
+  },
+  {
+    "Id": 482,
+    "UnitId": 316,
+    "ArmorId": 242
+  },
+  {
     "Id": 483,
     "UnitId": 317,
     "ArmorId": 243
+  },
+  {
+    "Id": 484,
+    "UnitId": 318,
+    "ArmorId": 241
   },
   {
     "Id": 485,
@@ -1463,6 +1588,11 @@
     "Id": 505,
     "UnitId": 330,
     "ArmorId": 245
+  },
+  {
+    "Id": 506,
+    "UnitId": 331,
+    "ArmorId": 251
   },
   {
     "Id": 507,
@@ -1743,6 +1873,16 @@
     "Id": 629,
     "UnitId": 132,
     "ArmorId": 280
+  },
+  {
+    "Id": 630,
+    "UnitId": 136,
+    "ArmorId": 273
+  },
+  {
+    "Id": 631,
+    "UnitId": 137,
+    "ArmorId": 282
   },
   {
     "Id": 632,
@@ -2455,16 +2595,6 @@
     "ArmorId": 80
   },
   {
-    "Id": 835,
-    "UnitId": 121,
-    "ArmorId": 80
-  },
-  {
-    "Id": 836,
-    "UnitId": 357,
-    "ArmorId": 80
-  },
-  {
     "Id": 837,
     "UnitId": 13,
     "ArmorId": 311
@@ -2725,11 +2855,6 @@
     "ArmorId": 245
   },
   {
-    "Id": 906,
-    "UnitId": 119,
-    "ArmorId": 80
-  },
-  {
     "Id": 907,
     "UnitId": 151,
     "ArmorId": 120
@@ -2793,21 +2918,6 @@
     "Id": 925,
     "UnitId": 497,
     "ArmorId": 18
-  },
-  {
-    "Id": 926,
-    "UnitId": 117,
-    "ArmorId": 273
-  },
-  {
-    "Id": 927,
-    "UnitId": 405,
-    "ArmorId": 273
-  },
-  {
-    "Id": 928,
-    "UnitId": 401,
-    "ArmorId": 291
   },
   {
     "Id": 929,
@@ -3110,6 +3220,11 @@
     "ArmorId": 346
   },
   {
+    "Id": 1101,
+    "UnitId": 602,
+    "ArmorId": 401
+  },
+  {
     "Id": 1124,
     "UnitId": 113,
     "ArmorId": 283
@@ -3118,6 +3233,116 @@
     "Id": 1125,
     "UnitId": 372,
     "ArmorId": 314
+  },
+  {
+    "Id": 1126,
+    "UnitId": 602,
+    "ArmorId": 415
+  },
+  {
+    "Id": 1127,
+    "UnitId": 602,
+    "ArmorId": 416
+  },
+  {
+    "Id": 1128,
+    "UnitId": 97,
+    "ArmorId": 417
+  },
+  {
+    "Id": 1129,
+    "UnitId": 97,
+    "ArmorId": 418
+  },
+  {
+    "Id": 1131,
+    "UnitId": 611,
+    "ArmorId": 215
+  },
+  {
+    "Id": 1135,
+    "UnitId": 615,
+    "ArmorId": 419
+  },
+  {
+    "Id": 1136,
+    "UnitId": 615,
+    "ArmorId": 420
+  },
+  {
+    "Id": 1141,
+    "UnitId": 622,
+    "ArmorId": 273
+  },
+  {
+    "Id": 1143,
+    "UnitId": 624,
+    "ArmorId": 80
+  },
+  {
+    "Id": 1146,
+    "UnitId": 316,
+    "ArmorId": 421
+  },
+  {
+    "Id": 1147,
+    "UnitId": 627,
+    "ArmorId": 422
+  },
+  {
+    "Id": 1148,
+    "UnitId": 628,
+    "ArmorId": 423
+  },
+  {
+    "Id": 1152,
+    "UnitId": 628,
+    "ArmorId": 424
+  },
+  {
+    "Id": 1153,
+    "UnitId": 628,
+    "ArmorId": 425
+  },
+  {
+    "Id": 1154,
+    "UnitId": 628,
+    "ArmorId": 426
+  },
+  {
+    "Id": 1155,
+    "UnitId": 632,
+    "ArmorId": 427
+  },
+  {
+    "Id": 1156,
+    "UnitId": 257,
+    "ArmorId": 428
+  },
+  {
+    "Id": 1157,
+    "UnitId": 633,
+    "ArmorId": 429
+  },
+  {
+    "Id": 1163,
+    "UnitId": 143,
+    "ArmorId": 430
+  },
+  {
+    "Id": 1164,
+    "UnitId": 634,
+    "ArmorId": 12
+  },
+  {
+    "Id": 1165,
+    "UnitId": 635,
+    "ArmorId": 173
+  },
+  {
+    "Id": 1166,
+    "UnitId": 636,
+    "ArmorId": 431
   },
   {
     "Id": 1167,
@@ -3138,6 +3363,11 @@
     "Id": 1170,
     "UnitId": 370,
     "ArmorId": 83
+  },
+  {
+    "Id": 1171,
+    "UnitId": 637,
+    "ArmorId": 431
   },
   {
     "Id": 1175,
@@ -3168,5 +3398,160 @@
     "Id": 1188,
     "UnitId": 406,
     "ArmorId": 291
+  },
+  {
+    "Id": 1302,
+    "UnitId": 625,
+    "ArmorId": 83
+  },
+  {
+    "Id": 1303,
+    "UnitId": 135,
+    "ArmorId": 80
+  },
+  {
+    "Id": 1304,
+    "UnitId": 626,
+    "ArmorId": 80
+  },
+  {
+    "Id": 1305,
+    "UnitId": 604,
+    "ArmorId": 81
+  },
+  {
+    "Id": 1306,
+    "UnitId": 629,
+    "ArmorId": 81
+  },
+  {
+    "Id": 1307,
+    "UnitId": 613,
+    "ArmorId": 84
+  },
+  {
+    "Id": 1308,
+    "UnitId": 612,
+    "ArmorId": 84
+  },
+  {
+    "Id": 1309,
+    "UnitId": 616,
+    "ArmorId": 84
+  },
+  {
+    "Id": 1311,
+    "UnitId": 345,
+    "ArmorId": 276
+  },
+  {
+    "Id": 1312,
+    "UnitId": 623,
+    "ArmorId": 276
+  },
+  {
+    "Id": 1313,
+    "UnitId": 344,
+    "ArmorId": 278
+  },
+  {
+    "Id": 1316,
+    "UnitId": 354,
+    "ArmorId": 312
+  },
+  {
+    "Id": 1348,
+    "UnitId": 331,
+    "ArmorId": 505
+  },
+  {
+    "Id": 1349,
+    "UnitId": 119,
+    "ArmorId": 276
+  },
+  {
+    "Id": 1350,
+    "UnitId": 121,
+    "ArmorId": 276
+  },
+  {
+    "Id": 1351,
+    "UnitId": 357,
+    "ArmorId": 276
+  },
+  {
+    "Id": 1352,
+    "UnitId": 123,
+    "ArmorId": 83
+  },
+  {
+    "Id": 1353,
+    "UnitId": 401,
+    "ArmorId": 278
+  },
+  {
+    "Id": 1354,
+    "UnitId": 117,
+    "ArmorId": 272
+  },
+  {
+    "Id": 1355,
+    "UnitId": 405,
+    "ArmorId": 272
+  },
+  {
+    "Id": 1356,
+    "UnitId": 701,
+    "ArmorId": 85
+  },
+  {
+    "Id": 1357,
+    "UnitId": 277,
+    "ArmorId": 289
+  },
+  {
+    "Id": 1358,
+    "UnitId": 702,
+    "ArmorId": 241
+  },
+  {
+    "Id": 1359,
+    "UnitId": 201,
+    "ArmorId": 163
+  },
+  {
+    "Id": 1361,
+    "UnitId": 703,
+    "ArmorId": 506
+  },
+  {
+    "Id": 1362,
+    "UnitId": 703,
+    "ArmorId": 208
+  },
+  {
+    "Id": 1363,
+    "UnitId": 703,
+    "ArmorId": 209
+  },
+  {
+    "Id": 1364,
+    "UnitId": 704,
+    "ArmorId": 83
+  },
+  {
+    "Id": 1365,
+    "UnitId": 705,
+    "ArmorId": 83
+  },
+  {
+    "Id": 1366,
+    "UnitId": 610,
+    "ArmorId": 273
+  },
+  {
+    "Id": 1367,
+    "UnitId": 706,
+    "ArmorId": 85
   }
 ]

@@ -29,16 +29,23 @@ DEFAULT_OUT = "output/localization"
 LANGS = ["eng", "rus", "ger", "chi", "spa", "fre", "jap", "por", "ita", "kor", "pol", "tur", "ukr"]
 
 
-def load_array(path: Path) -> list[str]:
-    return json.loads(path.read_text(encoding="utf-8"))
+def load_array(path: Path) -> list[str | None]:
+    values = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(values, list) or any(value is not None and not isinstance(value, str) for value in values):
+        raise ValueError(f"{path.name} must contain a JSON array of strings or null translations")
+    return values
 
 
-def build_map(keys_path: Path, lang_path: Path) -> dict[str, str]:
+def build_map(keys_path: Path, lang_path: Path) -> dict[str, str | None]:
     keys = load_array(keys_path)
     vals = load_array(lang_path)
+    if any(not isinstance(key, str) for key in keys):
+        raise ValueError(f"{keys_path.name} contains invalid keys")
     if len(keys) != len(vals):
-        print(f"  ! length mismatch: {keys_path.name}={len(keys)} "
-              f"{lang_path.name}={len(vals)} (zipping to shortest)", file=sys.stderr)
+        raise ValueError(f"length mismatch: {keys_path.name}={len(keys)} "
+                         f"{lang_path.name}={len(vals)}")
+    if len(set(keys)) != len(keys):
+        raise ValueError(f"{keys_path.name} contains duplicate keys")
     # First element of each array is the language tag, not a real entry; the
     # parallel structure still lines up by index, so we keep index 0 too.
     return dict(zip(keys, vals))
@@ -59,15 +66,29 @@ def main() -> int:
         return 1
 
     out_dir = Path(args.out)
-    out_dir.mkdir(parents=True, exist_ok=True)
 
     langs = LANGS if args.all else [args.lang]
+    mappings = {}
     for lang in langs:
         lang_path = text_dir / f"{lang}.json"
         if not lang_path.is_file():
+            if not args.all:
+                print(f"ERROR: language file not found: {lang_path}", file=sys.stderr)
+                return 1
             print(f"  ! skipping {lang}: {lang_path} not found", file=sys.stderr)
             continue
-        mapping = build_map(keys_path, lang_path)
+        try:
+            mapping = build_map(keys_path, lang_path)
+        except (ValueError, OSError) as exc:
+            print(f"ERROR: {exc}; output left unchanged", file=sys.stderr)
+            return 1
+        mappings[lang] = mapping
+    if not mappings:
+        print("ERROR: no language files found", file=sys.stderr)
+        return 1
+
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for lang, mapping in mappings.items():
         (out_dir / f"{lang}.json").write_text(
             json.dumps(mapping, indent=2, ensure_ascii=False), encoding="utf-8"
         )

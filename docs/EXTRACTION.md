@@ -3,6 +3,37 @@
 This documents the full reverse-engineering result so the pipeline can be
 maintained without re-discovering it.
 
+## Current dump: 1.2.0.3
+
+The export in `C:/Users/jinha/Desktop/Temp/ba/ExportedProject` contains 24
+tables and 16,687 rows: 540 units, 804 weapons, 2,046 options and 13
+specializations (including the hidden mission-editor row). DLC3 adds Russian
+Guard / Defense Forces (`Specializations.Id = 12`). The table columns and AES
+key/marker are unchanged. The source hash is recorded in `output/manifest.json`.
+
+Database extraction decrypts and validates every table before writing any
+output. Missing fields, malformed tables, duplicate IDs or a decryption failure
+return a nonzero exit code and preserve the previous dump. An existing
+`database.json` is refreshed even when `--combined` is omitted. The manifest
+tool imports the table order without importing the AES dependency.
+
+Localization extraction rejects unequal array lengths and duplicate keys
+instead of silently truncating/overwriting translations. A `null` translation
+is preserved: it is a legitimate untranslated entry in this build.
+
+After extracting the database, localization and manifest, validate the dump:
+
+```sh
+python tools/validate_database.py --out output --asset <export>/Assets/Resources/DataBaseCompiled.asset
+python -m unittest discover -s tests -v
+```
+
+The validator checks all 24 tables, unique IDs, foreign keys, manifest counts,
+the optional source hash and combined database. To refresh BA-ReCard and
+BA-DeckEditor, copy the same table files, `eng.json`, `chi.json`, manifest and
+any existing combined database; keep the web projects' JSON formatting. Then
+run each project's asset extraction, `npm run verify` and `npm run build`.
+
 ## 1. Where the data lives
 
 The entire unit database ships inside one Unity ScriptableObject:

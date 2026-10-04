@@ -2,7 +2,7 @@
 
 以 JSON 格式提取 **游戏《[断箭 (Broken Arrow)](https://store.steampowered.com/app/644960/Broken_Arrow/)》的单位数据**
 
-**当前版本: 1.1.1.1**
+**当前版本: 1.2.0.3**
 
 由于单位数据加密存储，本项目将其解密并转换为纯文本的 JSON 文件，方便阅读与二次开发。此外，项目还包含了生成这些文件的 Python 脚本，以便更新。
 
@@ -48,12 +48,12 @@
 取自 `ProjectSettings` 和源文件的哈希值：
 
 ```json
-{ "game_version": "1.1.1.1", "data_level": 2, "unity_version": "2022.3.62f3",
-  "extracted_at": "2026-08-08T21:23:42+00:00",
+{ "game_version": "1.2.0.3", "data_level": 2, "unity_version": "2022.3.62f3",
+  "extracted_at": "2026-10-04T04:49:43+00:00",
   "source_asset": "ExportedProject/Assets/Resources/DataBaseCompiled.asset",
-  "source_sha256": "5357d07b20e77baaa0914415266ba88aa88ff04a1ea8bc0d532f547fda27af8c",
-  "tables": 24, "total_rows": 14825,
-  "row_counts": { "Units": 481, "Weapons": 717, "Options": 1810, "…": 0 } }
+  "source_sha256": "ed2d4b2187c623634b209de120341ca1785b0e4f94bd16a0be3180c8d25633ee",
+  "tables": 24, "total_rows": 16687,
+  "row_counts": { "Units": 540, "Weapons": 804, "Options": 2046, "…": 0 } }
 ```
 
 其中 `row_counts` 取自解密后的 `output/tables/*.json`，因此只要数据表已经提取

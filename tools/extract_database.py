@@ -38,6 +38,8 @@ import re
 import sys
 from pathlib import Path
 
+from table_schema import FIELD_TO_TABLE
+
 try:
     from Crypto.Cipher import AES
     from Crypto.Util.Padding import unpad
@@ -49,35 +51,6 @@ DEFAULT_KEY = "09234237536700238099172758697347"   # AES-256 key (UTF-8 bytes)
 DEFAULT_MARKER = "fhk3s0g3"
 DEFAULT_ASSET = "ExportedProject/Assets/Resources/DataBaseCompiled.asset"
 DEFAULT_OUT = "output"
-
-# ScriptableObject string field  ->  output table name.
-# Every field below holds an encrypted JSON array (see module docstring).
-FIELD_TO_TABLE = {
-    "Units": "Units",
-    "AbilitiesJson": "Abilities",
-    "UnitAbilitiesJson": "UnitAbilities",
-    "AmmunitionsJson": "Ammunitions",
-    "ArmorsJson": "Armors",
-    "MobilityJson": "Mobility",
-    "FlyPresetsJson": "PlaneFlyPresets",
-    "UnitPropulsionsJson": "UnitPropulsions",
-    "CountriesJson": "Countries",
-    "TurretsJson": "Turrets",
-    "TurretUnitsJson": "TurretUnits",
-    "WeaponsJson": "Weapons",
-    "TurretWeaponsJson": "TurretWeapons",
-    "WeaponAmmunitionsJson": "WeaponAmmunitions",
-    "SensorUnitsJson": "SensorUnits",
-    "SensorsJson": "Sensors",
-    "SquadMembersJson": "SquadMembers",
-    "SquadWeaponsJson": "SquadWeapons",
-    "ModificationsJson": "Modifications",
-    "OptionsJson": "Options",
-    "UnitArmorsJson": "UnitArmors",
-    "SpecializationAvailabilitiesJson": "SpecializationAvailabilities",
-    "SpecializationsJson": "Specializations",
-    "TransportAvailabilitiesJson": "TransportAvailabilities",
-}
 
 
 def read_asset_fields(asset_path: Path) -> dict[str, str]:
@@ -101,7 +74,7 @@ def read_asset_fields(asset_path: Path) -> dict[str, str]:
 
 def decrypt_blob(b64: str, key: bytes, marker: bytes) -> str:
     """Base64 -> strip marker -> AES-256-CBC decrypt -> UTF-8 JSON text."""
-    raw = base64.b64decode(b64)
+    raw = base64.b64decode(b64, validate=True)
     if not raw.startswith(marker):
         raise ValueError(
             f"blob does not start with marker {marker!r}; "
@@ -136,30 +109,46 @@ def main() -> int:
 
     out_dir = Path(args.out)
     tables_dir = out_dir / "tables"
-    tables_dir.mkdir(parents=True, exist_ok=True)
     indent = args.indent or None
 
     fields = read_asset_fields(asset_path)
     print(f"Found {len(fields)} encrypted fields in {asset_path.name}")
+    missing = set(FIELD_TO_TABLE) - fields.keys()
+    if missing:
+        return _fail(f"missing or empty database fields: {', '.join(sorted(missing))}")
 
     combined: dict[str, list] = {}
     total_rows = 0
+    failures = []
     for field, b64 in fields.items():
         table = FIELD_TO_TABLE[field]
         try:
             rows = json.loads(decrypt_blob(b64, key, marker))
+            if not isinstance(rows, list) or any(not isinstance(row, dict) for row in rows):
+                raise ValueError("table must be a JSON array of row objects")
+            ids = [row.get("Id") for row in rows]
+            if any(type(row_id) is not int for row_id in ids) or len(set(ids)) != len(ids):
+                raise ValueError("table contains missing, invalid or duplicate row IDs")
         except Exception as exc:  # noqa: BLE001 - report and continue per table
             print(f"  ! {table}: {exc}", file=sys.stderr)
+            failures.append(table)
             continue
-        (tables_dir / f"{table}.json").write_text(
-            json.dumps(rows, indent=indent, ensure_ascii=False), encoding="utf-8"
-        )
         combined[table] = rows
-        n = len(rows) if isinstance(rows, list) else 1
+        n = len(rows)
         total_rows += n
         print(f"  + {table:<32} {n:>5} rows")
 
-    if args.combined:
+    if failures:
+        return _fail(f"could not extract {', '.join(failures)}; output left unchanged")
+
+    # Decrypt and validate the entire build before touching the previous dump.
+    tables_dir.mkdir(parents=True, exist_ok=True)
+    for table, rows in combined.items():
+        (tables_dir / f"{table}.json").write_text(
+            json.dumps(rows, indent=indent, ensure_ascii=False), encoding="utf-8"
+        )
+
+    if args.combined or (out_dir / "database.json").is_file():
         (out_dir / "database.json").write_text(
             json.dumps(combined, indent=indent, ensure_ascii=False), encoding="utf-8"
         )

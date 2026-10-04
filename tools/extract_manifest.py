@@ -36,11 +36,9 @@ from pathlib import Path
 # Make sibling tools importable regardless of the caller's cwd, so we can reuse
 # the canonical table order for stable, diff-friendly row_counts output.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-try:
-    from extract_database import FIELD_TO_TABLE
-    TABLE_ORDER = list(FIELD_TO_TABLE.values())
-except Exception:  # pragma: no cover - fallback if the sibling module moves
-    TABLE_ORDER = []
+from table_schema import FIELD_TO_TABLE
+
+TABLE_ORDER = list(FIELD_TO_TABLE.values())
 
 DEFAULT_ROOT = "ExportedProject"
 DEFAULT_OUT = "output"

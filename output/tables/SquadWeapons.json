@@ -170,19 +170,19 @@
   {
     "Id": 86,
     "WeaponId": 122,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 108
   },
   {
     "Id": 87,
     "WeaponId": 137,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 108
   },
   {
     "Id": 88,
     "WeaponId": 125,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 108
   },
   {
@@ -260,7 +260,7 @@
   {
     "Id": 119,
     "WeaponId": 161,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 117
   },
   {
@@ -332,7 +332,7 @@
   {
     "Id": 138,
     "WeaponId": 167,
-    "Order": 0,
+    "Order": 4,
     "UnitId": 123
   },
   {
@@ -390,6 +390,36 @@
     "UnitId": 128
   },
   {
+    "Id": 158,
+    "WeaponId": 191,
+    "Order": 1,
+    "UnitId": 129
+  },
+  {
+    "Id": 166,
+    "WeaponId": 180,
+    "Order": 2,
+    "UnitId": 131
+  },
+  {
+    "Id": 167,
+    "WeaponId": 181,
+    "Order": 0,
+    "UnitId": 131
+  },
+  {
+    "Id": 168,
+    "WeaponId": 161,
+    "Order": 0,
+    "UnitId": 131
+  },
+  {
+    "Id": 169,
+    "WeaponId": 168,
+    "Order": 0,
+    "UnitId": 131
+  },
+  {
     "Id": 174,
     "WeaponId": 123,
     "Order": 0,
@@ -418,6 +448,24 @@
     "WeaponId": 193,
     "Order": 0,
     "UnitId": 134
+  },
+  {
+    "Id": 183,
+    "WeaponId": 139,
+    "Order": 0,
+    "UnitId": 136
+  },
+  {
+    "Id": 188,
+    "WeaponId": 190,
+    "Order": 0,
+    "UnitId": 137
+  },
+  {
+    "Id": 189,
+    "WeaponId": 189,
+    "Order": 0,
+    "UnitId": 137
   },
   {
     "Id": 190,
@@ -452,7 +500,7 @@
   {
     "Id": 197,
     "WeaponId": 202,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 74
   },
   {
@@ -512,19 +560,19 @@
   {
     "Id": 211,
     "WeaponId": 210,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 150
   },
   {
     "Id": 212,
     "WeaponId": 211,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 150
   },
   {
     "Id": 213,
     "WeaponId": 68,
-    "Order": 0,
+    "Order": 4,
     "UnitId": 150
   },
   {
@@ -554,7 +602,7 @@
   {
     "Id": 225,
     "WeaponId": 211,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 276
   },
   {
@@ -598,6 +646,12 @@
     "WeaponId": 30,
     "Order": 0,
     "UnitId": 133
+  },
+  {
+    "Id": 245,
+    "WeaponId": 501,
+    "Order": 2,
+    "UnitId": 135
   },
   {
     "Id": 248,
@@ -716,19 +770,19 @@
   {
     "Id": 281,
     "WeaponId": 67,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 336
   },
   {
     "Id": 282,
     "WeaponId": 45,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 336
   },
   {
     "Id": 283,
     "WeaponId": 212,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 336
   },
   {
@@ -766,6 +820,24 @@
     "WeaponId": 532,
     "Order": 0,
     "UnitId": 341
+  },
+  {
+    "Id": 309,
+    "WeaponId": 190,
+    "Order": 1,
+    "UnitId": 345
+  },
+  {
+    "Id": 310,
+    "WeaponId": 152,
+    "Order": 3,
+    "UnitId": 345
+  },
+  {
+    "Id": 311,
+    "WeaponId": 526,
+    "Order": 0,
+    "UnitId": 345
   },
   {
     "Id": 312,
@@ -998,25 +1070,25 @@
   {
     "Id": 396,
     "WeaponId": 50,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 371
   },
   {
     "Id": 397,
     "WeaponId": 58,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 371
   },
   {
     "Id": 398,
     "WeaponId": 60,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 371
   },
   {
     "Id": 399,
     "WeaponId": 65,
-    "Order": 0,
+    "Order": 5,
     "UnitId": 371
   },
   {
@@ -1034,7 +1106,7 @@
   {
     "Id": 410,
     "WeaponId": 533,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 59
   },
   {
@@ -1082,7 +1154,7 @@
   {
     "Id": 419,
     "WeaponId": 59,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 59
   },
   {
@@ -1166,19 +1238,19 @@
   {
     "Id": 434,
     "WeaponId": 29,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 401
   },
   {
     "Id": 435,
     "WeaponId": 31,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 401
   },
   {
     "Id": 436,
     "WeaponId": 30,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 401
   },
   {
@@ -1214,19 +1286,19 @@
   {
     "Id": 444,
     "WeaponId": 29,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 404
   },
   {
     "Id": 445,
     "WeaponId": 31,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 404
   },
   {
     "Id": 447,
     "WeaponId": 160,
-    "Order": 0,
+    "Order": 5,
     "UnitId": 404
   },
   {
@@ -1256,7 +1328,7 @@
   {
     "Id": 461,
     "WeaponId": 364,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 407
   },
   {
@@ -1298,7 +1370,7 @@
   {
     "Id": 471,
     "WeaponId": 590,
-    "Order": 0,
+    "Order": 5,
     "UnitId": 150
   },
   {
@@ -1322,13 +1394,13 @@
   {
     "Id": 481,
     "WeaponId": 63,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 73
   },
   {
     "Id": 494,
     "WeaponId": 630,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 73
   },
   {
@@ -1340,19 +1412,19 @@
   {
     "Id": 497,
     "WeaponId": 50,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 413
   },
   {
     "Id": 498,
     "WeaponId": 58,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 413
   },
   {
     "Id": 500,
     "WeaponId": 65,
-    "Order": 0,
+    "Order": 5,
     "UnitId": 413
   },
   {
@@ -1382,19 +1454,19 @@
   {
     "Id": 508,
     "WeaponId": 590,
-    "Order": 0,
+    "Order": 4,
     "UnitId": 276
   },
   {
     "Id": 509,
     "WeaponId": 45,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 276
   },
   {
     "Id": 510,
     "WeaponId": 45,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 150
   },
   {
@@ -1436,13 +1508,13 @@
   {
     "Id": 521,
     "WeaponId": 133,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 123
   },
   {
     "Id": 522,
     "WeaponId": 138,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 123
   },
   {
@@ -1766,7 +1838,7 @@
   {
     "Id": 587,
     "WeaponId": 1,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 59
   },
   {
@@ -1778,25 +1850,25 @@
   {
     "Id": 589,
     "WeaponId": 50,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 449
   },
   {
     "Id": 590,
     "WeaponId": 58,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 449
   },
   {
     "Id": 591,
     "WeaponId": 60,
-    "Order": 0,
+    "Order": 4,
     "UnitId": 449
   },
   {
     "Id": 592,
     "WeaponId": 199,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 449
   },
   {
@@ -1880,7 +1952,7 @@
   {
     "Id": 617,
     "WeaponId": 63,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 413
   },
   {
@@ -1916,7 +1988,7 @@
   {
     "Id": 626,
     "WeaponId": 30,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 404
   },
   {
@@ -1994,7 +2066,7 @@
   {
     "Id": 643,
     "WeaponId": 200,
-    "Order": 0,
+    "Order": 5,
     "UnitId": 449
   },
   {
@@ -2018,7 +2090,7 @@
   {
     "Id": 648,
     "WeaponId": 629,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 73
   },
   {
@@ -2126,7 +2198,7 @@
   {
     "Id": 670,
     "WeaponId": 210,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 276
   },
   {
@@ -2156,7 +2228,7 @@
   {
     "Id": 679,
     "WeaponId": 363,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 407
   },
   {
@@ -2164,12 +2236,6 @@
     "WeaponId": 590,
     "Order": 0,
     "UnitId": 130
-  },
-  {
-    "Id": 681,
-    "WeaponId": 136,
-    "Order": 0,
-    "UnitId": 406
   },
   {
     "Id": 682,
@@ -2202,45 +2268,39 @@
     "UnitId": 462
   },
   {
-    "Id": 690,
-    "WeaponId": 29,
-    "Order": 0,
-    "UnitId": 119
-  },
-  {
     "Id": 692,
     "WeaponId": 123,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 405
   },
   {
     "Id": 693,
     "WeaponId": 192,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 405
   },
   {
     "Id": 695,
     "WeaponId": 162,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 405
   },
   {
     "Id": 696,
     "WeaponId": 590,
-    "Order": 0,
+    "Order": 4,
     "UnitId": 117
   },
   {
     "Id": 697,
     "WeaponId": 123,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 117
   },
   {
     "Id": 699,
     "WeaponId": 192,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 117
   },
   {
@@ -2366,25 +2426,25 @@
   {
     "Id": 727,
     "WeaponId": 45,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 470
   },
   {
     "Id": 728,
     "WeaponId": 210,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 470
   },
   {
     "Id": 729,
     "WeaponId": 211,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 470
   },
   {
     "Id": 730,
     "WeaponId": 698,
-    "Order": 0,
+    "Order": 4,
     "UnitId": 470
   },
   {
@@ -2582,7 +2642,7 @@
   {
     "Id": 767,
     "WeaponId": 632,
-    "Order": 0,
+    "Order": 4,
     "UnitId": 401
   },
   {
@@ -2750,7 +2810,7 @@
   {
     "Id": 800,
     "WeaponId": 158,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 123
   },
   {
@@ -2852,13 +2912,13 @@
   {
     "Id": 824,
     "WeaponId": 735,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 507
   },
   {
     "Id": 826,
     "WeaponId": 743,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 507
   },
   {
@@ -3038,25 +3098,25 @@
   {
     "Id": 857,
     "WeaponId": 761,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 527
   },
   {
     "Id": 858,
     "WeaponId": 756,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 527
   },
   {
     "Id": 859,
     "WeaponId": 762,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 527
   },
   {
     "Id": 860,
     "WeaponId": 590,
-    "Order": 0,
+    "Order": 4,
     "UnitId": 527
   },
   {
@@ -3212,7 +3272,7 @@
   {
     "Id": 889,
     "WeaponId": 787,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 74
   },
   {
@@ -3226,6 +3286,12 @@
     "WeaponId": 789,
     "Order": 0,
     "UnitId": 108
+  },
+  {
+    "Id": 1005,
+    "WeaponId": 156,
+    "Order": 1,
+    "UnitId": 604
   },
   {
     "Id": 1014,
@@ -3312,6 +3378,210 @@
     "UnitId": 113
   },
   {
+    "Id": 1032,
+    "WeaponId": 909,
+    "Order": 2,
+    "UnitId": 129
+  },
+  {
+    "Id": 1033,
+    "WeaponId": 166,
+    "Order": 0,
+    "UnitId": 129
+  },
+  {
+    "Id": 1038,
+    "WeaponId": 139,
+    "Order": 0,
+    "UnitId": 131
+  },
+  {
+    "Id": 1039,
+    "WeaponId": 910,
+    "Order": 0,
+    "UnitId": 131
+  },
+  {
+    "Id": 1040,
+    "WeaponId": 590,
+    "Order": 4,
+    "UnitId": 131
+  },
+  {
+    "Id": 1041,
+    "WeaponId": 911,
+    "Order": 1,
+    "UnitId": 354
+  },
+  {
+    "Id": 1042,
+    "WeaponId": 181,
+    "Order": 3,
+    "UnitId": 354
+  },
+  {
+    "Id": 1044,
+    "WeaponId": 912,
+    "Order": 2,
+    "UnitId": 354
+  },
+  {
+    "Id": 1049,
+    "WeaponId": 159,
+    "Order": 0,
+    "UnitId": 612
+  },
+  {
+    "Id": 1050,
+    "WeaponId": 144,
+    "Order": 0,
+    "UnitId": 612
+  },
+  {
+    "Id": 1052,
+    "WeaponId": 29,
+    "Order": 0,
+    "UnitId": 613
+  },
+  {
+    "Id": 1074,
+    "WeaponId": 29,
+    "Order": 1,
+    "UnitId": 616
+  },
+  {
+    "Id": 1076,
+    "WeaponId": 168,
+    "Order": 5,
+    "UnitId": 616
+  },
+  {
+    "Id": 1086,
+    "WeaponId": 910,
+    "Order": 2,
+    "UnitId": 622
+  },
+  {
+    "Id": 1090,
+    "WeaponId": 925,
+    "Order": 0,
+    "UnitId": 623
+  },
+  {
+    "Id": 1091,
+    "WeaponId": 926,
+    "Order": 0,
+    "UnitId": 623
+  },
+  {
+    "Id": 1092,
+    "WeaponId": 927,
+    "Order": 0,
+    "UnitId": 623
+  },
+  {
+    "Id": 1094,
+    "WeaponId": 29,
+    "Order": 0,
+    "UnitId": 624
+  },
+  {
+    "Id": 1095,
+    "WeaponId": 145,
+    "Order": 0,
+    "UnitId": 624
+  },
+  {
+    "Id": 1096,
+    "WeaponId": 174,
+    "Order": 0,
+    "UnitId": 624
+  },
+  {
+    "Id": 1097,
+    "WeaponId": 29,
+    "Order": 0,
+    "UnitId": 625
+  },
+  {
+    "Id": 1099,
+    "WeaponId": 930,
+    "Order": 0,
+    "UnitId": 135
+  },
+  {
+    "Id": 1100,
+    "WeaponId": 931,
+    "Order": 4,
+    "UnitId": 135
+  },
+  {
+    "Id": 1101,
+    "WeaponId": 930,
+    "Order": 1,
+    "UnitId": 626
+  },
+  {
+    "Id": 1102,
+    "WeaponId": 167,
+    "Order": 3,
+    "UnitId": 626
+  },
+  {
+    "Id": 1103,
+    "WeaponId": 136,
+    "Order": 4,
+    "UnitId": 626
+  },
+  {
+    "Id": 1104,
+    "WeaponId": 932,
+    "Order": 0,
+    "UnitId": 344
+  },
+  {
+    "Id": 1105,
+    "WeaponId": 157,
+    "Order": 2,
+    "UnitId": 604
+  },
+  {
+    "Id": 1106,
+    "WeaponId": 158,
+    "Order": 3,
+    "UnitId": 604
+  },
+  {
+    "Id": 1107,
+    "WeaponId": 933,
+    "Order": 4,
+    "UnitId": 604
+  },
+  {
+    "Id": 1108,
+    "WeaponId": 156,
+    "Order": 1,
+    "UnitId": 629
+  },
+  {
+    "Id": 1109,
+    "WeaponId": 157,
+    "Order": 2,
+    "UnitId": 629
+  },
+  {
+    "Id": 1110,
+    "WeaponId": 501,
+    "Order": 3,
+    "UnitId": 629
+  },
+  {
+    "Id": 1111,
+    "WeaponId": 931,
+    "Order": 4,
+    "UnitId": 629
+  },
+  {
     "Id": 1132,
     "WeaponId": 50,
     "Order": 0,
@@ -3332,31 +3602,31 @@
   {
     "Id": 1135,
     "WeaponId": 29,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 639
   },
   {
     "Id": 1136,
     "WeaponId": 30,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 639
   },
   {
     "Id": 1137,
     "WeaponId": 31,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 639
   },
   {
     "Id": 1138,
     "WeaponId": 578,
-    "Order": 0,
+    "Order": 5,
     "UnitId": 639
   },
   {
     "Id": 1139,
     "WeaponId": 32,
-    "Order": 0,
+    "Order": 4,
     "UnitId": 639
   },
   {
@@ -3446,13 +3716,13 @@
   {
     "Id": 1164,
     "WeaponId": 137,
-    "Order": 0,
+    "Order": 2,
     "UnitId": 645
   },
   {
     "Id": 1165,
     "WeaponId": 122,
-    "Order": 0,
+    "Order": 1,
     "UnitId": 645
   },
   {
@@ -3464,7 +3734,7 @@
   {
     "Id": 1167,
     "WeaponId": 162,
-    "Order": 0,
+    "Order": 3,
     "UnitId": 645
   },
   {
@@ -3484,6 +3754,18 @@
     "WeaponId": 54,
     "Order": 0,
     "UnitId": 413
+  },
+  {
+    "Id": 1171,
+    "WeaponId": 959,
+    "Order": 0,
+    "UnitId": 625
+  },
+  {
+    "Id": 1172,
+    "WeaponId": 962,
+    "Order": 3,
+    "UnitId": 131
   },
   {
     "Id": 1301,
@@ -3508,5 +3790,449 @@
     "WeaponId": 533,
     "Order": 0,
     "UnitId": 644
+  },
+  {
+    "Id": 1307,
+    "WeaponId": 925,
+    "Order": 0,
+    "UnitId": 345
+  },
+  {
+    "Id": 1308,
+    "WeaponId": 926,
+    "Order": 2,
+    "UnitId": 345
+  },
+  {
+    "Id": 1309,
+    "WeaponId": 190,
+    "Order": 0,
+    "UnitId": 623
+  },
+  {
+    "Id": 1310,
+    "WeaponId": 526,
+    "Order": 0,
+    "UnitId": 623
+  },
+  {
+    "Id": 1312,
+    "WeaponId": 590,
+    "Order": 0,
+    "UnitId": 136
+  },
+  {
+    "Id": 1313,
+    "WeaponId": 1003,
+    "Order": 0,
+    "UnitId": 344
+  },
+  {
+    "Id": 1314,
+    "WeaponId": 1004,
+    "Order": 0,
+    "UnitId": 344
+  },
+  {
+    "Id": 1316,
+    "WeaponId": 1005,
+    "Order": 3,
+    "UnitId": 622
+  },
+  {
+    "Id": 1317,
+    "WeaponId": 1006,
+    "Order": 3,
+    "UnitId": 135
+  },
+  {
+    "Id": 1319,
+    "WeaponId": 135,
+    "Order": 0,
+    "UnitId": 131
+  },
+  {
+    "Id": 1323,
+    "WeaponId": 14,
+    "Order": 3,
+    "UnitId": 129
+  },
+  {
+    "Id": 1324,
+    "WeaponId": 167,
+    "Order": 4,
+    "UnitId": 129
+  },
+  {
+    "Id": 1325,
+    "WeaponId": 517,
+    "Order": 0,
+    "UnitId": 129
+  },
+  {
+    "Id": 1326,
+    "WeaponId": 925,
+    "Order": 1,
+    "UnitId": 610
+  },
+  {
+    "Id": 1327,
+    "WeaponId": 166,
+    "Order": 4,
+    "UnitId": 610
+  },
+  {
+    "Id": 1333,
+    "WeaponId": 160,
+    "Order": 4,
+    "UnitId": 613
+  },
+  {
+    "Id": 1337,
+    "WeaponId": 1007,
+    "Order": 0,
+    "UnitId": 616
+  },
+  {
+    "Id": 1338,
+    "WeaponId": 158,
+    "Order": 3,
+    "UnitId": 616
+  },
+  {
+    "Id": 1343,
+    "WeaponId": 1010,
+    "Order": 3,
+    "UnitId": 610
+  },
+  {
+    "Id": 1345,
+    "WeaponId": 915,
+    "Order": 0,
+    "UnitId": 136
+  },
+  {
+    "Id": 1346,
+    "WeaponId": 1011,
+    "Order": 1,
+    "UnitId": 622
+  },
+  {
+    "Id": 1347,
+    "WeaponId": 912,
+    "Order": 0,
+    "UnitId": 344
+  },
+  {
+    "Id": 1348,
+    "WeaponId": 517,
+    "Order": 4,
+    "UnitId": 354
+  },
+  {
+    "Id": 1350,
+    "WeaponId": 924,
+    "Order": 4,
+    "UnitId": 616
+  },
+  {
+    "Id": 1351,
+    "WeaponId": 1012,
+    "Order": 2,
+    "UnitId": 616
+  },
+  {
+    "Id": 1352,
+    "WeaponId": 914,
+    "Order": 2,
+    "UnitId": 613
+  },
+  {
+    "Id": 1353,
+    "WeaponId": 1012,
+    "Order": 1,
+    "UnitId": 613
+  },
+  {
+    "Id": 1354,
+    "WeaponId": 924,
+    "Order": 3,
+    "UnitId": 613
+  },
+  {
+    "Id": 1355,
+    "WeaponId": 29,
+    "Order": 0,
+    "UnitId": 612
+  },
+  {
+    "Id": 1357,
+    "WeaponId": 1013,
+    "Order": 2,
+    "UnitId": 626
+  },
+  {
+    "Id": 1358,
+    "WeaponId": 1013,
+    "Order": 1,
+    "UnitId": 135
+  },
+  {
+    "Id": 1359,
+    "WeaponId": 1011,
+    "Order": 1,
+    "UnitId": 131
+  },
+  {
+    "Id": 1361,
+    "WeaponId": 643,
+    "Order": 2,
+    "UnitId": 507
+  },
+  {
+    "Id": 1369,
+    "WeaponId": 1015,
+    "Order": 0,
+    "UnitId": 406
+  },
+  {
+    "Id": 1370,
+    "WeaponId": 169,
+    "Order": 4,
+    "UnitId": 354
+  },
+  {
+    "Id": 1371,
+    "WeaponId": 122,
+    "Order": 0,
+    "UnitId": 119
+  },
+  {
+    "Id": 1372,
+    "WeaponId": 122,
+    "Order": 0,
+    "UnitId": 121
+  },
+  {
+    "Id": 1373,
+    "WeaponId": 122,
+    "Order": 0,
+    "UnitId": 357
+  },
+  {
+    "Id": 1374,
+    "WeaponId": 53,
+    "Order": 1,
+    "UnitId": 74
+  },
+  {
+    "Id": 1375,
+    "WeaponId": 1019,
+    "Order": 3,
+    "UnitId": 407
+  },
+  {
+    "Id": 1376,
+    "WeaponId": 517,
+    "Order": 5,
+    "UnitId": 123
+  },
+  {
+    "Id": 1377,
+    "WeaponId": 168,
+    "Order": 4,
+    "UnitId": 404
+  },
+  {
+    "Id": 1378,
+    "WeaponId": 59,
+    "Order": 4,
+    "UnitId": 371
+  },
+  {
+    "Id": 1379,
+    "WeaponId": 59,
+    "Order": 4,
+    "UnitId": 413
+  },
+  {
+    "Id": 1380,
+    "WeaponId": 50,
+    "Order": 1,
+    "UnitId": 701
+  },
+  {
+    "Id": 1381,
+    "WeaponId": 58,
+    "Order": 2,
+    "UnitId": 701
+  },
+  {
+    "Id": 1382,
+    "WeaponId": 60,
+    "Order": 3,
+    "UnitId": 701
+  },
+  {
+    "Id": 1383,
+    "WeaponId": 54,
+    "Order": 4,
+    "UnitId": 701
+  },
+  {
+    "Id": 1384,
+    "WeaponId": 59,
+    "Order": 5,
+    "UnitId": 701
+  },
+  {
+    "Id": 1385,
+    "WeaponId": 631,
+    "Order": 0,
+    "UnitId": 64
+  },
+  {
+    "Id": 1386,
+    "WeaponId": 70,
+    "Order": 0,
+    "UnitId": 277
+  },
+  {
+    "Id": 1387,
+    "WeaponId": 533,
+    "Order": 0,
+    "UnitId": 277
+  },
+  {
+    "Id": 1388,
+    "WeaponId": 53,
+    "Order": 0,
+    "UnitId": 277
+  },
+  {
+    "Id": 1389,
+    "WeaponId": 177,
+    "Order": 0,
+    "UnitId": 419
+  },
+  {
+    "Id": 1390,
+    "WeaponId": 1021,
+    "Order": 0,
+    "UnitId": 66
+  },
+  {
+    "Id": 1391,
+    "WeaponId": 143,
+    "Order": 4,
+    "UnitId": 108
+  },
+  {
+    "Id": 1392,
+    "WeaponId": 32,
+    "Order": 3,
+    "UnitId": 645
+  },
+  {
+    "Id": 1393,
+    "WeaponId": 29,
+    "Order": 0,
+    "UnitId": 704
+  },
+  {
+    "Id": 1394,
+    "WeaponId": 31,
+    "Order": 1,
+    "UnitId": 704
+  },
+  {
+    "Id": 1395,
+    "WeaponId": 160,
+    "Order": 4,
+    "UnitId": 704
+  },
+  {
+    "Id": 1396,
+    "WeaponId": 30,
+    "Order": 2,
+    "UnitId": 704
+  },
+  {
+    "Id": 1397,
+    "WeaponId": 168,
+    "Order": 3,
+    "UnitId": 704
+  },
+  {
+    "Id": 1398,
+    "WeaponId": 50,
+    "Order": 0,
+    "UnitId": 705
+  },
+  {
+    "Id": 1399,
+    "WeaponId": 58,
+    "Order": 0,
+    "UnitId": 705
+  },
+  {
+    "Id": 1400,
+    "WeaponId": 60,
+    "Order": 2,
+    "UnitId": 705
+  },
+  {
+    "Id": 1401,
+    "WeaponId": 65,
+    "Order": 4,
+    "UnitId": 705
+  },
+  {
+    "Id": 1402,
+    "WeaponId": 59,
+    "Order": 3,
+    "UnitId": 705
+  },
+  {
+    "Id": 1403,
+    "WeaponId": 50,
+    "Order": 0,
+    "UnitId": 706
+  },
+  {
+    "Id": 1404,
+    "WeaponId": 58,
+    "Order": 1,
+    "UnitId": 706
+  },
+  {
+    "Id": 1405,
+    "WeaponId": 65,
+    "Order": 5,
+    "UnitId": 706
+  },
+  {
+    "Id": 1406,
+    "WeaponId": 63,
+    "Order": 2,
+    "UnitId": 706
+  },
+  {
+    "Id": 1407,
+    "WeaponId": 54,
+    "Order": 3,
+    "UnitId": 706
+  },
+  {
+    "Id": 1408,
+    "WeaponId": 59,
+    "Order": 4,
+    "UnitId": 706
+  },
+  {
+    "Id": 1409,
+    "WeaponId": 1026,
+    "Order": 2,
+    "UnitId": 610
   }
 ]
